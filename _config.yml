@@ -11,17 +11,17 @@ course:
   # E.g., for http://example.com/530/ you'd enter 530/ for base_path:
   base_path:
   # E.g., ENGL 536
-  number:
-  name:
+  number: ENGCMP 610
+  name: Composing Digital Media
   # Keep the description brief, about 140 chars
-  description:
+  description: Students will learn how to compose a range of critical media objects using web-authoring languages, text, sound, images, and video in proprietary and open-source software.
   # E.g., Spring 2013:
-  term:
+  term: Fall 2017
   instructor:
-    name:
-    office:
-    office_hours:
-    email:
-    phone:
+    name: Dr. Benjamin Miller
+    office: CL 617-N 
+    office_hours: t.b.d. or by appointment
+    email: millerb@pitt.edu
+    phone: 
     # No @ before your username; e.g., twitter, not @twitter
-    twitter:
+    twitter: benmiller314
