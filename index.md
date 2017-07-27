@@ -4,8 +4,7 @@ layout: default
 ---
 
 <div class="alert alert-info">
-
-# Welcome to *Composing Digital Media*
+<h1>Welcome to <i>Composing Digital Media</i></h1>
 
 This course is a course, of course (of course) and no one can forecast a course, of course, that is, of course, unless the course is a kind of SC:Ed...
 
