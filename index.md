@@ -1,6 +1,6 @@
 ---
 title: CDM Home
-layout: default
+layout: topnav
 ---
 
 <div class="alert alert-info">
