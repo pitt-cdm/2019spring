@@ -1,30 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>{{site.course.name}}: {{page.title}}</title>
-
-  <!--Set the viewport to handle responsive design-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <meta name="author" content="{{ site.course.instructor.name }}">
-  <meta name="description" content="{{ site.course.description }}">
-
-  <link rel="stylesheet" media="screen" href="/{{site.course.base_path}}assets/css/screen.css">
-  <link rel="stylesheet" media="print" href="/{{site.course.base_path}}assets/css/print.css">
-
-  <!--[if lt IE 9]>
-    <script src="/{{site.course.base_path}}assets/js/html5.js"></script>
-  <![endif]-->
-
+  {% include sitewide_head.html %}
 </head>
 <body>
-
-<article class="container-fluid">
-
-  <header>
-    {% include course_header.html %}
+<div class="container-fluid background">
+<header>
+    {% include full_header.html %}
   </header>
+
+<article class="col-md-8 col-md-offset-2 foreground">
 
   <section id="content">
     {{content}}
@@ -38,8 +23,8 @@
     {% include credits_and_license.html %}
   </footer>
 
-<article>
-
+</article>
+</div>
 <!--jQuery & Twitter Bootstrap JavaScript-->
 <script type="javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script type="javascript" src="/{{site.course.base_path}}assets/js/bootstrap.min.js"></script>

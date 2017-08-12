@@ -1,2 +1,16 @@
 @import url('bootstrap.min.css');
 @import url('bootstrap-responsive.min.css');
+
+.background {
+	background-color: #00005e;
+	min-height: 740px;
+}
+
+.foreground {
+	background-color: #f7f7f7;
+	min-height: 720px;
+}
+
+header h1, header h2, header h3, header h4 {
+	font-family: asap, calibri, sans-serif;
+}
