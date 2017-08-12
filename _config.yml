@@ -9,19 +9,20 @@ course:
   # or if your site is hosted at a simple URL like http://example.com/
   # But, if something comes after the .com/, you should enter it here.
   # E.g., for http://example.com/530/ you'd enter 530/ for base_path:
-  base_path: fall-2017/
+#  base_path: fall-2017/
   # E.g., ENGL 536
   number: ENGCMP 610
   name: Composing Digital Media
   # Keep the description brief, about 140 chars
-  description: Students will learn how to compose a range of critical media objects using web-authoring languages, text, sound, images, and video in proprietary and open-source software.
+  description: Making the most of multiple modes
   # E.g., Spring 2013:
   term: Fall 2017
+  time: TuTh 11-12:15
+  room: 435 CL
   instructor:
-    name: Dr. Benjamin Miller
+    name: Benjamin Miller
     office: CL 617-N 
     office_hours: t.b.d. or by appointment
     email: millerb@pitt.edu
-    phone: 
     # No @ before your username; e.g., twitter, not @twitter
     twitter: benmiller314
