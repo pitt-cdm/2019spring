@@ -14,3 +14,7 @@
 header h1, header h2, header h3, header h4 {
 	font-family: asap, calibri, sans-serif;
 }
+
+header, page-header {
+	background-color: #f7f7f7;
+}
