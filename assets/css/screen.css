@@ -18,3 +18,19 @@ header h1, header h2, header h3, header h4 {
 header, page-header {
 	background-color: #f7f7f7;
 }
+
+.ftnref {
+    font-size: .83em;
+    line-height: 0.5em;
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+}
+
+.footnote-block {
+	margin: 2.5em 0;
+}
+
+body.thin_header {
+	padding-top: 69px;
+}

@@ -3,23 +3,8 @@
 <head>
   {% include sitewide_head.html %}
 </head>
-<body>
-  <header class="col-xs-12">
-    <div class="row clearfix">
-      <div class="col-xs-12 col-md-5 col-md-offset-1">
-        <h1>Composing Digital Media<br/>
-        <small>{{ site.course.instructor.name }}</small>
-        </h1>
-      </div>
-      <div class="col-xs-12 col-md-5">
-        <h2 class="text-right"><small>
-            {{ site.course.university }}, 
-            {{ site.course.term }}<br/>
-            {{ site.course.time }} |
-            {{ site.course.room }}</small></h2>
-      </div>
-    </div> <!-- end of page-header row -->
-  </header>
+<body class="thin_header"> 
+  {% include thin_header.html %}
 
 <div class="container-fluid background">
   <div id="foreground" class="foreground col-xs-12 col-md-10 col-md-offset-1">
