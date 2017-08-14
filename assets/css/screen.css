@@ -34,3 +34,7 @@ header, page-header {
 body.thin_header {
 	padding-top: 69px;
 }
+
+div#navbar-collapse-1 {
+	margin-top: 9px;
+}
