@@ -1,9 +1,10 @@
 @import url('bootstrap.min.css');
 @import url('bootstrap-responsive.min.css');
 
-.background {
+
+/* Basic color scheme */
+body {
 	background-color: #00005e;
-	min-height: 740px;
 }
 
 .foreground {
@@ -15,10 +16,52 @@ header h1, header h2, header h3, header h4 {
 	font-family: asap, calibri, sans-serif;
 }
 
-header, page-header {
+header, .page-header {
 	background-color: #f7f7f7;
 }
 
+footer {
+    color: #d0d0d0
+}
+footer a {
+    color: #6294f4;
+}
+
+footer a:hover {
+    color: #297fdb;
+}
+
+
+/* Header spacing */
+
+body.thin_header {
+	padding-top: 69px;
+}
+
+div#navbar-collapse-1 {
+	margin-top: 9px;
+}
+
+body.full_header {
+	padding-top: 105px;
+}
+
+div#navbar-collapse-2 {
+	margin-top: -15px;
+}
+
+button#menu-button {
+	margin-top: -3.5em;
+}
+
+img.banner {
+  width: 200%;
+  display: block;
+  margin-left: -50%;
+  margin-right: auto;
+}
+
+/* Footnotes */
 .ftnref {
     font-size: .83em;
     line-height: 0.5em;
@@ -29,12 +72,4 @@ header, page-header {
 
 .footnote-block {
 	margin: 2.5em 0;
-}
-
-body.thin_header {
-	padding-top: 69px;
-}
-
-div#navbar-collapse-1 {
-	margin-top: 9px;
 }
