@@ -85,7 +85,7 @@ For the visual unit, which we'll begin next week, I'd like to build up a shared 
 But to start, I'm going to ask you to dip into that vast universe three times, and **bring back three images depicting the following:**
 <div class="alert alert-success">
 <ul><li>an action</li>
-<li>a setting</li>	<!-- note for next time: replace with season, to set up haiku? -->
+<li>a setting</li>	<!-- note for next time: replace with season, to set up haiku? UPDATE: Better Note for Next Time: instead of finding three rando images, get students thinking about how to draw attention (the goal of the visual unit's major project) by having them take photos of attention-grabbing visuals in their everyday environments. Kickself that I didn't think of this in time. --> 
 <li>an emotion</li>
 </ul>
 </div>
