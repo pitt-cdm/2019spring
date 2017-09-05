@@ -16,247 +16,141 @@ Follow the links to individual class days for more information, including class 
 </div>
 </div>
 
-## Unit I: Setting the Stage
+## Contents:
+
+Unit I | Laying the Ground Work | (weeks 1-2)
+Unit II | Guiding Attention with Visuals | (weeks 2-5)
+Unit III | Transmedia Revision with Audio | (weeks 5-8)
+Unit IV | Webslinging with Markup | (weeks 8-10)
+Unit V | Collaborative Composing | (weeks 10-14)
+Unit VI | Reflection and Revision | (week 15)
+
+<h2 id="unit-1">Unit I: Laying the Ground Work</h2>
+<h3><a href="lesson-01">Lesson 1, Tuesday 8/29</a> – Course introduction: the writers in the room</h3>
+For next time:
+
+* **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). After you've finished the Flash version, skim the pdf version.
+* **Watch** Michael Wesch, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM&amp;feature=youtube_gdata_player)
+* **Buy** the textbook, *Writer/Designer*, by Kristin L. Arola, Jennifer Sheppard, and Cheryl E. Ball. (I've ordered it to the University bookstore.)
+* **Join** this website if you haven't yet, and
+* **Add New Post** to share an introduction of yourself to the rest of the class.
+
+<h3><a href="lesson-02">Lesson 2, Thursday 8/31</a> – What is New Media?</h3>
+For next time:
+
+* **Read** Stolley, [“The Lo-Fi Manifesto, v. 2.0”](http://kairos.technorhetoric.net/20.2/inventio/stolley/)
+* **Watch** Git Basics videos:
+[“#1 What is VCS?”](https://youtu.be/8oRjP8yj2Wo), [“#2 What is Git?”](https://youtu.be/uhtzxPU7Bz0); [#4 Quick Wins with Git”](https://youtu.be/7w5Z7LmyLgI)
+* **Join** [GitHub](https://github.com/) and
+* **Do** the GitHub ["Hello World" guide](https://guides.github.com/activities/hello-world/)
 
-[Tue 8/29 - Lesson 1](/lesson-01)
 
-bring with you: 
+<h3>Lesson 3, Tuesday 9/5 – How lo should we go? Intro to GIMP</h3>
+For next time:
+<ul>
+ 	<li>Read <em>Writer/Designer</em> (W/D) pp. 63-76, plus online components;</li>
+ 	<li>Read Stanford’s Fair Use overview;</li>
+ 	<li>Post a reflection on the reading;</li>
+ 	<li>Find new images, if need be;</li>
+ 	<li>Schedule one-on-one conference with Ben</li>
+</ul>
 
-HW:
+<h2 id="unit-2">Unit II: Guiding Attention with Visuals</h2>
+<em>In this unit, you will design a composite visual text designed to attract a reader’s interest: e.g. a poster or flyer, or a cover for a book or music album.</em>
 
-[Thu 8/31 - Lesson 2](/lesson-02)
+<h3>Lesson 4, Thursday 9/7 – Fair Enough</h3>
+<!-- Fair use / copyright Q&A; 
+     studio time with GIMP, playing around with shared image bank; 
+     major visual project introduced via handout; 
+     begin brainstorming for content and designs (paper recommended for the latter) 
+     3-5 volunteers for full-class workshop in one week? I'll ask you to put your work on the big screen, and we'll take 10 minutes talking through what it's doing, where it's working well, and where it might go next (describe / evaluate / suggest)
+-->
+For next time:
 
-have read:
-bring with you:
+* If you haven't yet done so, **sketch** some ideas for your project
+* **Begin** drafting your project using GIMP or Photoshop
+* **Track** your progress using Git and push to GitHub periodically
+* **Find and watch** online tutorials in pursuit of the effects you want <!-- point to Lynda -->
+* **Read** *Writer/Designer* (W/D) chapters 1 and 2
 
+<h3>Lesson 5, Tuesday 9/12 – Sharing Skills, Setting Goals</h3>
+<!-- small group skills-sharing from tutorials;
+     derive baseline and stretch criteria for visual media project;
+     EXT: git skills support + studio for those who don't need it
+-->
+<!--
+For next time:
 
-HW:
+* If you're being workshopped, **bring** a working draft of your visual media project, as a Photoshop- or GIMP-native file 
+* Everyone, **push** a draft for me to give feedback on.
+-->
 
-[Tue 9/5 - Lesson 3](/lesson-03)
+<h3>Lesson 6, Thursday 9/14 – Full-class workshop</h3>
+<!-- aim for 10 minutes each for 5 volunteers, using the baseline criteria as a starting point.
+     end class with a reflection on the criteria (can post or email) and personal aspirations (can stay private)
+-->
+<!--
+For next time:
 
-have read:
-bring with you:
+* **Read** about fonts via FontSquirrel
+* **Work** on your project; incorporate two fonts as a generative constraint
+-->
 
+<h3>Lesson 7, Tuesday 9/19 – Studio</h3>
+<!--
+For next time:
 
-HW:
+* **Finish**, at least for now, your visual project (deadline: 9/26)
+* **Write** a process reflection: how did you meet the criteria? What are you wondering? What would you do if you had more time?
+* **Bring** headphones; we start the audio unit next class!
 
-[Thu 9/7 - Lesson 4](/lesson-04)
+<div class="alert alert-warning">Note that there is <strong>no class on Thursday, 9/21</strong>, for the Jewish holiday of Rosh Hashanah. So our next class is next Tuesday. See you then!
+-->
+<hr / >
+<em>I’ll fill in the rest of these lessons and homeworks online, as we go, but here are the essential dates:</em>
 
-have read:
-bring with you:
+<h2>Unit III: Transmedia Revision (audio)</h2>
+<em>In this unit, you will re-imagine a text you’ve previously written using only alphanumeric text, and rewrite and record it for the ear.</em>
 
 
-HW:
+Th 10/5           Audio project due for workshop
 
-[Tue 9/12 - Lesson 5](/lesson-05)
+<strong>Tu 10/10         No class: Pitt Monday</strong>
 
-have read:
-bring with you:
+Tu 10/17         Audio project “final” draft due
 
+&nbsp;
+<h2>Unit IV: Webslinging (html+css markup)</h2>
+<em>In this unit, you will modify and publish an html+css template, supplying new content for a collaborative project pitch. </em>
 
-HW:
+<em> </em>
 
-[Thu 9/14 - Lesson 6](/lesson-06)
+Tu 10/24         Pitch draft due for workshop
 
-have read:
-bring with you:
+Tu 10/31         Pitches due; project vote
 
+&nbsp;
+<h2>Unit V: Collaborative Composing</h2>
+<em>The deadlines and assignments here will vary from group to group, according to a team contract and more formal project proposal.</em>
 
-HW:
+&nbsp;
 
+Th 11/2           Team contract due
 
-## Unit II: 
+Th 11/9           Project proposal due
 
-[Tue 9/19 - Lesson 7](/lesson-07)
+&nbsp;
 
-have read:
-bring with you:
+Tu 11/21         (Class does, in fact, meet this day)
 
+<strong>Th 11/23         No class: Thanksgiving</strong>
 
-HW:
+&nbsp;
 
-Thu 9/21 - 
+Th 12/7           Last day of class; final project presentations
 
-No class - Rosh Hashanah
+&nbsp;
 
+&nbsp;
 
-HW:
-
-[Tue 9/26 - Lesson 8](/lesson-08)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Thu 9/28 - Lesson 9](/lesson-09)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Tue 10/3 - Lesson 10](/lesson-10)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Thu 10/5 - Lesson 11](/lesson-11)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Tue 10/10 - Lesson 12](/lesson-12)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Thu 10/12 - Lesson 13](/lesson-13)
-
-have read:
-bring with you:
-
-
-HW:
-
-## Unit III:
-
-[Tue 10/17 - Lesson 14](/lesson-14)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Thu 10/19 - Lesson 15](/lesson-15)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Tue 10/24 - Lesson 16](/lesson-16)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Thu 10/26 - Lesson 17](/lesson-17)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Tue 10/31 - Lesson 18](/lesson-18)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Thu 11/2 - Lesson 19](/lesson-19)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Tue 11/7 - Lesson 20](/lesson-20)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Thu 11/9 - Lesson 21](/lesson-21)
-
-have read:
-bring with you:
-
-
-HW:
-
-## Unit IV: 
-
-[Tue 11/14 - Lesson 22](/lesson-22)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Thu 11/16 - Lesson 23](/lesson-23)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Tue 11/21 - Lesson 24](/lesson-24)
-
-have read:
-bring with you:
-
-
-HW:
-
-Thu 11/23
-
-No class - Thanksgiving
-
-
-HW:
-
-[Tue 11/28 - Lesson 25](/lesson-25)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Thu 11/30 - Lesson 26](/lesson-26)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Tue 12/5 - Lesson 27](/lesson-27)
-
-have read:
-bring with you:
-
-
-HW:
-
-[Thu 12/7 - Lesson 28](/lesson-28)
-
-have read:
-bring with you:
-
-<a class="ftn" id="ftn1" href="#ftnref1">[1]</a> This is not my way of being mean, but rather an effort to encourage you to (a) sleep and (b) leave yourself time to discover and work through difficulty. If you aim for 10pm and hit an unexpected challenge, you might finish by midnight. If you aim for 10am and hit an unexpected challenge, you might not be ready for class.
-
+<em>Final portfolios will be due at the final exam slot, which has not yet been announced.</em>
