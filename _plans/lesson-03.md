@@ -50,7 +50,7 @@ I'm not interested in your mastering this particular piece of software. What I'm
 <li>Open GIMP (or Photoshop, if GIMP isn't here yet) and File > Import as Layers</li>
 <li>Play around with layers and selections to get a sense of what it can do<ul><li>ALT:if you're already familiar with image editing tools, have some fun with your files! Show off to or give guidance to your classmates!</li></ul></li>
 <li>Have a look at your revision history. In what ways is this like what Git lets you do? In what ways is it different? Can you think of any ways to combine the two?</li>
-<li>When you've had a chance to play around for a while, <ul><li><em>save the project</em> to your Box/Dropbox/Drive, and</li><li><em>export the image</em> as a .png file.</li></ul></li>
+<li>When you've had a chance to play around for a while, <em>save the project</em> to your Box/Dropbox/Drive, <strong>and</strong> <em>export the image</em> as a .png file.</li>
 </ol>
 </div>
 
@@ -73,10 +73,23 @@ I'm further taking advantage of the affordances of WordPress and dynamically que
 
 [gallery orderby="rand" type="rectangular" media_category="14"]
 
-### 
+
+### Studio Time: Working with Git / GitHub
+I want to suggest that you commit your changes to the image files you're working on, both to get comfortable working with the system, and to get you into the habit of saving a commit message every so often. (So much better than just hitting save and overwriting your previous iteration, and having no idea when you come back to it, two days or two weeks or even two months later, what you were actually working on.)
+
+BUT I'm not sure if these lab computers have Git installed, or if they'll let you install it if they don't. SO if you have your own computer, by all means proceed!
+
+Here's a super-quick [installation overview](https://gist.github.com/derhuerst/1b15ff4652a867391f03) (posted using GitHub's "gist" system for publishing quick one-page snippets).
+
+Alternately, you can download the [GitHub desktop application](https://desktop.github.com/), which, despite Gabi's legitimate concern that we [get over any fears of the command line](https://cdm2017.majoringinmeta.net/an-argument-for-lo-fi-github-use-and-learning-more-about-your-computer-generally/), is actually quite handy for partial-file commits and intuitive diff views. Yeah, it can't do everything; it can get you more comfortable with the flow, so you know what commands to *want* to give in the command line.
 
 
+If all else fails, you can use the GUI on [the GitHub website](https://github.com) to create a new repository ("repo") and upload files to it, with commit messages. This approach has limits: for one, it's a lot harder to wrap several file changes in a single commit.
 
+
+I'll float around and see where I can be helpful!
+
+EXT: there's always the option, in a studio class, to start on the homework.
 
 
 ## Homework for Next Time
