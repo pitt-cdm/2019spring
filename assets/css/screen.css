@@ -1,6 +1,4 @@
 @import url('bootstrap.min.css');
-@import url('bootstrap-responsive.min.css');
-
 
 /* Basic color scheme */
 body {
@@ -22,6 +20,8 @@ header, .page-header {
 
 footer {
     color: #d0d0d0
+    bottom: 0;
+
 }
 footer a {
     color: #6294f4;
@@ -72,4 +72,6 @@ img.banner {
 
 .footnote-block {
 	margin: 2.5em 0;
+	font-size: 0.8em;
 }
+
