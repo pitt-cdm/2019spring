@@ -25,14 +25,14 @@ To get to my office, which is CL 617 N, go through the doors closest to the elev
 <dd>A portal for searching multiple sites that have built-in CC licensing, including flickr, jamendo, and ccmixter</dd>
 
 <dt><a href="https://www.fontsquirrel.com/">Font Squirrel</a></dt>
-<dd>Fonts that are free for personal *and* commercial uses, making them especially handy for advertising campaigns and the like.
+<dd>Fonts that are free for personal <em>and</em> commercial uses, making them especially handy for advertising campaigns and the like.
  The site also includes some useful educational resources for learning more about font history and font selection.</dd>
 
 <dt><a href="https://thenounproject.com/">The Noun Project</a></dt>
 <dd>A liberally licensed icon sets aiming to create "icons for everything," though as the name suggests, they specialize in <em>things</em>, rather than actions. If you realize you don't want all the detail of a photo when a simple line drawing would get the idea across, try searching their million-plus collection.</dd>
 
 <dt><a href="https://unsplash.com/">Unsplash</a></dt>
-<dd>I just found out about this one at the start of the semester, and I'm pretty excited: it's a collection of high-res, large-scale images that are free for personal *and* commercial uses; they may be especially useful for splashy website headers.</dd>
+<dd>I just found out about this one at the start of the semester, and I'm pretty excited: it's a collection of high-res, large-scale images that are free for personal <em>and</em> commercial uses; they may be especially useful for splashy website headers.</dd>
 
 <dt><a href="https://color.adobe.com/create/color-wheel/">Adobe Color CC</a></dt>
 <dt><a href="http://paletton.com/">Paletton</a></dt>
