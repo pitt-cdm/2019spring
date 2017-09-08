@@ -24,6 +24,7 @@ Unit III | Transmedia Revision with Audio | (weeks 5-8)
 Unit IV | Webslinging with Markup | (weeks 8-10)
 Unit V | Collaborative Composing | (weeks 10-14)
 Unit VI | Reflection and Revision | (week 15)
+{: .table }
 
 <h2 id="unit-1">Unit I: Laying the Ground Work</h2>
 <h3><a href="lesson-01">Lesson 1, Tuesday 8/29</a> – Course introduction: the writers in the room</h3>
