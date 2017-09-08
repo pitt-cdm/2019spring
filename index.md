@@ -7,7 +7,7 @@ This course requires students to compose digital media while exploring the rheto
 <nav>
   <ul class="nav nav-pills">
     <li role="navigation"><a class="list-group-item" href="schedule.html">Schedule</a></li>
-    <li role="navigation"><a class="list-group-item" href="assignments.html">Assignments</a></li>
+    <li role="navigation"><a class="list-group-item" href="projects.html">Projects</a></li>
     <li role="navigation"><a class="list-group-item" href="resources.html">Resources</a></li>
     <li role="navigation"><a class="list-group-item" href="office.html">Office Hours</a></li>
   </ul>
