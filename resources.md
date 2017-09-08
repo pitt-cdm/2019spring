@@ -28,9 +28,35 @@ To get to my office, which is CL 617 N, go through the doors closest to the elev
 <dd>Fonts that are free for personal *and* commercial uses, making them especially handy for advertising campaigns and the like.
  The site also includes some useful educational resources for learning more about font history and font selection.</dd>
 
+<dt><a href="https://thenounproject.com/">The Noun Project</a></dt>
+<dd>A liberally licensed icon sets aiming to create "icons for everything," though as the name suggests, they specialize in <em>things</em>, rather than actions. If you realize you don't want all the detail of a photo when a simple line drawing would get the idea across, try searching their million-plus collection.</dd>
+
 <dt><a href="https://unsplash.com/">Unsplash</a></dt>
 <dd>I just found out about this one at the start of the semester, and I'm pretty excited: it's a collection of high-res, large-scale images that are free for personal *and* commercial uses; they may be especially useful for splashy website headers.</dd>
 
+<dt><a href="https://color.adobe.com/create/color-wheel/">Adobe Color CC</a></dt>
+<dt><a href="http://paletton.com/">Paletton</a></dt>
+<dt><a href="http://www.color-hex.com/">Color-Hex</a></dt>
+<dd>Tools for color selection, for when you want to find a palette of complementary tones, or just to find the hex codes along an axis of saturation or intensity.</dd>
+
+
+</dl>
+
+## Unit-Specific Resources
+*This section will expand as we move forward; feel free to suggest others that you come across!*
+
+### Visual
+Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FontSquirrel and The Noun Project especially pertinent here.
+<dl>
+<dt>GIMP Tutorials</dt>
+<dd>You can find quite a few intro-level tutorials on the GIMP site itself, at <a href="https://www.gimp.org/tutorials">www.gimp.org/tutorials</a>, including "GIMP Quickies" and a tutorial on layer manipulation called "Simple Floating Logo."</dd>
+
+<dt>Examples of Static Visual Appeals</dt>
+<dd><a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought</a>, a collection of academic infographics by Nathaniel Rivers. In addition to being useful for how he handles design elements, quotation, and citation, some of the content deals with ideas on multimedia composing and rhetoric.</dd>
+</dl>
+
+### Web Design
+<dl>
 <dt><a href="https://templated.co/">templated.co</a></dt>
 <dt><a href="https://html5up.net/">html5up.net</a></dt>
 <dd>There are a lot of websites that offer collections of free website themes and templates. These are two of my favorite sources for starting up static sites with built-in semantic html5 and responsive css.</dd>
