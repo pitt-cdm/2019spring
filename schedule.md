@@ -27,7 +27,7 @@ Unit VI | Reflection and Revision | (week 15)
 {: .table }
 
 <h2 id="unit-1">Unit I: Laying the Ground Work</h2>
-<h3><a href="lesson-01">Lesson 1, Tuesday 8/29</a> – Course introduction: the writers in the room</h3>
+<h3><a href="_plans/lesson-01.md">Lesson 1, Tuesday 8/29</a> – Course introduction: the writers in the room</h3>
 For next time:
 
 * **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). After you've finished the Flash version, skim the pdf version.
@@ -36,7 +36,7 @@ For next time:
 * **Join** this website if you haven't yet, and
 * **Add New Post** to share an introduction of yourself to the rest of the class.
 
-<h3><a href="lesson-02">Lesson 2, Thursday 8/31</a> – What is New Media?</h3>
+<h3><a href="_plans/lesson-02.md">Lesson 2, Thursday 8/31</a> – What is New Media?</h3>
 For next time:
 
 * **Read** Stolley, [“The Lo-Fi Manifesto, v. 2.0”](http://kairos.technorhetoric.net/20.2/inventio/stolley/)
@@ -46,7 +46,7 @@ For next time:
 * **Do** the GitHub ["Hello World" guide](https://guides.github.com/activities/hello-world/)
 
 
-<h3>Lesson 3, Tuesday 9/5 – How lo should we go? Intro to GIMP</h3>
+<h3><a href="_plans/lesson-03.md">Lesson 3, Tuesday 9/5</a> – How lo should we go? Intro to GIMP</h3>
 For next time:
 <ul>
  	<li>Read <em>Writer/Designer</em> (W/D) pp. 63-76, plus online components;</li>
@@ -59,7 +59,7 @@ For next time:
 <h2 id="unit-2">Unit II: Guiding Attention with Visuals</h2>
 <em>In this unit, you will design a composite visual text designed to attract a reader’s interest: e.g. a poster or flyer, or a cover for a book or music album.</em>
 
-<h3>Lesson 4, Thursday 9/7 – Fair Enough</h3>
+<h3><a href="_plans/lesson-04.md">Lesson 4, Thursday 9/7</a> – Fair Enough</h3>
 <!-- Fair use / copyright Q&A; 
      studio time with GIMP, playing around with shared image bank; 
      major visual project introduced via handout; 
