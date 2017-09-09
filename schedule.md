@@ -110,45 +110,39 @@ For next time:
 <hr / >
 <em>I’ll fill in the rest of these lessons and homeworks online, as we go, but here are the essential dates:</em>
 
-<h2>Unit III: Transmedia Revision (audio)</h2>
+<h2 id="unit-3">Unit III: Transmedia Revision (audio)</h2>
 <em>In this unit, you will re-imagine a text you’ve previously written using only alphanumeric text, and rewrite and record it for the ear.</em>
 
 
-Th 10/5           Audio project due for workshop
-
-<strong>Tu 10/10         No class: Pitt Monday</strong>
-
-Tu 10/17         Audio project “final” draft due
+| Th 10/5 | Audio project due for workshop |
+-----
+| **Tu 10/10** | **No class: Pitt Monday** |
+-----
+| **Tu 10/17** | **Audio project “final” draft due |
+{: .table }
 
 &nbsp;
-<h2>Unit IV: Webslinging (html+css markup)</h2>
+<h2 id="unit-4">Unit IV: Webslinging (html+css markup)</h2>
 <em>In this unit, you will modify and publish an html+css template, supplying new content for a collaborative project pitch. </em>
 
-<em> </em>
 
-Tu 10/24         Pitch draft due for workshop
-
-Tu 10/31         Pitches due; project vote
+| Tu 10/24 |  Pitch draft due for workshop |
+------
+| Tu 10/31 |  Pitches due; project vote |
+{: .table }
 
 &nbsp;
-<h2>Unit V: Collaborative Composing</h2>
+<h2 id="unit-5">Unit V: Collaborative Composing</h2>
 <em>The deadlines and assignments here will vary from group to group, according to a team contract and more formal project proposal.</em>
 
-&nbsp;
-
-Th 11/2           Team contract due
-
-Th 11/9           Project proposal due
-
-&nbsp;
-
-Tu 11/21         (Class does, in fact, meet this day)
-
-<strong>Th 11/23         No class: Thanksgiving</strong>
-
-&nbsp;
-
-Th 12/7           Last day of class; final project presentations
+| Th 11/2 |  Team contract due |
+------
+| Th 11/9 |  Project proposal due |
+| Tu 11/21  |  (Class does, in fact, meet this day... unless we can't get quorum) |
+| **Th 11/23** |  **No class: Thanksgiving** |
+------
+| Th 12/7 |  Last day of class; final project presentations |
+{: .table }
 
 &nbsp;
 
