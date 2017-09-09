@@ -74,8 +74,34 @@ One final, related note: this site is public and searchable on the open web, as 
 
 
 
+### Visual Unit Project, introduced
+There's a <a href="https://cdm2017.majoringinmeta.net/documents/2017/09/prompt-for-assignment-1.pdf">handout</a>, but here are the basics:
 
+* **The goal** is to produce a single composite image that draws attention to something of your choice. 
+* **Related genres** include posters, fliers, album covers, book covers, infographics, maybe even bookmarks. 
+ * There's no need to print these out, since full-bleed printing and stock paper get expensive.
+* **The first draft** is due in one week (Th 9/14), when we'll have workshop. (Between now and then, I'll ask for volunteers to go first; maybe people with a lot of experience doing this kind of thing?) The **final draft** is due in 2.5 weeks (Tu 9/26).
+* **The content** is up to your interests: what do you want to direct the rest of the class's attention to?
+ * *Parachute prompt:* If you can't think of anything else, make an infographic about one of the reading assignments, i.e. on the Five Principles of New Media, or on the Lo-Fi Manifesto, or on Fair Use. For some examples of academic infographics, see the <a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought tumblr</a>, showcasing work by Nathaniel Rivers, a professor at St. Louis University.
+ * ALT: You may, if you wish, do a major redesign of an existing visual appeal; if you want to take this option, though, please run it by me first. 
 
+As for **the criteria**, we'll be talking next week about what you think should be the *minimum baselines* – the hurdles you hope everyone can achieve, even given limited time – and a range of *aspirational goals* that will be optional, but can offer ways to earn above a B (even if you try them and they don't work out).
+
+Questions?
+
+If time allows, I'd asked Annie to give a little mini-lesson on designing and the Rule of Threes. Thanks, Annie!
+
+### Studio Time / Planning and Sketching
+I'm going to give you the rest of the day to work on your projects, and to call me over with questions that Google can't help you with. 
+
+<div class="alert alert-success">
+Recommended starting points; either pick one or do them in sequence:
+<ul>
+<li>Take a few minutes to make a list of the possibilities for your content. What are you interested in or excited about right now, that you might want to share with others?</li>
+<li>If you know you want to work in a particular genre, take a few minutes to think over examples of that genre that struck you as excellent. What were they doing that caught your eye? What's happening or appealing in your life right now that their designs remind you of?</li>
+<li>Make 2-4 different design sketches on paper, then try to make them happen in software.</li>
+</ul>
+</div>
 
 ## Homework for Next Time
 
@@ -84,7 +110,10 @@ One final, related note: this site is public and searchable on the open web, as 
  2. If you have filled out the survey, please **[schedule a conference](https://benmiller314.youcanbook.me)** with me at your convenience. 
  3. **Install** git on a machine that you're likely to use at home
 * **Inputs**
- 1. **Read** 
- 2. **Find**
-
+ 1. **Read** *Writer/Designer* chapters 1 ("What are Multimodal Projects?") and 2 ("Analyzing Multimodal Projects"), including especially the online definitions. 
+ 2. **Watch or read** tutorials and walkthroughs for the particular things you want to do in GIMP or git.
 * **Outputs**
+ 1. Begin work on your visual project to get a sense of what's easily doable for you, and what's starting to look like a reach.
+ 2. At least once per working session, save a new commit to git and give it a descriptive message about the state of the project or what you were trying to do. 
+  * Note that you can add any number of any type of files to this commit, so feel free to include text-based planning documents or take photos of your design sketches and throw those in there, too.
+ 3. Be ready to share in small groups one thing you've figured out how to do in GIMP.
