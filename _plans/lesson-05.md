@@ -1,4 +1,4 @@
-## Fair Enough
+## Sharing Skills, Setting Goals
 **Texts to have read**:
 
 * chapters 1 and 2 in *Writer/Designer*, on defining and analyzing multimodal projects
@@ -12,7 +12,7 @@
 
 Today we'll be going in and out of groups, which I've left alone for the time being:
 
-* Alyssa, Abby, Gabi
+* Abby, Alyssa, Gabi
 * Annie, Lucas, Taylor
 * Caleb, Jack, Sammie
 * Casey R, Jojo, Will
@@ -50,16 +50,47 @@ You already have the <a href="https://cdm2017.majoringinmeta.net/documents/2017/
 
 
 ### Sharing plans and progress (20-30 min)
-In groups, bring each other up to speed. It may be useful to use the terms from *Writer/Designer*: who is your *audience*? what's the *context*? do you have any additional *purpose* for the document, apart from the general one in the prompt? what *authorial ethos* do you want to project? what does that suggest you use for *genre*?
+In groups, bring each other up to speed. 
 
-### Building criteria
+It may be useful to use the terms from *Writer/Designer*: who is your *audience*? what's the *context*? do you have any additional *purpose* for the document, apart from the general one in the prompt? what *authorial ethos* do you want to project? what does that suggest you use for *genre*?
 
-### Analytical tools as generative heuristics
+### Building criteria (40-45 min total)
+We'll start in groups here, then discuss as a full class. 
+
+Remember, every time you get in groups, to figure out who's the *timekeeper*; who's the *historian*, taking lead on taking notes; and who's the *diplomat*, making sure participation is balanced. (Hint: Usually, the first person to ask who wants which role is the diplomat.)
+
+#### Group brainstorm (10 min)
+To bring all our notes together while allowing for real-time collaboration, **use [this google doc](http://bit.ly/cdm2017fall).** 
+
+<div class="alert alert-success">
+<strong>Task:</strong>
+Given the goals of the assignment and what you've been able to figure out so far about your particular project goals, how will we know if you've succeeded? What constitutes a minimum set of criteria for this assignment?
+
+Beyond that minimum, what would be some <em>good</em> goals to strive for, even if not everyone should expect to achieve them?
+</div>
+
+Take 10 minutes in groups to make some lists.
+
+Might I suggest again turning to some of the terms in *W/D*?
+
+
+#### Analytical tools as generative heuristics (food for groupthought)
 
 The authors of *Writer/Designer* offered us a bunch of lenses to use when we examine any multimodal text:
 
-<div class="row clearfix">
-<div class="col-xs-12 col-sm-6 pull-left">
+<div class="container-fluid row">
+<div class="col-xs-12 col-sm-4 float-right">
+<strong>Modes</strong>
+<ul>
+<li>linguistic</li>
+<li>visual</li>
+<li>aural</li>
+<li>spatial</li>
+<li>gestural</li>
+</ul>
+</div><!-- /modes -->
+
+<div class="col-xs-12 col-sm-4 float-right">
 <strong>Rhetorical Situation</strong>
 <ul>
 <li>audience</li>
@@ -68,9 +99,9 @@ The authors of *Writer/Designer* offered us a bunch of lenses to use when we exa
 <li>author / ethos</li>
 <li>genre</li>
 </ul>
-</div> <!-- /.pull-left -->
+</div> <!-- /rhetorical-situation -->
 
-<div class="col-xs-12 col-sm-6 pull-right">
+<div class="col-xs-12 col-sm-4 float-right">
 <strong>Design Elements</strong>
 <ul>
 <li>emphasis</li>
@@ -79,16 +110,37 @@ The authors of *Writer/Designer* offered us a bunch of lenses to use when we exa
 <li>alignment</li>
 <li>proximity</li>
 </ul>
-</div> <!-- /.pull-right -->
-</div> <!-- /.row -->
+</div> <!-- /design-elements -->
+</div> <!-- /.container-fluid -->
+
+By asking yourself what you see when you put each lens up to your eye, you can begin to notice different features in a multimodal text. But you can also use those lenses to imagine what you might *want* to notice – what you might want *to build*.
+
+Without getting caught up in trying every combination, play around with these terms and see what they suggest for criteria in the context of this unit, this project. 
+
+
+#### Let's talk! (20-30 min)
+Quickly read through the other groups' notes, and as you see overlap, propose an official version for our list of shared criteria.
+
+We'll refine as a group, and repeat. 
+
+This process could probably take as much time as we can give it, but let's stop with 10 minutes left in class to make sure there's time for announcements. We'll be able to revise these after testing them out in workshop on Thursday.
 
 
 
+### Before we leave...
 
+1. Add me as a collaborator to your project repository on GitHub:
+[!["steps to add a collaborator (text instructions follow below image)"]({{site.baseurl}}assets/img/add-a-collaborator-to-a-gh-repo-cover.png)]({{site.baseurl}}assets/img/add-a-collaborator-to-a-gh-repo.gif)
+ a. From your repository on GitHub, click on the "Settings" menu
+ b. You'll get a navigation menu on the left; select "Collaborators"
+ c. Search by username for 'benmiller314' – that's me!
+ d. Click the "Add collaborator" button.
+2. Can I have 3-5 volunteers to have your project workshopped on Thursday? 
+ * I'll ask you to put your work on the big screen, and we'll take 10 minutes talking through what it's doing, where it's working well, and where it might go next (describe / evaluate / suggest)
+ * I know there were several of you who professed to a high comfort level creating / working on primarily visual texts...?
 
-
-### Studio Time / Planning and Sketching
-I'm going to give you the rest of the day to work on your projects, and to call me over with questions that Google can't help you with. 
+### EXT: Studio Time / Planning and Sketching
+If we somehow finish this conversation early, feel free to use the remaining time to work.
 
 <div class="alert alert-success">
 Recommended starting points; either pick one or do them in sequence:
@@ -99,17 +151,6 @@ Recommended starting points; either pick one or do them in sequence:
 </ul>
 </div>
 
-## Before we leave...
-
-1. Add me as a collaborator to your project repository on GitHub:
-!["screencast showing steps to add a collaborator"]({{site.baseurl}}assets/img/add-a-collaborator-to-a-gh-repo.gif)
- a. From your repository on GitHub, click on the "Settings" menu
- b. You'll get a navigation menu on the left; select "Collaborators"
- c. Search by username for 'benmiller314' – that's me!
- d. Click the "Add collaborator" button.
-2. Can I have 3-5 volunteers to have your project workshopped on Thursday? 
- * I'll ask you to put your work on the big screen, and we'll take 10 minutes talking through what it's doing, where it's working well, and where it might go next (describe / evaluate / suggest)
- * I know there were several of you who professed to a high comfort level creating / working on primarily visual texts...
 
 ## Homework for Next Time
 
@@ -119,6 +160,8 @@ Recommended starting points; either pick one or do them in sequence:
  3. You may also want to add your groupmates as collaborators, to facilitate feedback...
 * **Inputs**
  1. Review the collaborative criteria that we developed today.
+ 2. Review any terms or concepts from prior readings that you want to firm up.
+ 3. Continue finding and viewing tutorials for specific skills, as needed. If you find an awesome one, let us know by adding a comment on [my GitHub Issue Queue for this course](https://github.com/benmiller314/fall-2017/issues/1).
 * **Outputs**
  1. If you're being workshopped, **bring** a working draft of your visual media project, as a Photoshop- or GIMP-native file, on a flash drive or accessible cloud account. (We need to get it to the projecting computer.)
- 2. Everyone, 
+ 2. Everyone, **push** a draft for me to give feedback on. (If you're not sure what that means, email me.)
