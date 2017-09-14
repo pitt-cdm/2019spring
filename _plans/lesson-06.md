@@ -58,7 +58,7 @@ If anyone's having trouble pushing to GitHub, or adding me as a collaborator, le
 * **Administrative**
  1. Next class will be all studio time, all the time. Bring what you might need to be at your most productive.
 * **Inputs**
- 0. Read up on fonts from one of the most popular free font repositories, <a href="www.fontsquirrel.com">Font Squirrel</a>, starting with their <a href="https://www.fontsquirrel.com/resources/getting-started">"Getting Started"</a> guide and branching from there based on your interest.
+ 0. Read up on fonts from one of the most popular free font repositories, <a href="https://www.fontsquirrel.com">Font Squirrel</a>, starting with their <a href="https://www.fontsquirrel.com/resources/getting-started">"Getting Started"</a> guide and branching from there based on your interest.
  1. Review the collaborative criteria that we developed this week.
  2. Review any terms or concepts from prior readings that you want to firm up.
  3. Continue finding and viewing tutorials for specific skills, as needed. If you find an awesome one, let us know by adding a comment on [my GitHub Issue Queue for this course](https://github.com/benmiller314/fall-2017/issues/1).
