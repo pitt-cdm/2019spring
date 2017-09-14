@@ -15,8 +15,26 @@
 [toc title="Plan for the Day" tag="h2"]
 
 ### Unit 1 Criteria, revisited (15 min)
+I've taken the liberty of compiling what I thought was the gist of all your group notes on criteria for this unit, and putting them into a second draft on the [Google doc](http://bit.ly/cdm2017fall).
+
+Let's have a look!
+
+Executive summary of changes:
+
+* Baseline criteria are divided: in the visual itself, and in the artist's statement
+* I've also added submission guidelines, whole cloth (not compiled from you at all, because we'd so far not mentioned them – oops)
+* There were a few things some groups suggested as baseline that I'm not sure everyone's on board with, but maybe you all are?
+
 
 ### A Workshop Strategy: describe, evaluate, suggest (5 min)
+
+There's a [handout](assets/handout-describe-evaluate-suggest-workshop-multimodal.rtf) with more detail.
+
+1. **Describe:** What is the piece, and what's it trying to do?
+2. **Evaluate:** Given the goals of the writer and the unit, where's the piece working well? Where’s it getting stuck?
+3. **Suggest:** Given what’s working and what’s not, how can the writer get more of it to work?
+4. **Plan:** What's the take-away?
+
 
 ### Workshop!
 
@@ -28,6 +46,7 @@
 ### Revisit criteria (10 min)
 Take a few minutes to write: realistically speaking, what are your personal aspirations with this project? Do you think anything needs to be altered from our baseline criteria?
 
+If you have changes, please share them as comments on that google doc, or start an email thread with all of us (you can reply-all to one of my emails to you), to make sure we can all see it.
 
 ### Before we leave...
 
