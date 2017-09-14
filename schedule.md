@@ -74,7 +74,7 @@ For next time:
 * **Find and watch** online tutorials in pursuit of the effects you want <!-- point to Lynda -->
 * **Read** *Writer/Designer* (W/D) chapters 1 and 2
 
-<h3>Lesson 5, Tuesday 9/12 – Sharing Skills, Setting Goals</h3>
+<h3><a href="_plans/lesson-05">Lesson 5, Tuesday 9/12</a> – Sharing Skills, Setting Goals</h3>
 <!-- small group skills-sharing from tutorials;
      derive baseline and stretch criteria for visual media project;
      EXT: git skills support + studio for those who don't need it
@@ -86,7 +86,7 @@ For next time:
 * Everyone, **push** a draft for me to give feedback on.
 -->
 
-<h3>Lesson 6, Thursday 9/14 – Full-class workshop</h3>
+<h3><a href="_plans/lesson-06">Lesson 6, Thursday 9/14</a> – Full-class workshop</h3>
 <!-- aim for 10 minutes each for 5 volunteers, using the baseline criteria as a starting point.
      end class with a reflection on the criteria (can post or email) and personal aspirations (can stay private)
 -->
