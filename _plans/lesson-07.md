@@ -56,8 +56,10 @@ EXT: If you finish early, <ul style="list-style-type:lower-alpha">
 Important reminder: there will be <strong>no class this Thursday, 9/21</strong>, because of the Jewish holiday of Rosh Hashanah.
 </div>
 
+I've also decided to cancel class the Tuesday before Thanksgiving, in deference to local custom.
+
 * **Outputs**
-The final copy of the visual unit project – including a prose reflection – is due to GitHub, following the guidelines in the [Google doc](http://bit.ly/cdm2017fall), before the start of class on Tuesday, September 26th – i.e. **one week from today.** Aim to have it complete by 10pm the night before, so you have some cushion if it takes longer than you expect.
+**The final copy of the visual unit project – including a prose reflection – is due to GitHub**, following the guidelines in the [Google doc](http://bit.ly/cdm2017fall), before the start of class on Tuesday, September 26th – i.e. **one week from today.** Aim to have it complete by 10pm the night before, so you have some cushion if it takes longer than you expect.
 
 * **Inputs**
  * I'll have more information when we meet again for how we'll move through the next unit, which is focused on sound. 
