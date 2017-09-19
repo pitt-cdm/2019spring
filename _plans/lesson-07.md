@@ -31,7 +31,17 @@ Take a few minutes to write, just as we did last time:
 If you have changes to suggest, please share them as comments on that [Google doc](http://bit.ly/cdm2017fall), to make sure we can all see it.
 
 ### Studio
-Spend the rest of the time working on your projects. I'll float around, and if I seem to be busy, check with your groupmates while you're waiting: chances are, someone will have a way to help.
+
+**Spend the rest of the time working on your projects.** I'll float around, and if I seem to be busy, check with your groupmates while you're waiting: chances are, someone will have a way to help.
+
+EXT: If you finish early, 
+
+(a) Have you also finished your reflection / artists' statement? Does it reference the shared criteria and your goals? Have you made the case that you're meeting any of the aspirational goals?
+(b) Call me over; maybe there's another level of ambition you can unlock, perhaps on a new git branch. Perhaps branching *is* the new level of ambition.
+(c) See if anyone else needs help! You seem to be good at this. At the very least, if two people finish early, you can exchange ideas and get feedback on your draft.
+(d) If you somehow got through all of that and aren't sure what to do next, get a head start on the audio unit (see below) by reading the [Audacity tour guide](http://manual.audacityteam.org/index.html#using).
+
+
 
 ## For Next Time
 
