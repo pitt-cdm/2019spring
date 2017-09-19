@@ -8,12 +8,17 @@
 
 * Continue working on your project, adding at least one new commit (with a .png and .xcf or equivalent) for each working session, with a meaningful commit message.
 
+<!--
+[toc tag="h2" title="Plan for the Day"]
+-->
 
 ### One more workshop!
 
 4. Jill (10 min)
 
-Remember the strategy I'm favoring: **describe**, *then* **evaluate**, *then* **suggest**.
+<div class="alert alert-success">
+Remember the strategy I'm favoring: <strong>describe</strong>, <em>then</em> <strong>evaluate</strong>, <em>then</em> <strong>suggest</strong>.
+</div>
 
 As we discuss, feel free – encouraged, even! – to draw on terms from *Writer/Designer*, whether design terms such as emphasis, contrast, proximity, framing, sequence, alignment, and color, or rhetorical terms such as audience, purpose, and context.
 
@@ -31,16 +36,16 @@ Take a few minutes to write, just as we did last time:
 If you have changes to suggest, please share them as comments on that [Google doc](http://bit.ly/cdm2017fall), to make sure we can all see it.
 
 ### Studio
+<div class="alert alert-success">
+<strong>Spend the rest of the time working on your projects.</strong> I'll float around, and if I seem to be busy, check with your groupmates while you're waiting: chances are, someone will have a way to help.
+</div>
 
-**Spend the rest of the time working on your projects.** I'll float around, and if I seem to be busy, check with your groupmates while you're waiting: chances are, someone will have a way to help.
-
-EXT: If you finish early, 
-
-(a) Have you also finished your reflection / artists' statement? Does it reference the shared criteria and your goals? Have you made the case that you're meeting any of the aspirational goals?
-(b) Call me over; maybe there's another level of ambition you can unlock, perhaps on a new git branch. Perhaps branching *is* the new level of ambition.
-(c) See if anyone else needs help! You seem to be good at this. At the very least, if two people finish early, you can exchange ideas and get feedback on your draft.
-(d) If you somehow got through all of that and aren't sure what to do next, get a head start on the audio unit (see below) by reading the [Audacity tour guide](http://manual.audacityteam.org/index.html#using).
-
+EXT: If you finish early, <ul style="list-style-type:lower-alpha">
+<li>Have you also finished your reflection / artists' statement? Does it reference the shared criteria and your goals? Have you made the case that you're meeting any of the aspirational goals?</li>
+<li>Call me over; maybe there's another level of ambition you can unlock, perhaps on a new git branch. Perhaps branching <em>is</em> the new level of ambition.</li>
+<li>See if anyone else needs help! You seem to be good at this. At the very least, if two people finish early, you can exchange ideas and get feedback on your draft.</li>
+<li>If you somehow got through all of that and aren't sure what to do next, get a head start on the audio unit (see below) by reading the <a href="http://manual.audacityteam.org/index.html#using">Audacity tour guide</a>.</li>
+</ul>
 
 
 ## For Next Time
