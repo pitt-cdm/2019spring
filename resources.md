@@ -10,6 +10,10 @@ To book an appointment with me (Ben), head over to <strong><a href="https://benm
 To get to my office, which is CL 617 N, go through the doors closest to the elevators and take the right-hand branch of the hallway almost to the end. 
 
 
+<img class="aligncenter size-full wp-image-91" src="https://cdm2017.majoringinmeta.net/wp-content/uploads/2017/08/dangerous-to-go-alone-wide.jpg" alt="Between two flames, the old man who offered Link advice in The Legend of Zelda (Miyamoto et al 1987)" width="1920" height="64" />
+
+[toc]
+
 ## Services at Pitt
 <dl>
 <dt><a href="http://dmap.pitt.edu/">DMAP site</a></dt>
@@ -39,6 +43,14 @@ To get to my office, which is CL 617 N, go through the doors closest to the elev
 <dt><a href="http://www.color-hex.com/">Color-Hex</a></dt>
 <dd>Tools for color selection, for when you want to find a palette of complementary tones, or just to find the hex codes along an axis of saturation or intensity.</dd>
 
+<dt><a href="https://freesound.org">Freesound</a></dt>
+<dd>As they put it in their <a href="https://freesound.org/help/faq">FAQ</a>, "Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse." Note that this won't have <em>music</em> as such; it's more for incidentals.</dd>
+
+<dt><a href="http://dig.ccmixter.org/">CCMixter</dt>
+<dt><a href="https://soundcloud.com/">SoundCloud</dt>
+<dt><a href="https://www.jamendo.com">Jamendo</dt>
+<dd>Three sites where you can find music with open licenses for remix. Each has its own community and search interface; I've had some success using CCMixter's tag search feature. Pay attention to the licenses for the specific tracks you want: some have the non-commercial Creative Commons license, and <em>some are licensed only to listen to</em>, especially on SoundCloud, where a lot of professional recording artists post to build buzz. If you're planning on doing any cutting or distorting, look for something you can modify (which includes CC-BY or CC-BY-NC).</dt>
+
 
 </dl>
 
@@ -55,6 +67,24 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dd><a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought</a>, a collection of academic infographics by Nathaniel Rivers. In addition to being useful for how he handles design elements, quotation, and citation, some of the content deals with ideas on multimedia composing and rhetoric.</dd>
 </dl>
 
+### Audio
+Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. 
+
+<dl>
+<dt><a href="http://manual.audacityteam.org/index.html#using">Audacity Wiki</a></dt>
+<dd>As with GIMP, members of the community that created the tool have contributed their own tips and tricks; in this case, it comes in the form of a minimally styled wiki. I find it not always as clear as I might like, but many of my initial searches led here, regardless, so it's worth familiarizing yourself with the sections. I do recommend at least starting with their <a href="http://manual.audacityteam.org/man/audacity_tour_guide.html">Audacity Tour Guide</a>, and the documentation on how to properly install Audacity and add mp3 export is essential.</dd>
+
+<dt><a href="https://theaudacitytopodcast.com/tap040-10-tips-for-how-to-keep-audacity-from-crashing/">10 Tips for How to Keep Audacity from Crashing</a></dt>
+<dd>The title says it all. I haven't had problems, but if you start to, have a look here.</dd>
+
+<dt>Examples of Soundwriting</dt>
+<dd>There is kind of a glut of good radio out there, especially in the form of podcasts produced by NPR (<a href="http://www.npr.org/podcasts/"National Public Radio</a>) or PRX (<a href="http://www.prx.org/series">Public Radio Exchange</a>). You can look for something in the same genre as the piece you want to re-mediate.</dd>
+<dd>I'll assign a few of my favorites over the next week or two.</dd>
+<dd>Also, Courtney Danforth, a professor at the College of Southern Nevada and a prominent voice in favor of soundwriting in composition, has compiled a list of her favorite sound essays and audio stories as part of her three-page handout on <a href="https://courtneysdanforth.files.wordpress.com/2009/09/getting-started-with-soundwriting-google-docs.pdf">Getting Started with Soundwriting</a>. </dd>
+
+
+</dl>
+
 ### Web Design
 <dl>
 <dt><a href="https://templated.co/">templated.co</a></dt>
@@ -67,7 +97,8 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 Especially in the realm of digital production, there's no need to reinvent the wheel; just as there are many excellent tutorials and sites on which to locate assets, there are many excellent <em>lists</em> of such tutorials and sites. Here are a few to draw on: 
 <ul>
  	<li>Noel Tague's <a href="https://cdmspring2017.wordpress.com/bag-of-tricks/">bag of tricks</a> is quite extensive, and includes sections on fair use, on archives of materials you can use or cite, on strategies for working with audio and video, and links to free / open source software.</li>
- 	<li>Annette Vee's <a href="http://annettevee.com/2016cdm/resources/">CDM resources page</a>, which includes guidance on GitHub and Markdown (a widely used shorthand for HTML, with a bunch of variants a.k.a. "flavors").</li>
+ 	<li>Annette Vee's <a href="http://annettevee.com/2016cdm/resources/">CDM resources page</a> includes guidance on GitHub and Markdown (a widely used shorthand for HTML, with a bunch of variants a.k.a. "flavors").</li>
+<li>Courtney Danforth has a full three pages of resources on <a href="https://courtneysdanforth.files.wordpress.com/2009/09/getting-started-with-soundwriting-google-docs.pdf">Getting Started with Soundwriting</a> that I expect will be useful in the audio unit.</li>
 </ul>
 
 As the semester goes on, we can identify our own list of favorites!
