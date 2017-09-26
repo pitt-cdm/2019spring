@@ -82,6 +82,10 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dd>I'll assign a few of my favorites over the next week or two.</dd>
 <dd>Also, Courtney Danforth, a professor at the College of Southern Nevada and a prominent voice in favor of soundwriting in composition, has compiled a list of her favorite sound essays and audio stories as part of her three-page handout on <a href="https://courtneysdanforth.files.wordpress.com/2009/09/getting-started-with-soundwriting-google-docs.pdf">Getting Started with Soundwriting</a>. </dd>
 
+<dt>Ira Glass's composing process</dt>
+<dd>Glass, in case you haven't heard of him yet, is the host of <em>This American Life,</em> one of those much-beloved NPR podcasts I mentioned above. He's been called upon, on a number of occasions, to talk about how he makes the show work. Here he is <a href="https://www.youtube.com/watch?time_continue=322&v=5pFI9UuC_fc">holding forth on the basic building blocks of storytelling for broadcast</a>.</dd>
+<dd>And here's a longer <a href="https://current.org/2016/02/tips-from-ira-glass-on-better-radio/">lecture on "making better radio,"</a> punctuated with examples, that he gave back in 1998 (many of the principles – and critiques – still hold).</dd>
+<dd>This may be less relevant for this particular assignment, but I was searching the web for a recording of Ira Glass talking about <em>This American Life</em> and how to write stories for the radio, but instead I found an interview-in-writing – for LifeHacker, of all things – in which he answers the question, <a href="https://lifehacker.com/im-ira-glass-host-of-this-american-life-and-this-is-h-1609562031">"What everyday thing are you better at than everyone else? What’s your secret?"</a> with a really great and concise rendering of how he takes hours of tape and condenses them into a story. So if you've got too much textual material for your audio remediation, and you're not sure how to render it down, click the link above and search for that question.</dd>
 
 </dl>
 
