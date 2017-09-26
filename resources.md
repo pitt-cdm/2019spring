@@ -46,10 +46,10 @@ To get to my office, which is CL 617 N, go through the doors closest to the elev
 <dt><a href="https://freesound.org">Freesound</a></dt>
 <dd>As they put it in their <a href="https://freesound.org/help/faq">FAQ</a>, "Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse." Note that this won't have <em>music</em> as such; it's more for incidentals.</dd>
 
-<dt><a href="http://dig.ccmixter.org/">CCMixter</dt>
-<dt><a href="https://soundcloud.com/">SoundCloud</dt>
-<dt><a href="https://www.jamendo.com">Jamendo</dt>
-<dd>Three sites where you can find music with open licenses for remix. Each has its own community and search interface; I've had some success using CCMixter's tag search feature. Pay attention to the licenses for the specific tracks you want: some have the non-commercial Creative Commons license, and <em>some are licensed only to listen to</em>, especially on SoundCloud, where a lot of professional recording artists post to build buzz. If you're planning on doing any cutting or distorting, look for something you can modify (which includes CC-BY or CC-BY-NC).</dt>
+<dt><a href="http://dig.ccmixter.org/">CCMixter</a></dt>
+<dt><a href="https://soundcloud.com/">SoundCloud</a></dt>
+<dt><a href="https://www.jamendo.com">Jamendo</a></dt>
+<dd>Three sites where you can find music with open licenses for remix. Each has its own community and search interface; I've had some success using CCMixter's tag search feature. Pay attention to the licenses for the specific tracks you want: some have the non-commercial Creative Commons license, and <em>some are licensed only to listen to</em>, especially on SoundCloud, where a lot of professional recording artists post to build buzz. If you're planning on doing any cutting or distorting, look for something you can modify (which includes CC-BY or CC-BY-NC).</dd>
 
 
 </dl>
