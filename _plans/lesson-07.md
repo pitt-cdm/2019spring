@@ -33,6 +33,16 @@ Take a few minutes to write, just as we did last time:
 	</ul>
 </div>
 
+<!--
+Ben's notes 2017-fall:
+
+* not everyone read the font materials
+* aspirational: experiment with altering a font, e.g. by changing its color or stroke-width (for outline fonts)
+* emphasize a call to action through contrast, size, color, position
+* aspirational: have text that runs from background over an image, and changes color to maintain contrast or heighten emphasis on the overlapping words
+* 
+-->
+
 If you have changes to suggest, please share them as comments on that [Google doc](http://bit.ly/cdm2017fall), to make sure we can all see it.
 
 ### Studio
@@ -58,8 +68,10 @@ Important reminder: there will be <strong>no class this Thursday, 9/21</strong>,
 
 I've also decided to cancel class the Tuesday before Thanksgiving, in deference to local custom.
 
+We'll be starting the sound unit when next we meet, so please bring headphones – ideally, headphones with a built-in microphone, like the ones you might have gotten with your phone.
+
 * **Outputs**
-**The final copy of the visual unit project – including a prose reflection – is due to GitHub**, following the guidelines in the [Google doc](http://bit.ly/cdm2017fall), before the start of class on Tuesday, September 26th – i.e. **one week from today.** Aim to have it complete by 10pm the night before, so you have some cushion if it takes longer than you expect.
+ * **The final copy of the visual unit project – including a prose reflection – is due to GitHub**, following the guidelines in the [Google doc](http://bit.ly/cdm2017fall), before the start of class on Tuesday, September 26th – i.e. **one week from today.** Aim to have it complete by 10pm the night before, so you have some cushion if it takes longer than you expect.
 
 * **Inputs**
  * I'll have more information when we meet again for how we'll move through the next unit, which is focused on sound. 

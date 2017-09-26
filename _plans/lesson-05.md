@@ -40,14 +40,20 @@ I'll start!
 ### Quick review of the unit project assignment (2 min)
 You already have the <a href="https://cdm2017.majoringinmeta.net/documents/2017/09/prompt-for-assignment-1.pdf">handout</a>, but here are the basics:
 
-* **The goal** is to produce a single composite image that draws attention to something of your choice. 
-* **Related genres** include posters, fliers, album covers, book covers, infographics, maybe even bookmarks. 
- * There's no need to print these out, since full-bleed printing and stock paper get expensive.
-* **The first draft** is due in two days (Th 9/14), when we'll have workshop. The **final draft** is due in 2.5 weeks (Tu 9/26).
-* **The content** is up to your interests: what do you want to direct the rest of the class's attention to?
- * *Parachute prompt:* If you can't think of anything else, make an infographic about one of the reading assignments, i.e. on the Five Principles of New Media, or on the Lo-Fi Manifesto, or on Fair Use. For some examples of academic infographics, see the <a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought tumblr</a>, showcasing work by Nathaniel Rivers, a professor at St. Louis University.
- * ALT: You may, if you wish, do a major redesign of an existing visual appeal; if you want to take this option, though, please run it by me first. 
-
+<div class="alert alert-info">
+<ul>
+<li><strong>The goal</strong> is to produce a single composite image that draws attention to something of your choice.</li>
+<li><strong>Related genres</strong> include posters, fliers, album covers, book covers, infographics, maybe even bookmarks.<ul>
+  <li>There's no need to print these out, since full-bleed printing and stock paper get expensive.</li></ul>
+</li>
+<li><strong>The first draft</strong> is due in two days (Th 9/14), when we'll have workshop. The <strong>final draft</strong> is due in 2.5 weeks (Tu 9/26).</li>
+<li><strong>The content</strong> is up to your interests: what do you want to direct the rest of the class's attention to?<ul>
+ <li><em>Parachute prompt:</em> If you can't think of anything else, make an infographic about one of the reading assignments, i.e. on the Five Principles of New Media, or on the Lo-Fi Manifesto, or on Fair Use. For some examples of academic infographics, see the <a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought tumblr</a>, showcasing work by Nathaniel Rivers, a professor at St. Louis University.</li>
+ </li>
+ <li>ALT: You may, if you wish, do a major redesign of an existing visual appeal; if you want to take this option, though, please run it by me first. </li></ul>
+</li>
+</ul>
+</div>
 
 ### Sharing plans and progress (20-30 min)
 In groups, bring each other up to speed. 
