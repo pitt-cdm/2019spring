@@ -1,4 +1,4 @@
-## Intro to Audio
+## Layering Sound
 
 **Texts to have read**:
 
