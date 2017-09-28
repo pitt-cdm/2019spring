@@ -1,16 +1,15 @@
 ## Layering Sound
 
-**Texts to have read**:
+**Texts to have read**: 
 
- * **Read** the text of John Bresland's <a href="http://brevitymag.com/nonfiction/future-ex-buys-pajamas/">Future Ex Buys Pajamas, as it was published in the literary journal <em>Brevity</em>.
- * **Afterwards, listen** to how Bresland remediated that <a href="http://bresland.com/audio.html"same piece as an audio track</a>
- * **Listen** (and, I guess, watch) Ira Glass talk about the basic building blocks of <a href="https://www.youtube.com/watch?time_continue=322&v=5pFI9UuC_fc">storytelling for broadcast</a>
+* Two versions of John Bresland's "Future Ex Buys Pajamas," first as <a href="http://brevitymag.com/nonfiction/future-ex-buys-pajamas/">written</a> and then as <a href="http://bresland.com/audio.html">recorded</a>
+* Ira Glass on <a href="https://www.youtube.com/watch?time_continue=322&v=5pFI9UuC_fc">storytelling for broadcast</a>
 
 **Work to have done**:
 
- * **Write** a brief reflection on the WordPress site, and put it in the Reflections category: what do you notice in putting these texts together? what does that make you wonder? 
- * **Begin thinking** about what piece you might have that could benefit from translation to audio.
- * **Bring** a couple of options to talk through with your groupmates
+* A brief reflection on the WordPress site: what do you notice in putting these texts together? what does that make you wonder? 
+* Brainstorming about what piece you'll remediate, with a couple of options to talk through with your groupmates
+
 
 <!--
 [toc tag="h2" title="Plan for the Day"]
