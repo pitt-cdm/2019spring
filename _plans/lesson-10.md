@@ -42,11 +42,12 @@ You already have my super-classy [soundwritten assignment prompt](https://github
 <li><strong>The goal</strong> is to produce a multilayered audio recording that re-mediates something you've previously written as a linguistic text.</li>
 <li><strong>Related genres</strong> include podcasts, radio documentaries, poetry or fiction readings, and sound collage.</li>
 <li><strong>The first draft</strong> is due in two days (Th 10/5), when we'll have workshop. The <strong>final draft</strong> is due two weeks from today (Th 10/17).</li>
-<li><strong>The content</li> is up to you, but may begin with an essay from a former class or a piece of creative writing or journalism you've written.
+<li><strong>The content</strong> is up to you, but may begin with an essay from a former class or a piece of creative writing or journalism you've written.
   <ul>
-  <li><em>Parachute prompt:</em> If you can't think of anything of your own to use, even after brainstorming with me, you can try writing a new essay, in the style of [This I Believe](http://thisibelieve.org/guidelines/).</li>
+  <li><em>Parachute prompt:</em> If you can't think of anything of your own to use, even after brainstorming with me, you can try writing a new essay, in the style of <a href="http://thisibelieve.org/guidelines">This I Believe</a>.</li>
   <li>ALT: You may, if you run it by me first, record a version of someone else's text if you can document that you have permission to do so. But please do talk to me about this first.</li>
   </ul>
+</li>
 </ul>
 </div>
 
@@ -72,8 +73,8 @@ If you're at a loss, might I suggest again turning to some of the terms in *W/D*
 
 Remember that authors of <em>Writer/Designer</em> offered us a bunch of lenses to use when we examine any multimodal text:
 
-<div class="container-fluid row">
 <div class="cols-3">
+<div class="float-left">
 <strong>Modes</strong>
 <ul>
 <li>linguistic</li>
@@ -84,7 +85,7 @@ Remember that authors of <em>Writer/Designer</em> offered us a bunch of lenses t
 </ul>
 </div><!-- /modes -->
 
-<div class="cols-3">
+<div class="float-left">
 <strong>Rhetorical Situation</strong>
 <ul>
 <li>audience</li>
@@ -95,7 +96,7 @@ Remember that authors of <em>Writer/Designer</em> offered us a bunch of lenses t
 </ul>
 </div> <!-- /rhetorical-situation -->
 
-<div class="cols-3">
+<div class="float-left">
 <strong>Design Elements</strong>
 <ul>
 <li>emphasis</li>
@@ -105,9 +106,9 @@ Remember that authors of <em>Writer/Designer</em> offered us a bunch of lenses t
 <li>proximity</li>
 </ul>
 </div> <!-- /design-elements -->
-</div> <!-- /.container-fluid /.row -->
+</div> <!-- /.cols-3 -->
 
-By asking yourself what you see when you put each lens up to your eye, you can begin to notice different features in a multimodal text. But you can also use those lenses to imagine what you might <em>want</em> to notice – what you might want <em>to build/em>.
+By asking yourself what you see when you put each lens up to your eye, you can begin to notice different features in a multimodal text. But you can also use those lenses to imagine what you might <em>want</em> to notice – what you might want <em>to build</em>.
 
 Without getting caught up in trying every combination, play around with these terms and see what they suggest for criteria in the context of this unit, this project. 
 </aside>
