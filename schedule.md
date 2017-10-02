@@ -74,7 +74,7 @@ For next time:
 * **Find and watch** online tutorials in pursuit of the effects you want <!-- point to Lynda -->
 * **Read** *Writer/Designer* (W/D) chapters 1 and 2
 
-<h3><a href="_plans/lesson-05">Lesson 5, Tuesday 9/12</a> – Sharing Skills, Setting Goals</h3>
+<h3><a href="_plans/lesson-05.md">Lesson 5, Tuesday 9/12</a> – Sharing Skills, Setting Goals</h3>
 <!-- small group skills-sharing from tutorials;
      derive baseline and stretch criteria for visual media project;
      EXT: git skills support + studio for those who don't need it
@@ -86,7 +86,7 @@ For next time:
 * Everyone, **push** a draft for me to give feedback on.
 -->
 
-<h3><a href="_plans/lesson-06">Lesson 6, Thursday 9/14</a> – Full-class workshop</h3>
+<h3><a href="_plans/lesson-06.md">Lesson 6, Thursday 9/14</a> – Full-class workshop</h3>
 <!-- aim for 10 minutes each for 5 volunteers, using the baseline criteria as a starting point.
      end class with a reflection on the criteria (can post or email) and personal aspirations (can stay private)
 -->
@@ -96,7 +96,7 @@ For next time:
 * **Read** about fonts via [FontSquirrel](https://www.fontsquirrel.com/resources/getting-started), [TutsPlus](https://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326), and/or [Canva](https://designschool.canva.com/font-design/)
 * **Work** on your project; optionally (depending on criteria) incorporate two fonts as a generative constraint
 
-<h3>Lesson 7, Tuesday 9/19 – Studio</h3>
+<h3><a href="_plans/lesson-07.md">Lesson 7, Tuesday 9/19</a> – Studio</h3>
 
 For next time:
 
@@ -105,6 +105,7 @@ For next time:
 * **Bring** headphones; we start the audio unit next class!
 
 <div class="alert alert-warning">Note that there is <strong>no class on Thursday, 9/21</strong>, for the Jewish holiday of Rosh Hashanah. So our next class is next Tuesday. See you then!
+</div>
 
 <hr / >
 
@@ -115,7 +116,7 @@ For next time:
 <em>In this unit, you will re-imagine a text you’ve previously written using only alphanumeric text, and rewrite and record it for the ear.</em>
 
 
-<h3>Lesson 8, Tuesday 9/26 – Intro to Audio</h3>
+<h3><a href="_plans/lesson-08.md">Lesson 8, Tuesday 9/26</a> – Intro to Audio</h3>
 <!-- 1. share reflections and insights from image unit: 
      what can this format do well? what are its limitations? 
      2. how about audio? how do you expect your answers will differ?
@@ -135,7 +136,7 @@ For next time:
  * **Bring** a couple of options to talk through with your groupmates
 
 
-<h3>Lesson 9, Thursday 9/28 – Layering Sound</h3>
+<h3><a href="_plans/lesson-09.md">Lesson 9, Thursday 9/28</a> – Layering Sound</h3>
 <!-- 
 	Changing background music changes meaning;
 	Start a new repo and clone it right away, to avoid lost remotes
@@ -161,8 +162,9 @@ For next time:
 -->
 For next time:
 
-* **Push** a working draft of an audio remediation project **and** an mp3 export, for ease of listening online;
-* **Make sure** I can find your files by adding me as a collaborator
+* **Push** a working draft of an audio remediation project as a working *.aup file **and** an mp3 export, for ease of listening online;
+* **Make sure** I can find your files by adding me as a collaborator 
+ * NB: if you couldn't get git-lfs working, use [Box](http://pitt.box.com) to share your large files (.aup, .au). But please still do use github to keep track of your progress. You can even add a link to your Box folder as a .txt file in your git repository!
 * **Review** the criteria we came up with today, and be ready to propose amendments as needed
 
 <h3>Lesson 11, Thursday 10/5 - Workshop</h3>
