@@ -18,12 +18,12 @@ Follow the links to individual class days for more information, including class 
 
 ## Contents:
 
-Unit I | Laying the Ground Work | (weeks 1-2)
-Unit II | Guiding Attention with Visuals | (weeks 2-5)
-Unit III | Transmedia Revision with Audio | (weeks 5-8)
-Unit IV | Webslinging with Markup | (weeks 8-10)
-Unit V | Collaborative Composing | (weeks 10-14)
-Unit VI | Reflection and Revision | (week 15)
+Unit I | [Laying the Ground Work](#unit-1) | (weeks 1-2)
+Unit II | [Guiding Attention with Visuals](#unit-2) | (weeks 2-5)
+Unit III | [Transmedia Revision with Audio](#unit-3) | (weeks 5-8)
+Unit IV | [Webslinging with Markup](#unit-4) | (weeks 8-10)
+Unit V | [Collaborative Composing](#unit-5) | (weeks 10-14)
+Unit VI | [Reflection and Revision](#unit-6) | (week 15)
 {: .table }
 
 <h2 id="unit-1">Unit I: Laying the Ground Work</h2>
