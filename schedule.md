@@ -90,15 +90,14 @@ For next time:
 <!-- aim for 10 minutes each for 5 volunteers, using the baseline criteria as a starting point.
      end class with a reflection on the criteria (can post or email) and personal aspirations (can stay private)
 -->
-<!--
+
 For next time:
 
-* **Read** about fonts via FontSquirrel
-* **Work** on your project; incorporate two fonts as a generative constraint
--->
+* **Read** about fonts via [FontSquirrel](https://www.fontsquirrel.com/resources/getting-started), [TutsPlus](https://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326), and/or [Canva](https://designschool.canva.com/font-design/)
+* **Work** on your project; optionally (depending on criteria) incorporate two fonts as a generative constraint
 
 <h3>Lesson 7, Tuesday 9/19 – Studio</h3>
-<!--
+
 For next time:
 
 * **Finish**, at least for now, your visual project (deadline: 9/26)
@@ -106,18 +105,88 @@ For next time:
 * **Bring** headphones; we start the audio unit next class!
 
 <div class="alert alert-warning">Note that there is <strong>no class on Thursday, 9/21</strong>, for the Jewish holiday of Rosh Hashanah. So our next class is next Tuesday. See you then!
--->
+
 <hr / >
-<em>I’ll fill in the rest of these lessons and homeworks online, as we go, but here are the essential dates:</em>
+
+<div class="alert alert-info">I’ll fill in the rest of these lessons and homeworks online, as we go, but here are the essential dates:</div>
+
 
 <h2 id="unit-3">Unit III: Transmedia Revision (audio)</h2>
 <em>In this unit, you will re-imagine a text you’ve previously written using only alphanumeric text, and rewrite and record it for the ear.</em>
 
 
-| Th 10/5 | Audio project due for workshop |
------
-| **Tu 10/10** | **No class: Pitt Monday** |
------
+<h3>Lesson 8, Tuesday 9/26 – Intro to Audio</h3>
+<!-- 1. share reflections and insights from image unit: 
+     what can this format do well? what are its limitations? 
+     2. how about audio? how do you expect your answers will differ?
+     3. play audio introduction
+     4. tour of the audacity project for audio introduction
+     5. play around with audacity, using your headphones. try recording audio. what does the tool make easy? hard? ALT: read through the documentation
+     6. what's the same and what's different about this UI vs. GIMP? what's emphasized here?
+     EXT: use any remaining time to experiment, think about sounds, or start HW     
+-->
+For next time:
+
+* **Read** the text of John Bresland's <a href="http://brevitymag.com/nonfiction/future-ex-buys-pajamas/">Future Ex Buys Pajamas, as it was published in the literary journal <em>Brevity</em>.
+* **Afterwards, listen** to how Bresland remediated that <a href="http://bresland.com/audio.html"same piece as an audio track</a>
+* **Listen** (and, I guess, watch) Ira Glass talk about the basic building blocks of <a href="https://www.youtube.com/watch?time_continue=322&v=5pFI9UuC_fc">storytelling for broadcast</a>
+* **Write** a brief reflection on the WordPress site, and put it in the Reflections category: what do you notice in putting these texts together? what does that make you wonder? 
+* **Begin thinking** about what piece you might have that could benefit from translation to audio.
+ * **Bring** a couple of options to talk through with your groupmates
+
+
+<h3>Lesson 9, Thursday 9/28 – Layering Sound</h3>
+<!-- 
+	Changing background music changes meaning;
+	Start a new repo and clone it right away, to avoid lost remotes
+	Demo the Large File Size extension for command-line git (gitlfs)
+	In groups, begin talking through your options.
+--> 
+For next time:
+
+* **Read and listen to** Bresland's <a href="http://bresland.com/brevity.html">"On Writing for the Ear"</a>
+* **Read and listen to** Rob Rosenthal's HowSound on <a href="https://transom.org/2017/sound-design-basics/">Sound Design Basics</a>
+<!-- * EXT inputs for eager audiophiles: HowSound on <a href="https://transom.org/2017/avoiding-pesky-recording-problems/">Avoiding Pesky Recording Problems</a> and <a href="http://training.npr.org/audio/the-ear-training-guide-for-audio-producers/">NPR's ear training guide for advanced audio editing</a>.
+ * NB: I'm not expecting you to buy expensive equipment! If you want to up your recording quality beyond your laptop or phone microphone, you can borrow some from the Media Lab: http://dmap.pitt.edu/equipment -->
+* **Record** at least one spoken track to begin working with, knowing you can revise, retake, dub in, change your mind, etc.
+* **Take notes** about what kinds of other sounds you might want to add
+* **Save and commit** to git / GitHub as you go
+* **Find and watch** any tutorials you need to begin getting a handle on Audacity
+ * Be ready to share one Audacity move with your classmates
+ 
+<h3>Lesson 10, Tuesday 10/3 – Gathering Criteria</h3>
+<!-- small-group skills-sharing 
+	what should we be trying to do here? baseline? aspirational?
+	ask for volunteers to be workshopped
+-->
+For next time:
+
+* **Push** a working draft of an audio remediation project **and** an mp3 export, for ease of listening online;
+* **Make sure** I can find your files by adding me as a collaborator
+* **Review** the criteria we came up with today, and be ready to propose amendments as needed
+
+<h3>Lesson 11, Thursday 10/5 - Workshop</h3>
+
+For next time:
+
+* **Continue working** on your projects, looking up tutorials as needed
+* At the end of each working session, **commit and push** a working draft of an audio remediation project **and** an mp3 export, for ease of listening online;
+* **Make sure** I can find your files.
+
+
+<div class="alert alert-danger">
+Tuesday, 10/10 – Pitt Monday. <strong>Our class does not meet</strong>
+</div>
+
+<h3>Lesson 12, Thursday 10/12 – Studio</h3>
+
+For next time: 
+
+* By Tuesday, 10/17, **finalize** (at least for now) your audio project
+* **Write** a reflection
+* **Bear in mind** the collaborative guidelines, including how to submit
+
+
 | **Tu 10/17** | **Audio project “final” draft due |
 {: .table }
 
