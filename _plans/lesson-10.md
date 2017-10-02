@@ -45,7 +45,7 @@ You already have my super-classy [soundwritten assignment prompt](https://github
 <li><strong>The content</strong> is up to you, but may begin with an essay from a former class or a piece of creative writing or journalism you've written.
   <ul>
   <li><em>Parachute prompt:</em> If you can't think of anything of your own to use, even after brainstorming with me, you can try writing a new essay, in the style of <a href="http://thisibelieve.org/guidelines">This I Believe</a>.</li>
-  <li>ALT: You may, if you run it by me first, record a version of someone else's text if you can document that you have permission to do so. But please do talk to me about this first.</li>
+  <li>ALT: You may, if you run it by me first, record a version of someone else's text – or construct something new, Erin Anderson style, out of found archival materials – if you can document that you have permission to do so. But please do clear this with me first.</li>
   </ul>
 </li>
 </ul>
