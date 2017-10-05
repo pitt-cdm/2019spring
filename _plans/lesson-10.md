@@ -44,8 +44,10 @@ You already have my super-classy [soundwritten assignment prompt](https://github
 <li><strong>The first draft</strong> is due in two days (Th 10/5), when we'll have workshop. The <strong>final draft</strong> is due two weeks from today (Th 10/17).</li>
 <li><strong>The content</strong> is up to you, but may begin with an essay from a former class or a piece of creative writing or journalism you've written.
   <ul>
-  <li><em>Parachute prompt:</em> If you can't think of anything of your own to use, even after brainstorming with me, you can try writing a new essay, in the style of <a href="http://thisibelieve.org/guidelines">This I Believe</a>.</li>
-  <li>ALT: You may, if you run it by me first, record a version of someone else's text – or construct something new, Erin Anderson style, out of found archival materials – if you can document that you have permission to do so. But please do clear this with me first.</li>
+  <li><em>Parachute prompt:</em> If you can't think of anything of your own to use, even after brainstorming with me, try one of these options. But please **run it by me first,** as some of these options are significantly different from the default project above. </li>
+  <li>Record your own version of one of [Aesop's fables](http://read.gov/aesop/001.html), which are in the public domain</li>
+  <li>Remix some archival materials of other people speaking, as per [Erin Anderson](http://erinand.com/projects.html), if you have can demonstrate permission to do so</li>
+  <li>Compose a new essay in the style of [This I Believe](http://thisibelieve.org/guidelines)</li>
   </ul>
 </li>
 </ul>
