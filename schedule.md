@@ -27,7 +27,7 @@ Unit VI | [Reflection and Revision](#unit-6) | (week 15)
 {: .table }
 
 <h2 id="unit-1">Unit I: Laying the Ground Work</h2>
-<h3><a href="_plans/lesson-01.md">Lesson 1, Tuesday 8/29</a> – Course introduction: the writers in the room</h3>
+<h3><a href="plans/lesson-01">Lesson 1, Tuesday 8/29</a> – Course introduction: the writers in the room</h3>
 For next time:
 
 * **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). After you've finished the Flash version, skim the pdf version.
@@ -36,7 +36,7 @@ For next time:
 * **Join** this website if you haven't yet, and
 * **Add New Post** to share an introduction of yourself to the rest of the class.
 
-<h3><a href="_plans/lesson-02.md">Lesson 2, Thursday 8/31</a> – What is New Media?</h3>
+<h3><a href="plans/lesson-02">Lesson 2, Thursday 8/31</a> – What is New Media?</h3>
 For next time:
 
 * **Read** Stolley, [“The Lo-Fi Manifesto, v. 2.0”](http://kairos.technorhetoric.net/20.2/inventio/stolley/)
@@ -46,7 +46,7 @@ For next time:
 * **Do** the GitHub ["Hello World" guide](https://guides.github.com/activities/hello-world/)
 
 
-<h3><a href="_plans/lesson-03.md">Lesson 3, Tuesday 9/5</a> – How lo should we go? Intro to GIMP</h3>
+<h3><a href="plans/lesson-03">Lesson 3, Tuesday 9/5</a> – How lo should we go? Intro to GIMP</h3>
 For next time:
 <ul>
  	<li>Read <em>Writer/Designer</em> (W/D) pp. 63-76, plus online components;</li>
@@ -59,7 +59,7 @@ For next time:
 <h2 id="unit-2">Unit II: Guiding Attention with Visuals</h2>
 <em>In this unit, you will design a composite visual text designed to attract a reader’s interest: e.g. a poster or flyer, or a cover for a book or music album.</em>
 
-<h3><a href="_plans/lesson-04.md">Lesson 4, Thursday 9/7</a> – Fair Enough</h3>
+<h3><a href="plans/lesson-04">Lesson 4, Thursday 9/7</a> – Fair Enough</h3>
 <!-- Fair use / copyright Q&A; 
      studio time with GIMP, playing around with shared image bank; 
      major visual project introduced via handout; 
@@ -74,7 +74,7 @@ For next time:
 * **Find and watch** online tutorials in pursuit of the effects you want <!-- point to Lynda -->
 * **Read** *Writer/Designer* (W/D) chapters 1 and 2
 
-<h3><a href="_plans/lesson-05.md">Lesson 5, Tuesday 9/12</a> – Sharing Skills, Setting Goals</h3>
+<h3><a href="plans/lesson-05">Lesson 5, Tuesday 9/12</a> – Sharing Skills, Setting Goals</h3>
 <!-- small group skills-sharing from tutorials;
      derive baseline and stretch criteria for visual media project;
      EXT: git skills support + studio for those who don't need it
@@ -86,7 +86,7 @@ For next time:
 * Everyone, **push** a draft for me to give feedback on.
 -->
 
-<h3><a href="_plans/lesson-06.md">Lesson 6, Thursday 9/14</a> – Full-class workshop</h3>
+<h3><a href="plans/lesson-06">Lesson 6, Thursday 9/14</a> – Full-class workshop</h3>
 <!-- aim for 10 minutes each for 5 volunteers, using the baseline criteria as a starting point.
      end class with a reflection on the criteria (can post or email) and personal aspirations (can stay private)
 -->
@@ -96,7 +96,7 @@ For next time:
 * **Read** about fonts via [FontSquirrel](https://www.fontsquirrel.com/resources/getting-started), [TutsPlus](https://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326), and/or [Canva](https://designschool.canva.com/font-design/)
 * **Work** on your project; optionally (depending on criteria) incorporate two fonts as a generative constraint
 
-<h3><a href="_plans/lesson-07.md">Lesson 7, Tuesday 9/19</a> – Studio</h3>
+<h3><a href="plans/lesson-07">Lesson 7, Tuesday 9/19</a> – Studio</h3>
 
 For next time:
 
@@ -107,7 +107,7 @@ For next time:
 <div class="alert alert-warning">Note that there is <strong>no class on Thursday, 9/21</strong>, for the Jewish holiday of Rosh Hashanah. So our next class is next Tuesday. See you then!
 </div>
 
-<hr / >
+<hr />
 
 <div class="alert alert-info">I’ll fill in the rest of these lessons and homeworks online, as we go, but here are the essential dates:</div>
 
@@ -116,7 +116,7 @@ For next time:
 <em>In this unit, you will re-imagine a text you’ve previously written using only alphanumeric text, and rewrite and record it for the ear.</em>
 
 
-<h3><a href="_plans/lesson-08.md">Lesson 8, Tuesday 9/26</a> – Intro to Audio</h3>
+<h3><a href="plans/lesson-08">Lesson 8, Tuesday 9/26</a> – Intro to Audio</h3>
 <!-- 1. share reflections and insights from image unit: 
      what can this format do well? what are its limitations? 
      2. how about audio? how do you expect your answers will differ?
@@ -136,11 +136,11 @@ For next time:
  * **Bring** a couple of options to talk through with your groupmates
 
 
-<h3><a href="_plans/lesson-09.md">Lesson 9, Thursday 9/28</a> – Layering Sound</h3>
+<h3><a href="plans/lesson-09">Lesson 9, Thursday 9/28</a> – Layering Sound</h3>
 <!-- 
 	Changing background music changes meaning;
 	Start a new repo and clone it right away, to avoid lost remotes
-	Demo the Large File Size extension for command-line git (gitlfs)
+	Demo the Large File Size extension for command-line git (git-lfs)
 	In groups, begin talking through your options.
 --> 
 For next time:
@@ -155,7 +155,7 @@ For next time:
 * **Find and watch** any tutorials you need to begin getting a handle on Audacity
  * Be ready to share one Audacity move with your classmates
  
-<h3>Lesson 10, Tuesday 10/3 – Gathering Criteria</h3>
+<h3><a href="plans/lesson-10">Lesson 10, Tuesday 10/3</a> – Gathering Criteria</h3>
 <!-- small-group skills-sharing 
 	what should we be trying to do here? baseline? aspirational?
 	ask for volunteers to be workshopped
@@ -167,7 +167,7 @@ For next time:
  * NB: if you couldn't get git-lfs working, use [Box](http://pitt.box.com) to share your large files (.aup, .au). But please still do use github to keep track of your progress. You can even add a link to your Box folder as a .txt file in your git repository!
 * **Review** the criteria we came up with today, and be ready to propose amendments as needed
 
-<h3>Lesson 11, Thursday 10/5 - Workshop</h3>
+<h3><a href="plans/lesson-11">Lesson 11, Thursday 10/5</a> - Workshop</h3>
 
 For next time:
 
