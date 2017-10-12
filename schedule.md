@@ -60,10 +60,10 @@ For next time:
 <em>In this unit, you will design a composite visual text designed to attract a reader’s interest: e.g. a poster or flyer, or a cover for a book or music album.</em>
 
 <h3><a href="plans/lesson-04">Lesson 4, Thursday 9/7</a> – Fair Enough</h3>
-<!-- Fair use / copyright Q&A; 
-     studio time with GIMP, playing around with shared image bank; 
-     major visual project introduced via handout; 
-     begin brainstorming for content and designs (paper recommended for the latter) 
+<!-- Fair use / copyright Q&A;
+     studio time with GIMP, playing around with shared image bank;
+     major visual project introduced via handout;
+     begin brainstorming for content and designs (paper recommended for the latter)
      3-5 volunteers for full-class workshop in one week? I'll ask you to put your work on the big screen, and we'll take 10 minutes talking through what it's doing, where it's working well, and where it might go next (describe / evaluate / suggest)
 -->
 For next time:
@@ -82,7 +82,7 @@ For next time:
 <!--
 For next time:
 
-* If you're being workshopped, **bring** a working draft of your visual media project, as a Photoshop- or GIMP-native file 
+* If you're being workshopped, **bring** a working draft of your visual media project, as a Photoshop- or GIMP-native file
 * Everyone, **push** a draft for me to give feedback on.
 -->
 
@@ -117,8 +117,8 @@ For next time:
 
 
 <h3><a href="plans/lesson-08">Lesson 8, Tuesday 9/26</a> – Intro to Audio</h3>
-<!-- 1. share reflections and insights from image unit: 
-     what can this format do well? what are its limitations? 
+<!-- 1. share reflections and insights from image unit:
+     what can this format do well? what are its limitations?
      2. how about audio? how do you expect your answers will differ?
      3. play audio introduction
      4. tour of the audacity project for audio introduction
@@ -131,18 +131,18 @@ For next time:
 * **Read** the text of John Bresland's <a href="http://brevitymag.com/nonfiction/future-ex-buys-pajamas/">Future Ex Buys Pajamas, as it was published in the literary journal <em>Brevity</em>.
 * **Afterwards, listen** to how Bresland remediated that <a href="http://bresland.com/audio.html"same piece as an audio track</a>
 * **Listen** (and, I guess, watch) Ira Glass talk about the basic building blocks of <a href="https://www.youtube.com/watch?time_continue=322&v=5pFI9UuC_fc">storytelling for broadcast</a>
-* **Write** a brief reflection on the WordPress site, and put it in the Reflections category: what do you notice in putting these texts together? what does that make you wonder? 
+* **Write** a brief reflection on the WordPress site, and put it in the Reflections category: what do you notice in putting these texts together? what does that make you wonder?
 * **Begin thinking** about what piece you might have that could benefit from translation to audio.
  * **Bring** a couple of options to talk through with your groupmates
 
 
 <h3><a href="plans/lesson-09">Lesson 9, Thursday 9/28</a> – Layering Sound</h3>
-<!-- 
+<!--
 	Changing background music changes meaning;
 	Start a new repo and clone it right away, to avoid lost remotes
 	Demo the Large File Size extension for command-line git (git-lfs)
 	In groups, begin talking through your options.
---> 
+-->
 For next time:
 
 * **Read and listen to** Bresland's <a href="http://bresland.com/brevity.html">"On Writing for the Ear"</a>
@@ -154,16 +154,16 @@ For next time:
 * **Save and commit** to git / GitHub as you go
 * **Find and watch** any tutorials you need to begin getting a handle on Audacity
  * Be ready to share one Audacity move with your classmates
- 
+
 <h3><a href="plans/lesson-10">Lesson 10, Tuesday 10/3</a> – Gathering Criteria</h3>
-<!-- small-group skills-sharing 
+<!-- small-group skills-sharing
 	what should we be trying to do here? baseline? aspirational?
 	ask for volunteers to be workshopped
 -->
 For next time:
 
 * **Push** a working draft of an audio remediation project as a working *.aup file **and** an mp3 export, for ease of listening online;
-* **Make sure** I can find your files by adding me as a collaborator 
+* **Make sure** I can find your files by adding me as a collaborator
  * NB: if you couldn't get git-lfs working, use [Box](http://pitt.box.com) to share your large files (.aup, .au). But please still do use github to keep track of your progress. You can even add a link to your Box folder as a .txt file in your git repository!
 * **Review** the criteria we came up with today, and be ready to propose amendments as needed
 
@@ -180,9 +180,9 @@ For next time:
 Tuesday, 10/10 – Pitt Monday. <strong>Our class does not meet</strong>
 </div>
 
-<h3>Lesson 12, Thursday 10/12 – Studio</h3>
+<h3><a href="lesson-12">Lesson 12, Thursday 10/12</a> – Studio</h3>
 
-For next time: 
+For next time:
 
 * By Tuesday, 10/17, **finalize** (at least for now) your audio project
 * **Write** a reflection
