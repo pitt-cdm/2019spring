@@ -196,22 +196,136 @@ For next time:
 <h2 id="unit-4">Unit IV: Webslinging (html+css markup)</h2>
 <em>In this unit, you will modify and publish an html+css template, supplying new content for a collaborative project pitch. </em>
 
+<h3><a href="lesson-13">Lesson 13, Tuesday, 10/17</a> – Separating Content from Display</h3>
+<!-- 
+Intro to second half of semester
+in-class writing: brainstorm possible projects for the collaborative unit
+what is html? why *markup*?
+[CSS Zen Garden](http://www.csszengarden.com/)
+[Web design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
+Using your browser's Developer Tools
+* in MS Edge: https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
+* in Chrome: 
+-->
+For next time:
 
-| Tu 10/24 |  Pitch draft due for workshop |
-------
-| Tu 10/31 |  Pitches due; project vote |
-{: .table }
+* (Re)read chapters 2 and 3 of *Writer/Designer*, on "Analyzing Multimodal Projects" and "Choosing a Genre and Pitching Your Project," respectively.
+* Do the Process! activity on page 37: "Analyzing a Web Site's Design Choices." Post your response to WordPress under the new Reflections subcategory.
+* Sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
 
-&nbsp;
+
+<h3><a href="lesson-14">Lesson 14, Thursday, 10/19</a> – Backstage on the Web; Building on Others' Designs</h3>
+<!--
+* in-class writing: hand-drawn site mockups, inspired by [examples](http://designbeep.com/2012/05/17/33-great-examples-of-web-design-sketches/)
+* Self-paced lessons on ["html & css is hard"](https://internetingishard.com/html-and-css/)
+* EXTs / bonus features on
+ - using browser inspector; 
+ - CSS frameworks (Bootstrap); 
+ - Responsive templates (html5up, templated.co)
+ - how to publish a working website using github.io
+* Volunteers to workshop next time? 
+ - p.s. if you haven't yet had an opportunity for full-class workshop, I'll ask you to present your group's work-in-progress during the collaborative unit.
+-->
+For next time:
+* Continue reading and following along with the tutorial disproving the claim that ["html & css is hard"](https://internetingishard.com/html-and-css/). Spend at least an hour, aiming to learn something you don't already know.
+ - If this is *all* familiar, including responsive design, read up on accessibility and "universal" design, starting here: [Introduction to Web Accessibility](https://webaim.org/intro/).
+* Once you know what \<img\> tags are, review this guidance on how and why to include the alt attribute in all of your \<img\> tags: [webaim.org/techniques/alttext/](https://webaim.org/techniques/alttext/)
+* Push a draft website to github; if you're not up being workshopped, it is fine if all you have to post is your tutorial progress.
+* If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+
+<h3><a href="lesson-15">Lesson 15, Tuesday, 10/24</a> – Workshop (web edition)</h3>
+
+<!-- 
+Bonus: how to publish a working website with flat html pages using github.io
+-->
+
+For next time:
+
+* Re-read Stolley's "Lo-Fi Manifesto," especially section four: ["Design first for the most constrained users and devices."](http://kairos.technorhetoric.net/20.2/inventio/stolley/#point-four)
+* Continue working on your pitch and your site
+* Come in ready to share a CSS trick or semantic html element with your groupmates
+* If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+
+
+<h3><a href="lesson-16">Lesson 16, Thursday, 10/26</a> – Studio (web edition)
+<!-- 
+* check in with calendar: will it be possible to post your pitches by Monday noon, to allow voting on Tuesday? If not, push everything back by a day
+* Ben HW: make a google form for top-four voting 
+-->
+
+For next time:
+
+* Post your pitch website materials to github by Monday, 10/30
+* When it's ready, post a link to the WordPress site to make it easier for your classmates to find
+* Read through as many pitches as you can before class.
+* In class, you'll each have 2-3 minutes to make your pitch, which hopefully leaves us with 10 minutes to vote on your top four. 
+* If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+
+<h3><a href="lesson-17">Lesson 17, Tuesday, 10/31</a> – Lightning talk presentations and project vote</h3>
+<!-- 
+* Ben: pre-load the pitch websites.
+* everyone gets 3 minutes to summarize, 10 minutes to vote 
+* If we run out of time, you can vote online. I'll sort the groups for Thursday
+-->
+
+For next time: 
+
+* If we ran out of time for the vote, vote as soon as you can!
+* I'll compile all the preferences into groups
+* Review the pitch websites for your top four pitches, and think about what roles you might want to play, depending on the group you end up in.
+* Read *Writer/Designer* chapter 5, on "Conceptualizing and Collaborating," and pay particular attention to the team contract – you'll be writing one next class.
+* If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+
+
 <h2 id="unit-5">Unit V: Collaborative Composing</h2>
 <em>The deadlines and assignments here will vary from group to group, according to a team contract and more formal project proposal.</em>
 
-| Th 11/2 |  Team contract due |
-------
-| Th 11/9 |  Project proposal due |
-| Tu 11/21  |  (Class does, in fact, meet this day... unless we can't get quorum) |
+<h3><a href="lesson-18">Lesson 18, Thursday, 11/2</a> – Team Contract</h3>
+<!--
+* By end of class, turn in a team contract
+-->
+For next time: 
+
+* Begin research toward your group project
+* Re-read *Writer/Designer* chapter 5 in light of your new groups, especially the section on "Proposing to Get it All Done."
+* Prepare to collaboratively compose a group project proposal on Tuesday.
+* If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+
+
+<h3><a href="lesson-19">Lesson 19, Tuesday, 11/7</a> – Planning for Success</h3>
+<!-- 
+* Discussion: assessing groups
+* Working together, write a formal project proposal.
+* EXT: get started!
+-->
+
+For next time:
+
+* If you haven't yet turned in a project proposal, finish it by Thursday; I'd like to meet with every group by the end of Thursday's class, if possible.
+* If you haven't yet (and why not?), sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+
+<h3><a href="lesson-20">Lesson 20, Thursday, 11/9</a> – Group conferences</h3>
+
+For next time:
+
+* Work on your group projects
+* Email Ben with requests for mini-lessons
+
+<h3><a href="lesson-21">Lesson 21, Tuesday, 11/14</a> – Group studio + mini-lessons by request</h3>
+
+<h3><a href="lesson-22">Lesson 22, Thursday, 11/16</a> – Group studio + mini-lessons by request</h3>
+<!-- request volunteers/pressgang for workshop after Thanksgiving -->
+
+| **Tu 11/21**  |  **No class in deference to Thanksgiving travel**; stay in touch with your group |
 | **Th 11/23** |  **No class: Thanksgiving** |
-------
+
+<h3><a href="lesson-23">Lesson 23, Tuesday, 11/28</a> – Workshop + group studio (collaboratory edition)</h3>
+
+<h3><a href="lesson-24">Lesson 24, Thursday, 11/30</a> – Workshop + group studio (collaboratory edition)</h3>
+
+<h3><a href="lesson-25">Lesson 25, Tuesday, 12/5</a> – Final project presentations</h3>
+
+
 | Th 12/7 |  Last day of class; final project presentations |
 {: .table }
 
@@ -219,4 +333,4 @@ For next time:
 
 &nbsp;
 
-<em>Final portfolios will be due at the final exam slot, which has not yet been announced.</em>
+<em>Final portfolios will be due by the end of the final exam slot, which we now know is Thursday, December 14th, at 9:50am.</em>
