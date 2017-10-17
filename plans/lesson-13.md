@@ -63,7 +63,7 @@ DevTool Tips for modern browsers:
 We can practice with that [assignment sheet website](https://benmiller314.github.io/cdm-assignments/web/) I made.
 
 
-EXT: https://css-tricks.com/how-css-selectors-work/
+EXT: If time allows, let's look more closely at [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/).
 
 
 ## Homework for Next Time
