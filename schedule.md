@@ -194,7 +194,7 @@ For next time:
 
 &nbsp;
 <h2 id="unit-4">Unit IV: Webslinging (html+css markup)</h2>
-<em>In this unit, you will modify and publish an html+css template, supplying new content for a collaborative project pitch. </em>
+<em>In this unit, you will create or modify and publish an html+css website, supplying your own content for a collaborative project pitch.</em>
 
 <h3><a href="lesson-13">Lesson 13, Tuesday, 10/17</a> – Separating Content from Display</h3>
 <!-- 
@@ -210,8 +210,10 @@ Using your browser's Developer Tools
 For next time:
 
 * (Re)read chapters 2 and 3 of *Writer/Designer*, on "Analyzing Multimodal Projects" and "Choosing a Genre and Pitching Your Project," respectively.
-* Do the Process! activity on page 37: "Analyzing a Web Site's Design Choices." Post your response to WordPress under the new Reflections subcategory.
-* Sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+* Do the Process! activity on page 37: "Analyzing a Web Site's Design Choices."
+ - Use your browser's developer tools (e.g. the Chrome inspector) to view the html and css of the website you chose for this exercise. How are the chunks of content organized behind the scenes? 
+ - Post your analysis to WordPress under the new Reflections subcategory.
+* Sign up for a midterm conference with Ben over the next 2-3 weeks (absolute latest deadline: 11/9)
 
 
 <h3><a href="lesson-14">Lesson 14, Thursday, 10/19</a> – Backstage on the Web; Building on Others' Designs</h3>
@@ -227,6 +229,7 @@ For next time:
  - p.s. if you haven't yet had an opportunity for full-class workshop, I'll ask you to present your group's work-in-progress during the collaborative unit.
 -->
 For next time:
+
 * Continue reading and following along with the tutorial disproving the claim that ["html & css is hard"](https://internetingishard.com/html-and-css/). Spend at least an hour, aiming to learn something you don't already know.
  - If this is *all* familiar, including responsive design, read up on accessibility and "universal" design, starting here: [Introduction to Web Accessibility](https://webaim.org/intro/).
 * Once you know what \<img\> tags are, review this guidance on how and why to include the alt attribute in all of your \<img\> tags: [webaim.org/techniques/alttext/](https://webaim.org/techniques/alttext/)
@@ -247,7 +250,7 @@ For next time:
 * If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
 
 
-<h3><a href="lesson-16">Lesson 16, Thursday, 10/26</a> – Studio (web edition)
+<h3><a href="lesson-16">Lesson 16, Thursday, 10/26</a> – Studio (web edition)</h3>
 <!-- 
 * check in with calendar: will it be possible to post your pitches by Monday noon, to allow voting on Tuesday? If not, push everything back by a day
 * Ben HW: make a google form for top-four voting 
@@ -325,9 +328,7 @@ For next time:
 
 <h3><a href="lesson-25">Lesson 25, Tuesday, 12/5</a> – Final project presentations</h3>
 
-
-| Th 12/7 |  Last day of class; final project presentations |
-{: .table }
+<h3><a href="lesson-26">Lesson 26, Thursday, 12/7</a> – Final project presentations; last day of class!</h3>
 
 &nbsp;
 
