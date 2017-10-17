@@ -90,11 +90,20 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 </dl>
 
 ### Web Design
+Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons).
+
 <dl>
 <dt><a href="https://templated.co/">templated.co</a></dt>
 <dt><a href="https://html5up.net/">html5up.net</a></dt>
 <dd>There are a lot of websites that offer collections of free website themes and templates. These are two of my favorite sources for starting up static sites with built-in semantic html5 and responsive css.</dd>
+
+<dt><a href="https://www.foregroundweb.com/optimize-images/">Optimizing Images for Website Performance</a></dt>
+<dd><p>You can find some beautiful free images out there, at very high resolution – and your own digital camera (even the one on your phone) probably defaults to a ridiculously high number of pixels, too. All those pixels come at a cost. If you find that your site is loading slowly, and especially if you see the images appear with some lag behind the text, you may want to scale down.</p>
+<p>Luckily, you have a tool that can help you do it: GIMP! Check the link above for some tips on pixel counts, resolutions (pixels per inch), and jpeg compression quality.</p>
+
 </dl>
+
+
 
 ## Other Resource Roundups
 
