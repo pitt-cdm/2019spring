@@ -75,6 +75,6 @@ EXT: If time allows, let's look more closely at [how CSS selectors work](https:/
 
 * Do the *Process!* activity on page 37: "Analyzing a Web Site's Design Choices."
  - Use your browser's developer tools (e.g. the Chrome inspector) to view the html and css of the website you chose for this exercise. How are the chunks of content organized behind the scenes? 
- - Post your analysis to WordPress under the new Reflections subcategory.
+ - Post your analysis to WordPress under the new Reflections subcategory. <!-- for next time: require them to post a link to the site they're analyzing, if not also a screenshot! -->
 * Sign up for a midterm conference with Ben over the next 2-3 weeks (absolute latest deadline: 11/9)
 
