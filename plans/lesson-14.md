@@ -63,8 +63,7 @@ EXT: If time allows, it's worth looking more closely at [how CSS selectors work]
 ### More brainstorming, and hand-drawn site sketches (20 min)
 Before we get into the weeds of finding the html that will execute our vision for a site – a process which can often produce the distracting kinds of difficulty – it can be useful to get a sense of how we would ideally *want* to organize our site. We're going to do a little drawing, but first, a little reflective writing.
 
-1. Take out, if you have them, your notes from last time about possible project pitches. If you don't, or if you're inclined to do so, **take a minute or two to brainstorm again**: (2 min)
-> What have you begun to learn, and what, especially, haven't you begun to learn? What skills do you want to have practiced before the semester is over? Can you think of any projects you might compose over the next month or so that would help you get that practice?
+1. Take out, if you have them, your notes from last time about possible project pitches. If you don't, or if you're inclined to do so, **take a minute or two to brainstorm again**: (2 min) <blockquote>What have you begun to learn, and what, especially, haven't you begun to learn? What skills do you want to have practiced before the semester is over? Can you think of any projects you might compose over the next month or so that would help you get that practice?</blockquote>
 2. Choose one of these skills or projects to work with for now. Mark it in some way. Then ask yourself: **What are all the parts of this?** What steps, or pieces, or roles, are involved? **Make a quick list, without diving into any one item.** (2 min)
 3. I'm going to interrupt you now and ask you to set aside the list, just for now, and ask: **What's the heart of this?** What's the essential component? What's the value proposition for your classmates to join you in this project? Write down whatever comes. (2 min)
 4. Okay. So whether that worked or not, you should now have at least a small list of things that could belong in your web-based pitch. Given what's essential, and given the principles of designing for attention we learned earlier, make a quick sketch of a website's landing page. (5-10 min)
@@ -104,15 +103,18 @@ I want to show you where/how to turn a github repo with html files into an actua
 
 For next time:
 **Inputs**:
+
 * Continue reading and following along with the tutorial disproving the claim that ["html & css is hard"](https://internetingishard.com/html-and-css/). Spend at least an hour, aiming to learn something you don't already know.
  - If this is *all* familiar, including responsive design, read up on accessibility and "universal" design, starting here: [Introduction to Web Accessibility](https://webaim.org/intro/).
-* Once you know what \<img\> tags are, review this guidance on how and why to include the alt attribute in all of your \<img\> tags: [webaim.org/techniques/alttext/](https://webaim.org/techniques/alttext/)
+* Once you know what `<img>` tags are, review this guidance on how and why to include the alt attribute in all of your `<img>` tags: [webaim.org/techniques/alttext/](https://webaim.org/techniques/alttext/)
 
 **Outputs**:
+
 * Come in ready to ask questions of your groupmates.
 * **Push a draft website to github**; it's fine for now if all you have to post is your tutorial progress. By next Thursday, 10/26, though, I'll ask for real drafts.
 
 **Administrative**:
+
 * That date reflects an update since Tuesday; I've pushed everything back by one lesson, to make sure we have time to get up to speed and gather criteria.
 * If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
 
