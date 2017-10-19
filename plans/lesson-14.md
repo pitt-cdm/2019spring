@@ -110,7 +110,7 @@ I want to show you where/how to turn a github repo with html files into an actua
 
 
 
-For next time:
+## Homework for next time
 **Inputs**:
 
 * Continue reading and following along with the tutorial disproving the claim that ["html & css is hard"](https://internetingishard.com/html-and-css/). Spend at least an hour, aiming to learn something you don't already know.
