@@ -85,7 +85,7 @@ EXT/ALT: If you're good on what a CSS class is, and how to add it to an HTML ele
 
 
 ### Before you leave
-I want to show you where/how to turn a github repo with html files into an actual website.
+I want to show you where/how to turn a github repo with html files into an actual website. All you need is an index.html file in the home directory, and to activate GitHub Pages:
 
 [!screencast: activating github pages from the settings page](activate-github-pages.gif)
 
