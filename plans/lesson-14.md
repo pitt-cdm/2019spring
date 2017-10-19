@@ -57,6 +57,15 @@ nav {
 }
 ```
 
+But it's also useful for testing out more permanent tweaks. I want to fix indented bullets on this site, for example, so they don't look the same as the top-level bullets.
+```
+.entry-content ul li ul li {
+    list-style-type: circle;
+}
+```
+
+
+
 EXT: If time allows, it's worth looking more closely at [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/) – especially [when two rules collide](https://css-tricks.com/specifics-on-css-specificity/). With classes and ids, you can get a lot more specific than html elements! (And you'll usually need to.)
 
 
