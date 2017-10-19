@@ -205,7 +205,10 @@ what is html? why *markup*?
 [Web design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
 Using your browser's Developer Tools
 * in MS Edge: https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
-* in Chrome: 
+* in Chrome: etc
+
+NOTES FOR NEXT YEAR: Start internetingishard tutorial for hw after this first web day, introduce browser inspection more fully in the second web day, and model the multimodal analysis; then do the multimodal analysis as homework after the second web day in prep for developing criteria in the third web day. then workshop on the fourth web day.
+
 -->
 For next time:
 
