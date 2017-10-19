@@ -236,14 +236,18 @@ For next time:
 * Continue reading and following along with the tutorial disproving the claim that ["html & css is hard"](https://internetingishard.com/html-and-css/). Spend at least an hour, aiming to learn something you don't already know.
  - If this is *all* familiar, including responsive design, read up on accessibility and "universal" design, starting here: [Introduction to Web Accessibility](https://webaim.org/intro/).
 * Once you know what \<img\> tags are, review this guidance on how and why to include the alt attribute in all of your \<img\> tags: [webaim.org/techniques/alttext/](https://webaim.org/techniques/alttext/)
-* Push a draft website to github; if you're not up being workshopped, it is fine if all you have to post is your tutorial progress.
 * If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+* Push a draft website to github; if you're not up being workshopped, it is fine if all you have to post is your tutorial progress.
 
-<h3><a href="lesson-15">Lesson 15, Tuesday, 10/24</a> – Workshop (web edition)</h3>
-
+<h3><a href="lesson-15">Lesson 15, Tuesday, 10/24</a> – Gathering criteria (web edition)</h3>
 <!-- 
 Bonus: how to publish a working website with flat html pages using github.io
 -->
+For next time:
+
+* Push a draft pitch website to github, and make it visible through github.io.
+
+<h3><a href="lesson-16">Lesson 16, Thursday, 10/26</a> – Workshop (web edition)</h3>
 
 For next time:
 
@@ -253,7 +257,7 @@ For next time:
 * If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
 
 
-<h3><a href="lesson-16">Lesson 16, Thursday, 10/26</a> – Studio (web edition)</h3>
+<h3><a href="lesson-17">Lesson 17, Tuesday, 10/31</a> – Studio (web edition)</h3>
 <!-- 
 * check in with calendar: will it be possible to post your pitches by Monday noon, to allow voting on Tuesday? If not, push everything back by a day
 * Ben HW: make a google form for top-four voting 
@@ -267,7 +271,7 @@ For next time:
 * In class, you'll each have 2-3 minutes to make your pitch, which hopefully leaves us with 10 minutes to vote on your top four. 
 * If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
 
-<h3><a href="lesson-17">Lesson 17, Tuesday, 10/31</a> – Lightning talk presentations and project vote</h3>
+<h3><a href="lesson-18">Lesson 18, Thursday, 11/2</a> – Lightning talk presentations and project vote</h3>
 <!-- 
 * Ben: pre-load the pitch websites.
 * everyone gets 3 minutes to summarize, 10 minutes to vote 
@@ -286,7 +290,7 @@ For next time:
 <h2 id="unit-5">Unit V: Collaborative Composing</h2>
 <em>The deadlines and assignments here will vary from group to group, according to a team contract and more formal project proposal.</em>
 
-<h3><a href="lesson-18">Lesson 18, Thursday, 11/2</a> – Team Contract</h3>
+<h3><a href="lesson-19">Lesson 19, Tuesday, 11/7</a> – Team Contract</h3>
 <!--
 * By end of class, turn in a team contract
 -->
@@ -298,7 +302,7 @@ For next time:
 * If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
 
 
-<h3><a href="lesson-19">Lesson 19, Tuesday, 11/7</a> – Planning for Success</h3>
+<h3><a href="lesson-20">Lesson 20, Thursday, 11/9</a> – Planning for Success</h3>
 <!-- 
 * Discussion: assessing groups
 * Working together, write a formal project proposal.
@@ -310,16 +314,15 @@ For next time:
 * If you haven't yet turned in a project proposal, finish it by Thursday; I'd like to meet with every group by the end of Thursday's class, if possible.
 * If you haven't yet (and why not?), sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
 
-<h3><a href="lesson-20">Lesson 20, Thursday, 11/9</a> – Group conferences</h3>
+<h3><a href="lesson-21">Lesson 21, Tuesday, 11/14</a> – Group conferences</h3>
 
 For next time:
 
 * Work on your group projects
 * Email Ben with requests for mini-lessons
 
-<h3><a href="lesson-21">Lesson 21, Tuesday, 11/14</a> – Group studio + mini-lessons by request</h3>
 
-<h3><a href="lesson-22">Lesson 22, Thursday, 11/16</a> – Group studio + mini-lessons by request</h3>
+<h3><a href="lesson-22">Lesson 22, Thursday, 11/16</a> – Workshop + group studio (collaboratory edition)</h3>
 <!-- request volunteers/pressgang for workshop after Thanksgiving -->
 
 | **Tu 11/21**  |  **No class in deference to Thanksgiving travel**; stay in touch with your group |
@@ -327,7 +330,7 @@ For next time:
 
 <h3><a href="lesson-23">Lesson 23, Tuesday, 11/28</a> – Workshop + group studio (collaboratory edition)</h3>
 
-<h3><a href="lesson-24">Lesson 24, Thursday, 11/30</a> – Workshop + group studio (collaboratory edition)</h3>
+<h3><a href="lesson-24">Lesson 24, Thursday, 11/30</a> – Group studio + mini-lessons by request</h3>
 
 <h3><a href="lesson-25">Lesson 25, Tuesday, 12/5</a> – Final project presentations</h3>
 
