@@ -114,7 +114,7 @@ This process could probably take as much time as we can give it, but let's stop 
 
 ### Before we end for the day
 
-* Can I get 3-4 volunteers for workshop on Thursday?
+* **Can I get 3-4 volunteers for workshop on Thursday?**
  - p.s. if you haven't yet had an opportunity for full-class workshop, I'll ask you to present your group's work-in-progress during the collaborative unit.
 * If you haven't yet, can you please quickly add me as a collaborator on your repository?
 
