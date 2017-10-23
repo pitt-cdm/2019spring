@@ -93,6 +93,13 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons).
 
 <dl>
+<dt><a href="https://internetingishard.com/html-and-css/">internetingishard.com/html-and-css</a></dt>
+<dd>Your one-stop shop for learning basic web architecture from the ground up. I'll assign this for homework.</dd>
+
+<dt><a href="http://htmlreference.io/">htmlreference.io</a></dt>
+<dt><a href="http://cssreference.io/">cssreference.io</a></dt>
+<dd>There are a *lot* of html elements and CSS attributes that you'll find in your travels through the web. As with book literacy, you'll pick up the vocabulary mostly by encountering them in the world, on websites, not by starting with a dictionary. But when you do find them, you'll want a good dictionary where you can look them up and learn more about how they're supposed to work. These are pretty well organized, and (unlike some of the "official" documentation) give usually you visual examples of what the elements and rules mean and do. And when you do want that official documentation, you can find it by clicking on the "MDN" link at the top right of any definition page.</dd>
+
 <dt><a href="https://templated.co/">templated.co</a></dt>
 <dt><a href="https://html5up.net/">html5up.net</a></dt>
 <dd>There are a lot of websites that offer collections of free website themes and templates. These are two of my favorite sources for starting up static sites with built-in semantic html5 and responsive css.</dd>
