@@ -228,20 +228,22 @@ For next time:
  - CSS frameworks (Bootstrap); 
  - Responsive templates (html5up, templated.co)
  - how to publish a working website using github.io
-* Volunteers to workshop next time? 
- - p.s. if you haven't yet had an opportunity for full-class workshop, I'll ask you to present your group's work-in-progress during the collaborative unit.
 -->
 For next time:
 
 * Continue reading and following along with the tutorial disproving the claim that ["html & css is hard"](https://internetingishard.com/html-and-css/). Spend at least an hour, aiming to learn something you don't already know.
  - If this is *all* familiar, including responsive design, read up on accessibility and "universal" design, starting here: [Introduction to Web Accessibility](https://webaim.org/intro/).
-* Once you know what \<img\> tags are, review this guidance on how and why to include the alt attribute in all of your \<img\> tags: [webaim.org/techniques/alttext/](https://webaim.org/techniques/alttext/)
+* Once you know what `<img>` tags are, review this guidance on how and why to include the alt attribute in all of your `<img>` tags: [webaim.org/techniques/alttext/](https://webaim.org/techniques/alttext/)
 * If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
 * Push a draft website to github; if you're not up being workshopped, it is fine if all you have to post is your tutorial progress.
 
 <h3><a href="lesson-15">Lesson 15, Tuesday, 10/24</a> – Gathering criteria (web edition)</h3>
 <!-- 
-Bonus: how to publish a working website with flat html pages using github.io
+* What questions do you have? See if your groupmates can help.
+* Criteria gathering: baseline and aspirational.
+* Volunteers to workshop next time? 
+ - p.s. if you haven't yet had an opportunity for full-class workshop, I'll ask you to present your group's work-in-progress during the collaborative unit.
+
 -->
 For next time:
 
