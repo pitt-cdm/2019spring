@@ -104,9 +104,19 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dt><a href="https://html5up.net/">html5up.net</a></dt>
 <dd>There are a lot of websites that offer collections of free website themes and templates. These are two of my favorite sources for starting up static sites with built-in semantic html5 and responsive css.</dd>
 
+<dt><a href="http://getbootstrap.com/">Bootstrap CSS Framework</a></dt>
+<dd><p>Once you're clear on what a CSS class is, and how to add it to an HTML element, you can pretty much work from scratch designing your own CSS rules and building from there. But sometimes it helps to have a leg up, and that's where libraries come in: with a single line in the `<head>` element of your web page, you can import a whole slew of pre-made CSS rules (and even some related JavaScript actions), so that you can just start adding them to your html. It's a little like Lego for web design, only free.</p>
+
+<p>Bootstrap is one of the most popular CSS libraries right now – I guarantee you've seen more than one website that uses it – and it's got enviably clear documentation for specific classes. One of the key advantages is that Bootstrap divs can split the page into a convenient grid for you, and they can automatically resize responsively for different screens. The latest version, Bootstrap 4, is is now much better at aligning and centering things along vertical axes, as well as horizontal; the tradeoff is that it's still in beta release, which means it has a few bugs. You can still use the more stable <a href="https://getbootstrap.com/docs/3.3/">Bootstrap 3</a> if you prefer.</p>
+</dd>
+
 <dt><a href="https://www.foregroundweb.com/optimize-images/">Optimizing Images for Website Performance</a></dt>
 <dd><p>You can find some beautiful free images out there, at very high resolution – and your own digital camera (even the one on your phone) probably defaults to a ridiculously high number of pixels, too. All those pixels come at a cost. If you find that your site is loading slowly, and especially if you see the images appear with some lag behind the text, you may want to scale down.</p>
 <p>Luckily, you have a tool that can help you do it: GIMP! Check the link above for some tips on pixel counts, resolutions (pixels per inch), and jpeg compression quality.</p>
+</dd>
+
+<dt><a href="https://css-tricks.com/guides/">CSS-Tricks.com</a></dt>
+<dd>Many of my Google searches for solutions to CSS problems lead me here, so I figured I'd point it out early and reassure you that it's legit. Some very clear explanations not only of what to do, but why it works – and, often, alternative approaches to the same challenges.</dd>
 
 </dl>
 
