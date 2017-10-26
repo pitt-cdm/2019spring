@@ -253,10 +253,11 @@ For next time:
 
 For next time:
 
-* Re-read Stolley's "Lo-Fi Manifesto," especially section four: ["Design first for the most constrained users and devices."](http://kairos.technorhetoric.net/20.2/inventio/stolley/#point-four)
-* Continue working on your pitch and your site
+* Continue working on your pitch and your site, drawing on any tutorials or tips sites you need.
+ * If you're downloading assets, save as you go!
 * Come in ready to share a CSS trick or semantic html element with your groupmates
 * If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+* EXT: Re-read Stolley's "Lo-Fi Manifesto," especially section four: ["Design first for the most constrained users and devices."](http://kairos.technorhetoric.net/20.2/inventio/stolley/#point-four)
 
 
 <h3><a href="lesson-17">Lesson 17, Tuesday, 10/31</a> – Studio (web edition)</h3>
