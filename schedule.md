@@ -261,14 +261,14 @@ For next time:
 
 <h3><a href="lesson-17">Lesson 17, Tuesday, 10/31</a> – Studio (web edition)</h3>
 <!-- 
-* check in with calendar: will it be possible to post your pitches by Monday noon, to allow voting on Tuesday? If not, push everything back by a day
+* check in with calendar: will it be possible to post your pitches by Monday noon, to allow voting on Tuesday? If not, push everything back by a day (already done!!)
 * Ben HW: make a google form for top-four voting 
 -->
 
 For next time:
 
-* Post your pitch website materials to github by Monday, 10/30
-* When it's ready, post a link to the WordPress site to make it easier for your classmates to find
+* Post your pitch website materials to github by Thursday; aim for 10pm Wednesday night if possible.
+* When it's ready, post a link to make it easier for your classmates to find
 * Read through as many pitches as you can before class.
 * In class, you'll each have 2-3 minutes to make your pitch, which hopefully leaves us with 10 minutes to vote on your top four. 
 * If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
@@ -277,12 +277,12 @@ For next time:
 <!-- 
 * Ben: pre-load the pitch websites.
 * everyone gets 3 minutes to summarize, 10 minutes to vote 
-* If we run out of time, you can vote online. I'll sort the groups for Thursday
+* If we run out of time, you can vote online. I'll sort the groups for Tuesday
 -->
 
 For next time: 
 
-* If we ran out of time for the vote, vote as soon as you can!
+* If we ran out of time for the vote, vote as soon as you can! 
 * I'll compile all the preferences into groups
 * Review the pitch websites for your top four pitches, and think about what roles you might want to play, depending on the group you end up in.
 * Read *Writer/Designer* chapter 5, on "Conceptualizing and Collaborating," and pay particular attention to the team contract – you'll be writing one next class.
