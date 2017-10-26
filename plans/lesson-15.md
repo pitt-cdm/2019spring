@@ -48,6 +48,8 @@ We'll start in groups here, then discuss as a full class.
 #### Group brainstorm (10 min)
 To bring all our notes together while allowing for real-time collaboration, **use [this google doc](http://bit.ly/cdm2017fall).** 
 
+<!-- note for next time I teach this: suggest "use `div`s and/or semantic elements like `<section>` for layout" -->
+
 <div class="alert alert-success">
 <strong>Task:</strong>
 Given the goals of the assignment and what you've been able to figure out so far about your particular project goals, how will we know if you've succeeded? What constitutes a minimum set of criteria for this assignment?
