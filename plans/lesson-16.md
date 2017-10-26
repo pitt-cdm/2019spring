@@ -43,7 +43,7 @@ As in past units, we'll want to **describe** what we notice, **evaluate** with r
 
 To make it as relevant to the full class as possible, I want to focus mainly on the technical side: how the html is working to semantically define the content, and how the css is working to render it. 
 
-Note, though, that our discussion of css can and should include how the visuals guide attention, and how the text of the pitch is transformed into this other medium of markup. #continuity 
+Note, though, that our discussion of css can and should include how the visuals guide attention, and how the text of the pitch is transformed by revising into this medium of markup. <a>#continuity</a> 
 
 Let's begin!
 
@@ -60,7 +60,7 @@ If you have changes, please share them as comments on that google doc, or start 
 
 ### Studio (20ish min)
 
-Use the remaining class time to get moving on your project, aiming to make at least one new commit before you leave. 
+Use the remaining class time to get moving on your project, aiming to **make at least one new commit** before you leave. 
 
 I'll float.
 
