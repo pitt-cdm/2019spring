@@ -126,13 +126,15 @@ This process could probably take as much time as we can give it, but let's stop 
  * Push your html and css files to a folder (repo) on github;
  * name the main landing page `index.html`; and
  * activate GitHub Pages as I demonstrated [in a gif last class](https://cdm2017.majoringinmeta.net/lesson-14/#before-you-leave).
+ <!-- Forgot to remind them to post this link anywhere -->
 
 **Inputs**
 
-* Review the assignment website at https://benmiller314.github.io/cdm-assignments/web
+* Review the assignment website at [benmiller314.github.io/cdm-assignments/web](https://benmiller314.github.io/cdm-assignments/web)
 * Continue working with ["html & css is hard"](https://internetingishard.com/html-and-css/), getting as far as you can reasonably get. 
 * Have another look at the [resources page of this website](https://cdm2017.majoringinmeta.net/resources), where I've added links to reference sources, website templates and frameworks, and one of my favorite sources for useful CSS tricks. 
 * Consult any other tutorials you need – possibly including Lynda videos, which you can access through [my.pitt](https://my.pitt.edu) – to solve design problems as they come up.
+<!-- forgot to remind them to review the criteria -->
 
 **Administrative**
 
