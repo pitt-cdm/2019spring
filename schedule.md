@@ -269,9 +269,9 @@ For next time:
 For next time:
 
 * Post your pitch website materials to github by Thursday; aim for 10pm Wednesday night if possible.
-* When it's ready, post a link to make it easier for your classmates to find
-* Read through as many pitches as you can before class.
-* In class, you'll each have 2-3 minutes to make your pitch, which hopefully leaves us with 10 minutes to vote on your top four. 
+ * When it's ready, post a link to make it easier for your classmates to find
+ * In class, you'll each have 2-3 minutes to make your pitch, which hopefully leaves us with 10 minutes to vote on your top four. 
+* UPDATE: I'm extending the deadline for the web unit reflection (and any attendant revisions to your pitch site) to Tuesday, 11/7. As usual, please aim for the night before.
 * If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
 
 <h3><a href="lesson-18">Lesson 18, Thursday, 11/2</a> – Lightning talk presentations and project vote</h3>
