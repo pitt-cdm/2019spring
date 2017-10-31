@@ -10,9 +10,9 @@ To book an appointment with me (Ben), head over to <strong><a href="https://benm
 To get to my office, which is CL 617 N, go through the doors closest to the elevators and take the right-hand branch of the hallway almost to the end. 
 
 
-<img class="aligncenter size-full wp-image-91" src="https://cdm2017.majoringinmeta.net/wp-content/uploads/2017/08/dangerous-to-go-alone-wide.jpg" alt="Between two flames, the old man who offered Link advice in The Legend of Zelda (Miyamoto et al 1987)" width="1920" height="64" />
-
+<!--
 [toc]
+-->
 
 ## Services at Pitt
 <dl>
@@ -21,6 +21,16 @@ To get to my office, which is CL 617 N, go through the doors closest to the elev
 
 <dt><a href="http://www.writingcenter.pitt.edu/">Pitt Writing Center</a></dt>
 <dd>Though not every consultant will have experience in multimodal composing or digital media, some will; but more importantly, the Writing Center's emphases on process-oriented reflection and rhetorical thinking makes every consultant a useful sounding board for your projects. It's a good idea to <a href="http://www.writingcenter.pitt.edu/undergraduate-services">plan for your visit</a> and to make an appointment before you go.</dd>
+</dl>
+
+## Help with Git and GitHub
+<dl>
+<dt><a href="http://ohshitgit.com/">ohshitgit.com</a></dt>
+<dd>We can pretend that the three words in that URL all have three letters, but let's face it: there are times when even experienced users of git feel that something has gone terribly wrong. This is a great resource of quick command-line fixes for common problems, compiled by someone who feels your pain.</dd>
+
+<dt><a href="https://education.github.com/discount_requests/new">Free private repositories</a></dt>
+<dd>GitHub defaults to making repositories public, and ordinarily you would have to buy a paid account to keep your projects private. But if you have a .edu email account, you can request a discount that lets you get unlimited private repositories for free. Click the link to find out more.</dd>
+
 </dl>
 
 ## Free and Licensed Images, Music, and Other Assets
@@ -68,7 +78,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 </dl>
 
 ### Audio
-Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. 
+Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the section on <a href="#file-compression">file compression</a>, below. 
 
 <dl>
 <dt><a href="http://manual.audacityteam.org/index.html#using">Audacity Wiki</a></dt>
@@ -78,7 +88,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dd>The title says it all. I haven't had problems, but if you start to, have a look here.</dd>
 
 <dt>Examples of Soundwriting</dt>
-<dd>There is kind of a glut of good radio out there, especially in the form of podcasts produced by NPR (<a href="http://www.npr.org/podcasts/"National Public Radio</a>) or PRX (<a href="http://www.prx.org/series">Public Radio Exchange</a>). You can look for something in the same genre as the piece you want to re-mediate.</dd>
+<dd>There is kind of a glut of good radio out there, especially in the form of podcasts produced by NPR (<a href="http://www.npr.org/podcasts/">National Public Radio</a>) or PRX (<a href="http://www.prx.org/series">Public Radio Exchange</a>). You can look for something in the same genre as the piece you want to re-mediate.</dd>
 <dd>I'll assign a few of my favorites over the next week or two.</dd>
 <dd>Also, Courtney Danforth, a professor at the College of Southern Nevada and a prominent voice in favor of soundwriting in composition, has compiled a list of her favorite sound essays and audio stories as part of her three-page handout on <a href="https://courtneysdanforth.files.wordpress.com/2009/09/getting-started-with-soundwriting-google-docs.pdf">Getting Started with Soundwriting</a>. </dd>
 
@@ -87,7 +97,19 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dd>And here's a longer <a href="https://current.org/2016/02/tips-from-ira-glass-on-better-radio/">lecture on "making better radio,"</a> punctuated with examples, that he gave back in 1998 (many of the principles – and critiques – still hold).</dd>
 <dd>This may be less relevant for this particular assignment, but I was searching the web for a recording of Ira Glass talking about <em>This American Life</em> and how to write stories for the radio, but instead I found an interview-in-writing – for LifeHacker, of all things – in which he answers the question, <a href="https://lifehacker.com/im-ira-glass-host-of-this-american-life-and-this-is-h-1609562031">"What everyday thing are you better at than everyone else? What’s your secret?"</a> with a really great and concise rendering of how he takes hours of tape and condenses them into a story. So if you've got too much textual material for your audio remediation, and you're not sure how to render it down, click the link above and search for that question.</dd>
 
+<dt>On minding P's and S's</dt>
+<dd>
+<p>One of the more common challenges of recording speech is that sibilants (s sounds) and plosives (especially p sounds) tend to pop out in stark contrast to the sounds around them. Some of the extended early readings in the unit talk about ways to fix this when first recording, but there are also lots of tutorials out there describing Audacity tricks for filtering them out once they're in the mix.<ul>
+ <li>Here's one that uses equalizer to remove the low rumble of p's: <a href="https://www.youtube.com/watch?v=Gx-0qqov96E">How to Remove P-pop in Audacity</a></li>
+ <li>And here's one that gives us permission to just cut random chunks of 's' sounds <a href="https://www.youtube.com/watch?v=1_0ZMH2NwUs">Quick Trick to Eliminate Sibilance</a>. NB: he doesn't use Audacity, but the tips are generalizable.</li>
+ <li>Here's one that uses the spectrogram instead of waveform view to find audio anomalies, especially useful if they're surrounded by micromoments of silence: <a href="https://www.youtube.com/watch?v=ryr8KOfzikw">Removing micro pops in Audacity</a></li>
+</ul>
+</p>
+<p>Collective feedback on the audio unit, including a couple more tips and tricks, is included in <a href="/lesson-12">lesson 12</a>.
+</p>
+</dd>
 </dl>
+
 
 ### Web Design
 Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons).
@@ -95,6 +117,14 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dl>
 <dt><a href="https://internetingishard.com/html-and-css/">internetingishard.com/html-and-css</a></dt>
 <dd>Your one-stop shop for learning basic web architecture from the ground up. I'll assign this for homework.</dd>
+
+<dt><a href="http://jgthms.com/web-design-in-4-minutes">Web Design in 4 Minutes</a></dt>
+<dd>We walked through this demo on the <a href="/lesson-13/#web-design-in-4-minutes-15-min">first day of the unit</a>; if you're at a loss for what to include in your stylesheet, you can do far worse than adding the basic spacing rules Jeremy Thomas sets up here.</dd>
+
+<dt><a href="https://css-tricks.com/how-css-selectors-work/">How CSS Selectors Work (CSS-Tricks)</a></dt>
+<dd><p>This could be a very useful follow-up to the Interneting is Hard tutorial, or perhaps just a handy reference for some of the more common "advanced" CSS selectors. It starts from basic ways of matching style rules to html elements, and then proceeds to discuss what happens when multiple rules apply to the same element – which rule "wins," or supersedes the other. To sum up, it's not simply which one comes last in the *.css file (though that also matters): in general, the more narrowly defined rule will still override a more broadly defined one. Read on for more details.</p>
+<p>Also, it's worth saying that many of my Google searches for solutions to CSS problems lead me here, so I figured I'd point it out early and reassure you that it's legit. Some very clear explanations not only of what to do, but why it works – and, often, alternative approaches to the same challenges.</p>
+</dd>
 
 <dt><a href="http://htmlreference.io/">htmlreference.io</a></dt>
 <dt><a href="http://cssreference.io/">cssreference.io</a></dt>
@@ -105,6 +135,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dd>There are a lot of websites that offer collections of free website themes and templates. These are two of my favorite sources for starting up static sites with built-in semantic html5 and responsive css.</dd>
 
 <dt><a href="http://getbootstrap.com/">Bootstrap CSS Framework</a></dt>
+<dt>and <a href="http://cssdb.co/">other CSS libraries</a></dt>
 <dd><p>Once you're clear on what a CSS class is, and how to add it to an HTML element, you can pretty much work from scratch designing your own CSS rules and building from there. But sometimes it helps to have a leg up, and that's where libraries come in: with a single line in the `<head>` element of your web page, you can import a whole slew of pre-made CSS rules (and even some related JavaScript actions), so that you can just start adding them to your html. It's a little like Lego for web design, only free.</p>
 
 <p>Bootstrap is one of the most popular CSS libraries right now – I guarantee you've seen more than one website that uses it – and it's got enviably clear documentation for specific classes. One of the key advantages is that Bootstrap divs can split the page into a convenient grid for you, and they can automatically resize responsively for different screens. The latest version, Bootstrap 4, is is now much better at aligning and centering things along vertical axes, as well as horizontal; the tradeoff is that it's still in beta release, which means it has a few bugs. You can still use the more stable <a href="https://getbootstrap.com/docs/3.3/">Bootstrap 3</a> if you prefer.</p>
@@ -115,11 +146,17 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <p>Luckily, you have a tool that can help you do it: GIMP! Check the link above for some tips on pixel counts, resolutions (pixels per inch), and jpeg compression quality.</p>
 </dd>
 
-<dt><a href="https://css-tricks.com/guides/">CSS-Tricks.com</a></dt>
-<dd>Many of my Google searches for solutions to CSS problems lead me here, so I figured I'd point it out early and reassure you that it's legit. Some very clear explanations not only of what to do, but why it works – and, often, alternative approaches to the same challenges.</dd>
+<dt><a href="https://www.fontsquirrel.com/tools/webfont-generator">WebFont Generator, by FontSquirrel</a></dt>
+<dd>When you find a good font, before you can use it on the web it has to be formatted for browsers to render properly. Some fonts on your favorite font sites will already have webfont versions. If they don't, as Gabi demonstrated in class, you can convert them to web-ready fonts using this tool. Just make sure you have permission to do so, okay?</dd>
 
 </dl>
 
+## File Compression
+If you're having trouble uploading large files to GitHub or through email, you can try <em>compressing</em> the files. But while most computers come with built-in compression algorithms, they tend not to be very good. Luckily, there are several excellent and free applications that will happily shrink your file sizes. Here are some 2017 roundups:
+
+* For any file/folder on **Windows:** <a href="http://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/">www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/</a>
+* For any file/folder on **Mac:** <a href="https://mac.eltima.com/best-archiver-mac.html">mac.eltima.com/best-archiver-mac.html</a>
+* **For JPEG files**, specifically: <a href="http://www.jpegmini.com/app">www.jpegmini.com/app</a>
 
 
 ## Other Resource Roundups
