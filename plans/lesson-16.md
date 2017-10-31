@@ -77,7 +77,7 @@ I'll float.
 
 * Continue to **refine your pitch and update your website**.
 * Make at least one git commit per working session, with a message about what you changed; **push your changes to GitHub**.
- * One word of warning: GitHub pages can be slow to update (e.g. a few minutes instead of a few seconds). It's easier to work with local files, so you can instantly see the changes in your browser when you update the css or html.
+ * One word of warning: GitHub Pages can be slow to update (e.g. a few minutes instead of a few seconds). It's easier to work with local files, so you can instantly see the changes in your browser when you update the css or html.
 
 **Administrative**:
 
