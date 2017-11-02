@@ -25,23 +25,26 @@
 
 Here are the links, and we'll go in this order (I tried to group by approximate genre):
 
-* Casey T: [https://caseyt13.github.io/Web-design/Web-design/](https://caseyt13.github.io/Web-design/Web-design/)
-* Annie: [https://adoctrow.github.io/Project-Pitch/Index.html](https://adoctrow.github.io/Project-Pitch/Index.html)
-* Jappmann: [https://jappmann.github.io/html-css/](https://jappmann.github.io/html-css/)
-* Caleb: [https://crs122.github.io/Project-3/basic-web-pages/](https://crs122.github.io/Project-3/basic-web-pages/)
-* Jojo: [https://jnh41.github.io/HTML-CSS-Project/#/about.html](https://jnh41.github.io/HTML-CSS-Project/#/about.html)
-* Jeff: [https://jeffreymcgarvey.github.io/Web-Design-/](https://jeffreymcgarvey.github.io/Web-Design-/)
-* Lucas: [https://lgrasha.github.io/html-project-cdm-2017/](https://lgrasha.github.io/html-project-cdm-2017/)
-* Sammie: [https://sammiepugh.github.io/Webslinging-with-HTML-CSS/](https://sammiepugh.github.io/Webslinging-with-HTML-CSS/)
-* Casey R: [https://reilandc.github.io/Website/](https://reilandc.github.io/Website/)
-* Jill: [https://jilltyburski.github.io/web-design-project/](https://jilltyburski.github.io/web-design-project/)
-* Jack: [https://jrmulligan13.github.io/websitedesign/](https://jrmulligan13.github.io/websitedesign/)
-* Abby: [https://abbyshoffman.github.io/Web-Unit/](https://abbyshoffman.github.io/Web-Unit/)
-* Taylor: [https://taylorsalamone.github.io/Web-design-project/](https://taylorsalamone.github.io/Web-design-project/)
-* Gwen: [https://gjpoillucci.github.io/Unit-4/index.html](https://gjpoillucci.github.io/Unit-4/index.html)
-* Alyssa: [https://artivityco.github.io](https://artivityco.github.io)
-* Eli: [https://elambiotte.github.io/Web-design-project/](https://elambiotte.github.io/Web-design-project/)
-* Gabi: [https://gabikeane.github.io/digcomp/](https://gabikeane.github.io/digcomp/)
+Here are the links, as best I could determine. I tried to group by approximate genre, so let's try this order:
+
+1. Casey T: [https://caseyt13.github.io/Web-design/Web-design/](https://caseyt13.github.io/Web-design/Web-design/)
+2. Annie: [https://adoctrow.github.io/Project-Pitch/Index.html](https://adoctrow.github.io/Project-Pitch/Index.html)
+3. Jappmann: [https://jappmann.github.io/html-css/](https://jappmann.github.io/html-css/)
+4. Caleb: [https://crs122.github.io/Project-3/basic-web-pages/](https://crs122.github.io/Project-3/basic-web-pages/)
+5. Jojo: [https://jnh41.github.io/HTML-CSS-Project/#/about.html](https://jnh41.github.io/HTML-CSS-Project/#/about.html)
+6. Jeff: [https://jeffreymcgarvey.github.io/Web-Design-/](https://jeffreymcgarvey.github.io/Web-Design-/)
+7. Lucas: [https://lgrasha.github.io/html-project-cdm-2017/](https://lgrasha.github.io/html-project-cdm-2017/)
+8. Sammie: [https://sammiepugh.github.io/Webslinging-with-HTML-CSS/](https://sammiepugh.github.io/Webslinging-with-HTML-CSS/)
+9. Casey R: [https://reilandc.github.io/Website/](https://reilandc.github.io/Website/)
+10. Jill: [https://jilltyburski.github.io/web-design-project/](https://jilltyburski.github.io/web-design-project/)
+11. Jack: [https://jrmulligan13.github.io/websitedesign/](https://jrmulligan13.github.io/websitedesign/)
+12. Abby: [https://abbyshoffman.github.io/Web-Unit/](https://abbyshoffman.github.io/Web-Unit/)
+13. Taylor: [https://taylorsalamone.github.io/Web-design-project/](https://taylorsalamone.github.io/Web-design-project/)
+14. Gwen: [https://gjpoillucci.github.io/Unit-4/index.html](https://gjpoillucci.github.io/Unit-4/index.html)
+15. Alyssa: [https://artivityco.github.io](https://artivityco.github.io)
+16. Eli: [https://elambiotte.github.io/Web-design-project/](https://elambiotte.github.io/Web-design-project/)
+17. Gabi: [https://gabikeane.github.io/digcomp/](https://gabikeane.github.io/digcomp/)
+
 
 
 ### Vote?
