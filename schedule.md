@@ -283,11 +283,12 @@ For next time:
 
 For next time: 
 
-* If we ran out of time for the vote, vote as soon as you can! 
-* I'll compile all the preferences into groups
-* Review the pitch websites for your top four pitches, and think about what roles you might want to play, depending on the group you end up in.
-* Read *Writer/Designer* chapter 5, on "Conceptualizing and Collaborating," and pay particular attention to the team contract – you'll be writing one next class.
-* If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+* **Vote** as soon as you can! By end-of-day Friday if possible. I'll compile all the preferences into groups as soon as I have them all. 
+* **Read** *Writer/Designer* chapter 5, on "Conceptualizing and Collaborating," and pay particular attention to the team contract – you'll be writing one next class.
+* **Review** the criteria for the web design unit, and don't forget to scroll down.
+* **Finalize** your website and reflection, and post them to GitHub.
+* If you haven't yet, sign up for a midterm conference with Ben over the next  week (absolute latest deadline: 11/9)
+* EXT: Review the pitch websites for your top four pitches, and think about what roles you might want to play, depending on the group you end up in.
 
 
 <h2 id="unit-5">Unit V: Collaborative Composing</h2>
