@@ -15,6 +15,7 @@
 -->
 
 
+
 ### Reflection: What Makes Groups Work?
 Take a few minutes to reflect in writing, as per the "Process!" activity on page 83 of *W/D*:
 
@@ -50,45 +51,19 @@ Get in your new groups, and talk through your visions for the project, what you 
 
 <div class="alert alert-success">
 Working together, compose a Team Contract as per <em>W/D</em> page 86. Aim to turn in this document by the end of class – or, barring that, the beginning of next class. (You can always revise by mutual consent if you need to.)
+
+Some minimum components to get in writing, which you can copy/paste and then respond to, are in our [criteria doc](http://bit.ly/cdm2017fall).
 </div>
 
-Some minimum components to get in writing, which you can copy/paste and then respond to:
+Turn in a version by the end of class, probably in someone's GitHub repo. It's okay to make this document flexible, and you can revise it later by mutual agreement. 
 
-#### Group Expectations
-
-* What are our group goals for this project? What do we want to accomplish?
-* What quality of work do we expect from each group member, and what strategies will we employ to ensure that we fulfill these standards?
-* How will we encourage ideas from all team members?
-
-#### Tasks and Deadlines
-
-* What tasks need to be completed by when, and by whom?
- - NB: You can see the constraints on the semester by going to the Schedule page.
-
-#### Group Procedures
-
-* Will we need to meet outside of class? If so, what will be the dates, times, and locations of meetings? 
-* What is the preferred method of communication for sharing information about meetings, updates, reminders, and problems? Possibilities include email, text, GitHub issue queue (see below), Slack, Google Hangout, etc
- - Consider how much of this communication you'll want to be able to turn to for evidence of collaboration or fodder for your unit / semester reflections
-
-#### Personal Accountability
-
-* Define each team member's expected level of responsibility for attending meetings, responding to communication from other group members, and completing assigned tasks on time.
-* Describe how the group will handle a team member who does not comply with the contract. What are the consequences?
-
-#### Further considerations
-
-* If you will use GitHub for collaboration, whose account will host the repo? 
-* Create a shared filespace for your group, and give everyone in your group editing access to it
-
-Turn in a version by the end of class. It's okay to be flexible, and you can revise by mutual agreement. But if you really feel your contract is unfinished, say that at the top – and try to finish it by Thursday, because we're heading into the formal proposal stage next.
+But *if you really feel your contract is unfinished, please say that at the top* – and try to finish it by Thursday, because we're heading into the formal proposal stage next.
 
 ### EXT: Using the GitHub issue queue to assign tasks
 
 <!-- Remember from way back in the beginning of the semester, when we learned about Version Control Systems and why git is worth knowing? A big part of that was collaboration. -->
 
-GitHub is really designed as a social platform built around git, and what I mean by that is that a lot of its features are designed to encourage and support collaborations among groups. One relatively recent and cool tool is the Project board. Check out this features list if you get a chance:
-[https://github.com/features/project-management](https://github.com/features/project-management). 
+GitHub is really designed as a social platform built around git, and what I mean by that is that a lot of its features are designed to encourage and support collaborations among groups. One relatively recent and cool tool is the Project board. Check out this features list if you get a chance: [https://github.com/features/project-management](https://github.com/features/project-management). 
 
 One of the first links will take you to the excellent introduction to [Mastering Issues](https://guides.github.com/features/issues/), which is also worth the 10 minutes if you haven't used issues before. (Basically, it's a discussion board with version-control bonus features.)
 
@@ -104,16 +79,19 @@ Please make sure you...
 * turn in your team contract, with a note saying whether it's still rough or feels pretty solid
 * make a plan with your groupmates for immediate next steps (and timing)
 
-## For next time:
+## For next time
 
 **Inputs**
+
 * Begin research toward your group project
 * Re-read *Writer/Designer* chapter 5 in light of your new groups, especially the section on "Proposing to Get it All Done," since we'll start work on the Project Proposals next class.
 * If you haven't yet, read through those links in the EXT section above; it should take about 15 minutes of your time, and mastering Issues will hopefully save you more than that in the future.
 
 **Outputs**
+
 * If you haven't yet finished your team contract, work as a team to get it done. 
 * Prepare to collaboratively compose a group project proposal on Thursday; this may mean drafting together in a Google doc or the like, and if you have the time you may want to start before Thursday.
 
 **Administrative**
+
 * Last chance to sign up for a midterm conference and not be late (I've had the deadline at 11/9 for several weeks)
