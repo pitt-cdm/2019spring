@@ -31,15 +31,34 @@ Turn in a version by the end of class. It's okay to be flexible, and you can rev
 
 ### EXT: Using the GitHub issue queue to assign tasks
 
+<!-- Remember from way back in the beginning of the semester, when we learned about Version Control Systems and why git is worth knowing? A big part of that was collaboration. -->
 
+GitHub is really designed as a social platform built around git, and what I mean by that is that a lot of its features are designed to encourage and support collaborations among groups. One relatively recent and cool tool is the Project board. Check out this features list if you get a chance:
+[https://github.com/features/project-management](https://github.com/features/project-management). 
+
+One of the first links will take you to the excellent introduction to [Mastering Issues](https://guides.github.com/features/issues/), which is also worth the 10 minutes if you haven't used issues before. (Basically, it's a discussion board with version-control bonus features.)
+
+I've also set up a [little artificial demo](https://github.com/benmiller314/cdm-demo2/projects/1) if you want to play around with any of this non-committally.
+
+
+### Before you leave
+
+Please make sure you...
+
+* have direct contact info for all your groupmates
+* turn in your team contract, with a note saying whether it's still rough or feels pretty solid
+* make a plan with your groupmates for immediate next steps (and timing)
 
 ## For next time:
 
 **Inputs**
 * Begin research toward your group project
-* Re-read *Writer/Designer* chapter 5 in light of your new groups, especially the section on "Proposing to Get it All Done."
+* Re-read *Writer/Designer* chapter 5 in light of your new groups, especially the section on "Proposing to Get it All Done," since we'll start work on the Project Proposals next class.
+* If you haven't yet, read through those links in the EXT section above; it should take about 15 minutes of your time, and mastering Issues will hopefully save you more than that in the future.
 
 **Outputs**
-* If you haven't yet finished 
+* If you haven't yet finished your team contract, work as a team to get it done. 
 * Prepare to collaboratively compose a group project proposal on Thursday; this may mean drafting together in a Google doc or the like, and if you have the time you may want to start before Thursday.
+
+**Administrative**
 * Last chance to sign up for a midterm conference and not be late (I've had the deadline at 11/9 for several weeks)
