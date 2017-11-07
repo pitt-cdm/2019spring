@@ -23,6 +23,8 @@ Take a few minutes to reflect in writing, as per the "Process!" activity on page
 Think about groups you've worked in, whether effective or – ahem – less so. <strong>Make two lists, which we might call "dos and don'ts"</strong>: What aspects of group work have helped foster a positive work experience? What has led to problems? Is there anything groups in this class have done well, that you'd want to continue to do? Or to change?
 </div>
 
+We'll discuss as a class, but not past 11:15 or so, because I want to save time for some small-group collaborative writing.
+
 ### New Groups!
 
 <div class="cols-2">
