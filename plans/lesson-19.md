@@ -21,6 +21,26 @@ W/D p. 83
 
 ### New Groups!
 
+<div class="cols-2">
+<div id="team-chicken" class="alert alert-white">
+<strong>Social media campaign: chicken</strong>
+Taylor, Eli, Sammie
+</div>
+<div id="team-instagram" class="alert alert-white">
+<strong>Social media campaign: non-chicken</strong>
+Jill, Alyssa, Annie, Jack
+</div>
+<div id="team-datavis" class="alert alert-white">
+<strong>Interactive Infographics</strong>
+Gwen, Casey T, Gabi, Lucas
+</div>
+<div id="team-foodie" class="alert alert-white">
+<strong>Pittsburgh Food Guide</strong>
+Jappmann, Abby, Caleb, Casey R, Jeff, Jojo
+</div>
+</div>
+
+Note that the Pittsburgh Food Guide team will almost certainly want to further subdivide, whether by neighborhood, or by content vs. presentation, etc. etc. Two teams of three might be nice.
 
 ### Team Contract Negotiations and Drafting
 
