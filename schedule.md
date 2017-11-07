@@ -302,8 +302,8 @@ For next time:
 
 * Begin research toward your group project
 * Re-read *Writer/Designer* chapter 5 in light of your new groups, especially the section on "Proposing to Get it All Done."
-* Prepare to collaboratively compose a group project proposal on Tuesday.
-* If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+* Prepare to collaboratively compose a group project proposal on Thursday; this may mean drafting together in a Google doc or the like
+* Last chance to sign up for a midterm conference and not be late (I've had the deadline at 11/9 for several weeks)
 
 
 <h3><a href="lesson-20">Lesson 20, Thursday, 11/9</a> – Planning for Success</h3>
@@ -315,8 +315,9 @@ For next time:
 
 For next time:
 
-* If you haven't yet turned in a project proposal, finish it by Thursday; I'd like to meet with every group by the end of Thursday's class, if possible.
-* If you haven't yet (and why not?), sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
+* If you haven't yet turned in a project proposal, finish it by Tuesday; I'd like to meet with every group by the end of Tuesday's class, if possible.
+* If you haven't yet (and why not?), sign up for a midterm conference with Ben (it'll now be late for midterm, but we should still meet)
+
 
 <h3><a href="lesson-21">Lesson 21, Tuesday, 11/14</a> – Group conferences</h3>
 
