@@ -52,7 +52,7 @@ Get in your new groups, and talk through your visions for the project, what you 
 <div class="alert alert-success">
 Working together, compose a Team Contract as per <em>W/D</em> page 86. Aim to turn in this document by the end of class – or, barring that, the beginning of next class. (You can always revise by mutual consent if you need to.)
 
-Some minimum components to get in writing, which you can copy/paste and then respond to, are in our [criteria doc](http://bit.ly/cdm2017fall).
+Some minimum components to get in writing, which you can copy/paste and then respond to, are in our <a href="http://bit.ly/cdm2017fall">criteria doc</a>.
 </div>
 
 Turn in a version by the end of class, probably in someone's GitHub repo. It's okay to make this document flexible, and you can revise it later by mutual agreement. 
