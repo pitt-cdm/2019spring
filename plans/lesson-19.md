@@ -16,8 +16,11 @@
 
 
 ### Reflection: What Makes Groups Work?
-W/D p. 83
+Take a few minutes to reflect in writing, as per the "Process!" activity on page 83 of *W/D*:
 
+<div class="alert alert-success">
+Think about groups you've worked in, whether effective or – ahem – less so. <strong>Make two lists, which we might call "dos and don'ts"</strong>: What aspects of group work have helped foster a positive work experience? What has led to problems? Is there anything groups in this class have done well, that you'd want to continue to do? Or to change?
+</div>
 
 ### New Groups!
 
@@ -43,9 +46,40 @@ Jappmann, Abby, Caleb, Casey R, Jeff, Jojo
 Note that the Pittsburgh Food Guide team will almost certainly want to further subdivide, whether by neighborhood, or by content vs. presentation, etc. etc. Two teams of three might be nice.
 
 ### Team Contract Negotiations and Drafting
+Get in your new groups, and talk through your visions for the project, what you might bring to the team, what questions you have, etc. 
 
+<div class="alert alert-success">
+Working together, compose a Team Contract as per <em>W/D</em> page 86. Aim to turn in this document by the end of class – or, barring that, the beginning of next class. (You can always revise by mutual consent if you need to.)
+</div>
 
-Further considerations: Will you use GitHub for collaboration? Whose account will host the repo? Make sure everyone has editing access to your shared filespace before you leave.
+Some minimum components to get in writing, which you can copy/paste and then respond to:
+
+#### Group Expectations
+
+* What are our group goals for this project? What do we want to accomplish?
+* What quality of work do we expect from each group member, and what strategies will we employ to ensure that we fulfill these standards?
+* How will we encourage ideas from all team members?
+
+#### Tasks and Deadlines
+
+* What tasks need to be completed by when, and by whom?
+ - NB: You can see the constraints on the semester by going to the Schedule page.
+
+#### Group Procedures
+
+* Will we need to meet outside of class? If so, what will be the dates, times, and locations of meetings? 
+* What is the preferred method of communication for sharing information about meetings, updates, reminders, and problems? Possibilities include email, text, GitHub issue queue (see below), Slack, Google Hangout, etc
+ - Consider how much of this communication you'll want to be able to turn to for evidence of collaboration or fodder for your unit / semester reflections
+
+#### Personal Accountability
+
+* Define each team member's expected level of responsibility for attending meetings, responding to communication from other group members, and completing assigned tasks on time.
+* Describe how the group will handle a team member who does not comply with the contract. What are the consequences?
+
+#### Further considerations
+
+* If you will use GitHub for collaboration, whose account will host the repo? 
+* Create a shared filespace for your group, and give everyone in your group editing access to it
 
 Turn in a version by the end of class. It's okay to be flexible, and you can revise by mutual agreement. But if you really feel your contract is unfinished, say that at the top – and try to finish it by Thursday, because we're heading into the formal proposal stage next.
 
@@ -66,6 +100,7 @@ I've also set up a [little artificial demo](https://github.com/benmiller314/cdm-
 Please make sure you...
 
 * have direct contact info for all your groupmates
+* create a shared filespace for your group, and give everyone in your group editing access to it
 * turn in your team contract, with a note saying whether it's still rough or feels pretty solid
 * make a plan with your groupmates for immediate next steps (and timing)
 
