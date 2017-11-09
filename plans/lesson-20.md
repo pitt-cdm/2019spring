@@ -46,7 +46,7 @@ I want to give you the bulk of today's class to **work on formalizing a project 
 1. **Introduction/summary.** This will update the project pitch. Can you write yourselves a more specific assignment, now that you know what project you're on and who's on the team?
 2. **Project plan.** What tech will you use? Where will you source any necessary assets? How will you combine your separate efforts? Build in some flexibility, e.g. through stretch goals.
 3. **Justification.** Given the motivation and goals in your intro, how will the plan actually accomplish it? What Digital Media Composing skills will you be leveling up on?
-4. **Roles and responsibilities.** How will you divide up the pieces of the plan? This will update and/or include your team contract.
+4. **Roles and responsibilities.** How will you divide up the pieces of the plan? How will you know if the work's been done satisfactorily? This will update and/or include your team contract.
 5. **Timeline.** This should be a set of deadlines you're targeting, using the schedule of our semester as a guide. The authors of *W/D* offer a set of six stages or modes that you might consider adopting and matching to particular class meetings:
    - doing further research
    - preparing a storyboard or mockup (a design, not implemented in the final tech / platform)
