@@ -28,6 +28,17 @@ So, since I gently guilted you guys about reading the *W/D* chapter last time, a
 * Learn new technology (within reason). If nothing else, learn GH issue tracking.
 -->
 
+## Discussion: Criteria for Collaboration
+
+Here's an interesting question: 
+<div class="alert alert-success">
+Should we have shared baseline criteria across all groups? What could they look like?
+</div>
+
+How, in general, should groups be assessed?
+<!-- based on the reflection -->
+
+
 ### Collaborative Composing: Project Proposals
 
 I want to give you the bulk of today's class to **work on formalizing a project proposal**, with all the pieces that Arola, Sheppard, and Ball suggest you'll want (90-91) for guiding you over the next few weeks. I've adapted those prompts here (but do look to the book for ideas):
@@ -43,6 +54,8 @@ I want to give you the bulk of today's class to **work on formalizing a project 
    - preparing a rough cut or draft (implementation in the final tech / platform)
    - revising and editing your final project
    - delivering your final project
+
+And I want to add one more thing: **reflection**. As with the previous projects, as part of delivering your final project, I'm going to ask you to write at least 500 words about what you've learned, what the process was like, what challenges you faced and how you overcame them, what questions you have. These reflections will be individual, even though the project will be collaborative.
 
 
 ### Group conferences
