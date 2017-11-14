@@ -32,7 +32,7 @@ So, since I gently guilted you guys about reading the *W/D* chapter last time, a
 
 Here's an interesting question: 
 <div class="alert alert-success">
-Should we have shared baseline criteria across all groups? What could they look like?
+Should we have shared <a href="http://bit.ly/cdm2017fall">baseline criteria</a> across all groups? What could they look like?
 </div>
 
 How, in general, should groups be assessed?
@@ -80,4 +80,4 @@ Once you've met with me and gotten approval on your proposal, get to it! (You ca
 
 * Have a look over the [resources](/resources) page on our WordPress site, and compile a list of places to look for the assets (or instructions) you'll need. 
 * Continue any research necessary for getting your project off the ground. Tuesday's class, when you're not in conference with me, will be studio time.
-
+<!-- for next time: *W/D* chapter 6, on mockups and storyboards. -->
