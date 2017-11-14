@@ -1,4 +1,4 @@
-## 
+## Let us confer; let us commence
 <!-- 
   finalize proposals; 
   get approval on proposals; 
@@ -17,6 +17,9 @@
 * Group project proposal; research toward group project
 
 
+<!--
+[toc tag="h2" title="Plan for the Day"]
+-->
 
 
 
@@ -35,6 +38,7 @@ As you finish your proposals, turn them in to me and I'll give you in-person fee
 </div>
 
 NB: I do still recommend keeping track of these tasks and deadlines from within GitHub, using [Issues](https://guides.github.com/features/issues/) and the [Project view](https://github.com/features/project-management), but I understand if you're already taking on too many new tech skills to add that, too.
+
 
 EXT: If you're waiting for me, and if you have local access to it, please skim through *Writer/Designer* chapter 6, on "Designing Your Project." It deals with mock-ups and storyboards; consider which mode of design draft might be suitable for your own project, whether as an integral part of what you're making or as a platform for delivery. I should have had you do this over the weekend; my apologies for missing it!
 
