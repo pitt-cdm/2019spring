@@ -52,6 +52,8 @@ Once you've met with me and gotten approval on your proposal, get to it! (You ca
 
 Please write me a quick email updating me on today's progress and your tasks for Thursday. CC everyone in the group, so you have a record.
 
+<!-- workshopping next time: Sammie & Eli` -->
+
 
 ## For next time
 
