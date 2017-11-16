@@ -309,7 +309,7 @@ For next time:
 <h3><a href="lesson-20">Lesson 20, Thursday, 11/9</a> – Planning for Success</h3>
 <!-- 
 * Discussion: assessing groups
-* Working together, write a formal project proposal.
+* Working together, write a formal project proposal. (Use these sections / assignments. Give yourselves actual deadlines.)
 * EXT: get started!
 -->
 
