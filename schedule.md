@@ -294,9 +294,10 @@ For next time:
 <h2 id="unit-5">Unit V: Collaborative Composing</h2>
 <em>The deadlines and assignments here will vary from group to group, according to a team contract and more formal project proposal.</em>
 
-<h3><a href="lesson-19">Lesson 19, Tuesday, 11/7</a> – Team Contract</h3>
+<h3><a href="lesson-19">Lesson 19, Tuesday, 11/7</a> – Contracting into Teams</h3>
 <!--
 * By end of class, turn in a team contract
+* Why not assign titles to your various roles? Project Manager, Image Lead, Head of Research, etc
 -->
 For next time: 
 
