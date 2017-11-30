@@ -310,7 +310,7 @@ For next time:
 <h3><a href="lesson-20">Lesson 20, Thursday, 11/9</a> – Planning for Success</h3>
 <!-- 
 * Discussion: assessing groups
-* Working together, write a formal project proposal. (Use these sections / assignments. Give yourselves actual deadlines.)
+* Working together, write a formal project proposal. (Use these sections / assignments. Give yourselves actual deadlines, working with mock-up / rough cut guidelines below.)
 * EXT: get started!
 -->
 
@@ -326,7 +326,7 @@ For next time:
 
 * Work on your group projects
 * Email Ben with requests for mini-lessons
-
+<!-- By Thursday, have a mock-up or storyboard of your project -->
 
 <h3><a href="lesson-22">Lesson 22, Thursday, 11/16</a> – Workshop + group studio (collaboratory edition)</h3>
 <!-- request volunteers/pressgang for workshop after Thanksgiving -->
@@ -334,11 +334,13 @@ For next time:
 | **Tu 11/21**  |  **No class in deference to Thanksgiving travel**; stay in touch with your group |
 | **Th 11/23** |  **No class: Thanksgiving** |
 
-<h3><a href="lesson-23">Lesson 23, Tuesday, 11/28</a> – Workshop + group studio (collaboratory edition)</h3>
+<h3><a href="lesson-23">Lesson 23, Tuesday, 11/28</a> – Workshop + group studio (collaboratory edition)</h3> 
+<!-- By Thursday, have a rough cut of your project -->
 
 <h3><a href="lesson-24">Lesson 24, Thursday, 11/30</a> – Group studio + mini-lessons by request</h3>
 
 <h3><a href="lesson-25">Lesson 25, Tuesday, 12/5</a> – Final project presentations</h3>
+<!-- HW: take the tech skills survey again -->
 
 <h3><a href="lesson-26">Lesson 26, Thursday, 12/7</a> – Final project presentations; last day of class!</h3>
 
