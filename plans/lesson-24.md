@@ -25,10 +25,10 @@
 
 The final portfolio will consist of a single document – ultimately, a WordPress post, but you can draft it elsewhere for better version control if you wish – containing the following:
 
-1.	a *prose reflection* of roughly 800-1200 words, reflecting on the course and framing the portfolio’s contents in terms of your learning and goals (see reverse for guidelines);
-2.	representative *thumbnail images, hyperlinked to final versions of your four unit projects,* i.e. Visual, Audio, html+css Markup, and Collaborative;
-3.	links to *GitHub repositories* for at least three of those pieces, showing their revision histories; 
-4.	and a link to *at least one specific prior draft,* demonstrating your revision skills.
+1.	a **prose reflection** of roughly 800-1200 words, reflecting on the course and framing the portfolio’s contents in terms of your learning and goals (see reverse for guidelines);
+2.	representative **thumbnail images, hyperlinked to final versions of your four unit projects,** i.e. Visual, Audio, html+css Markup, and Collaborative;
+3.	links to **GitHub repositories** for at least three of those pieces, showing their revision histories; 
+4.	and a link to **at least one specific prior draft**, demonstrating your revision skills.
 
 These links and thumbnails can certainly be embedded within the reflection, and in fact that might make the most sense, but there are other options possible. 
 
