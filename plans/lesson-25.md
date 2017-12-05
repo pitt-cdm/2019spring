@@ -1,4 +1,4 @@
-## One more workshop + group studio (collaboratory edition)
+## One more group studio
 
 
 **Texts to have read / found / reviewed**
@@ -47,6 +47,8 @@ Some tips and EXTs:
 <li>Look back at the goals you set for yourselves, both in the group contract and in the <a href="https://bit.ly/cdm2017fall#heading=h.dk9v81mzxcbq">criteria-gathering google doc</a>. Knowing what you know now, and what you have now, what do you need to do to meet your team's baseline criteria for success by the end of the day? Which aspirational criteria are achievable by Thursday? </li>
 
 <li>If you haven't yet, have a look at the checklist and sets of questions in <em>Writer/Designer</em> chapter 7 (110-112) for some revision considerations. Some are matters of final polish, but some are essentials. Discuss with your groupmates which is which.</li>
+
+<li>EXT: I've re-opened the <a href="bit.ly/cdm-tech-survey">Tech Comfort Survey</a> from the beginning of the semester. I'm really interested to see how your answers will have changed! Plus, it may be a good way to start you thinking about your final reflections. <strong>There is one new question: will you allow me to excerpt from your portfolio in future semesters?</strong> If you have time in class, you can do it now; if not, you can do it for homework. I don't expect it will take long.</li>
 </ol>
 </div>
 
@@ -68,6 +70,7 @@ Does everyone have a copy of the final portfolio guidelines?
 **Outputs**
 
 * Finalize your collaborative projects, at least enough for presentation. Each group will have 10 minutes.
+* If you haven't yet, please fill out the [Tech Comfort Survey](bit.ly/cdm-tech-survey) (end-of-term edition) for a comparison between now and the beginning of the semester. There's a new question in which you may give or withhold permission for me to give future students your work as an example for discussion of what's possible in CDM.
 * Help each other, especially the social media groups: if you get a request to follow or publicize, think about saying yes!
 
 
