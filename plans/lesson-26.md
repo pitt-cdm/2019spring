@@ -10,9 +10,9 @@
 * Progress toward your group project: check off items on the tasklist.
 * Consider which earlier projects, if any, you'll want to revise for the final portfolio
 
-<!--
+
 [toc tag="h2" title="Plan for the Day"]
--->
+
 <!-- 
 OMET (EXT: tech comfort survey)
 Final group presentations
@@ -45,7 +45,7 @@ EXT: If you've done both of those things to your satisfaction and you're waiting
 Each group will have 10 minutes to share the awesome. This isn't a workshop, but rather a celebration, though if time allows we can have Q&A. 
 
 So walk us through 
-<ol style="list-style-type:lower-alpha;">
+<ol class="lower-alpha">
 <li>the thing you made,</li>
 <li>how it's changed since we last saw it, and</li>
 <li>what the fate of the project will be for the foreseeable future: 
@@ -57,7 +57,7 @@ So walk us through
 </ol>
 
 
-### Check in with the clock: 
+### Check in with the clock 
 
 * if 45 or more minutes remain, ***group* up** (no more than 3 people per group) to share which projects you're planning to revise, and talk through past feedback and present strategy; 
 * if 30-45 minutes remain, we'll ***pair* up** for the same;
@@ -81,7 +81,7 @@ I'll hold office hours next week, on Wednesday 2-4pm (and the same hours Thursda
 * The final portfolio is due, as a post to this WordPress site, at 9:50 am on Thursday, December 14th.
 
 
-**Beyond the End**
+**[Beyond the End](http://www.library.yale.edu/~nkuhl/lit100b/Poetry%20Levertov.pdf)**
 
-http://www.library.yale.edu/~nkuhl/lit100b/Poetry%20Levertov.pdf
+
 
