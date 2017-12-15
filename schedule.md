@@ -342,14 +342,17 @@ For next time:
 <h3><a href="lesson-25">Lesson 25, Tuesday, 12/5</a> – Group studio + surveys</h3>
 <!--
  Return any and all outstanding project feedback; 
- OMETs (teacher evaluations)
  HW: take the tech skills survey again 
  -->
 
 <h3><a href="lesson-26">Lesson 26, Thursday, 12/7</a> – Final project presentations; last day of class!</h3>
+<!--
+ OMETs (teacher evaluations)
+-->
 
 &nbsp;
 
 &nbsp;
-
+<div class="alert alert-success">
 <em>Final portfolios will be due by the end of the final exam slot, which we now know is Thursday, December 14th, at 9:50am.</em>
+</div>
