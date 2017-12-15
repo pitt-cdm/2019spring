@@ -85,7 +85,9 @@ For the visual unit, which we'll begin next week, I'd like to build up a shared 
 But to start, I'm going to ask you to dip into that vast universe three times, and **bring back three images depicting the following:**
 <div class="alert alert-success">
 <ul><li>an action</li>
-<li>a setting</li>	<!-- note for next time: replace with season, to set up haiku? UPDATE: Better Note for Next Time: instead of finding three rando images, get students thinking about how to draw attention (the goal of the visual unit's major project) by having them take photos of attention-grabbing visuals in their everyday environments. Kickself that I didn't think of this in time. --> 
+<li>a setting</li>	<!-- note for next time: replace with season, to set up haiku? -->
+<-- UPDATE: Better Note for Next Time: instead of finding three rando images, get students thinking about how to draw attention (the goal of the visual unit's major project) by having them take photos of attention-grabbing visuals in their everyday environments. Kickself that I didn't think of this in time. --> 
+<!-- UPDATE TO UPDATE: And instead of using class-time for this today, use class-time to introduce and **demo** GitHub. Use cafeteria analogy: git add = put stuff on your tray; git commit = put tray on conveyor belt; git push = press button to turn conveyor belt, bringing tray(s) to the other side of the wall. Or is it more like a cooking show? add multiple items to the plate, then hands-up (but with a label), then bring the dish to the table? -->
 <li>an emotion</li>
 </ul>
 </div>

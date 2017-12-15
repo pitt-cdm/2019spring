@@ -84,11 +84,11 @@ Note: if you're using an issue / task queue, whether on GitHub or elsewhere, you
 * If you haven't yet, please skim through *Writer/Designer* chapter 8, on "Putting Your Project to Work." It deals with preparations for delivery and the "multimodal afterlife," as well as documentation. 
  - Consider: what would someone else need to know, or need access to, if they wanted to pick up your project and run with it after the semester ended?
 * Continue gathering whatever materials or tutorials you'll need to complete your own tasks on your group project.
+<!-- Reread your proposal: what are the criteria by which you'll know you were successful? Be ready to refer to these criteria in your presentation / reflection on the project -->
 
 **Outputs**
 
 * Email me with any requests for minilessons or insights from my own work with (e.g.) WordPress, especially if you can't find or are having trouble interpreting a tutorial or documentation page.
-* Check off some checklist items on your group to-do list! 
- - Note that if you're using GitHub [Issues](https://guides.github.com/features/issues/) and/or [Projects](https://github.com/features/project-management) to manage your task list, you can literally check a box. Plus, it'll keep track of the history of when that happened, and who can take credit. (Not all task management software can say that.)
+* Check off some checklist items on your group to-do list! <!-- Aim to have at least a complete rough cut: not just a mock up, but all the pieces in the actual platform, ready to revise. -->
 
 

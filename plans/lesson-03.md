@@ -44,6 +44,10 @@ As you might imagine, this is one of those hi-fi tools that Stolley was talking 
 
 I'm not interested in your mastering this particular piece of software. What I'm after, instead, is the *kind* of things it can do, wants to do, makes easy to do – that is, what actions the tool *affords*.
 
+<!-- NOTE for next time: instead of dumping them into GIMP, 
+1. do an offline activity that clarifies the concept of *layers*
+2. demo and have them imitate one common image editing task: removing / changing the background -->
+
 <div class="alert alert-info">
 <ol>
 <li>Pick a few images to work with from the galleries below, and download them to a scratch space.</li>
