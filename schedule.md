@@ -35,6 +35,11 @@ For next time:
 * **Buy** the textbook, *Writer/Designer*, by Kristin L. Arola, Jennifer Sheppard, and Cheryl E. Ball. (I've ordered it to the University bookstore.)
 * **Join** this website if you haven't yet, and
 * **Add New Post** to share an introduction of yourself to the rest of the class.
+<!-- 
+    NOTE FOR NEXT TIME: have students include a photo of themselves (or some other representative photographic avatar, e.g. a pet, if they feel uncomfortable posting their faces online) as part of their bio post. Then, in the intro to GIMP session (lesson-03), demo and have them practice changing the background for their photo.
+-->
+
+
 
 <h3><a href="plans/lesson-02">Lesson 2, Thursday 8/31</a> – What is New Media?</h3>
 For next time:
@@ -47,6 +52,10 @@ For next time:
 
 
 <h3><a href="plans/lesson-03">Lesson 3, Tuesday 9/5</a> – How lo should we go? Intro to GIMP</h3>
+<!-- 
+    NOTE FOR NEXT TIME: demo how to extract a foreground image from background by extracting your own face from your bio photo; have students practice doing the same with theirs. Draw attention to layers.
+-->
+
 For next time:
 <ul>
  	<li>Read <em>Writer/Designer</em> (W/D) pp. 63-76, plus online components;</li>
