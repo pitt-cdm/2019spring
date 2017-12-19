@@ -42,6 +42,12 @@ For next time:
 
 
 <h3><a href="plans/lesson-02">Lesson 2, Thursday 8/31</a> – What is New Media?</h3>
+<!-- 
+    NOTE FOR NEXT TIME: learn about file paths (relative, absolute, local, remote), how they relate to URLs, how they differ between Windows and Mac/UNIX, the difference between a forward-slash and a backslash.
+    Have people install Git (and, on windows, GitBash)
+    Demo git
+-->
+
 For next time:
 
 * **Read** Stolley, [“The Lo-Fi Manifesto, v. 2.0”](http://kairos.technorhetoric.net/20.2/inventio/stolley/)
