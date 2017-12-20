@@ -204,6 +204,7 @@ For next time:
 * **Bear in mind** the collaborative guidelines, including how to submit
 
 
+
 | **Tu 10/17** | **Audio project “final” draft due |
 {: .table }
 
@@ -222,7 +223,9 @@ Using your browser's Developer Tools
 * in MS Edge: https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide
 * in Chrome: etc
 
-NOTES FOR NEXT YEAR: Start internetingishard tutorial for hw after this first web day, introduce browser inspection more fully in the second web day, and model the multimodal analysis; then do the multimodal analysis as homework after the second web day in prep for developing criteria in the third web day. then workshop on the fourth web day.
+NOTES FOR NEXT YEAR: Change title of lesson-13 to be about reflecting on the first half of the semester, setting goals for the second half, as part of the collaborative unit: what skills did you come here to learn that aren't on the syllabus? what project might require you to use those skills? 
+
+Shuffle a lot of this schedule. Start internetingishard tutorial for hw after this first web day, introduce browser inspection more fully in the second web day, and model the multimodal analysis; then do the multimodal analysis as homework after the second web day in prep for developing criteria in the third web day. then workshop on the fourth web day.
 
 -->
 For next time:
