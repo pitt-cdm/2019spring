@@ -28,3 +28,5 @@ course:
     email: millerb@pitt.edu
     # No @ before your username; e.g., twitter, not @twitter
     twitter: benmiller314
+
+theme: jekyll-theme-time-machine
