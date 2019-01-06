@@ -14,17 +14,17 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-left" id="navbar-collapse-2">
               <ul class="nav navbar-nav">
-                <li role="navigation"><a href="/index">Home</a></li>
-                <li role="navigation"><a href="/schedule">Schedule</a></li>
-                <li role="navigation"><a href="/assignments">Assignments</a></li>
-                <li role="navigation"><a href="/resources">Resources</a></li>
-                <li role="navigation"><a href="/office.html">Office Hours</a></li>
+                <li role="navigation"><a href="/{{site.course.base_path}}index">Home</a></li>
+                <li role="navigation"><a href="/{{site.course.base_path}}schedule">Schedule</a></li>
+                <li role="navigation"><a href="/{{site.course.base_path}}assignments">Assignments</a></li>
+                <li role="navigation"><a href="/{{site.course.base_path}}resources">Resources</a></li>
+                <li role="navigation"><a href="/{{site.course.base_path}}office.html">Office Hours</a></li>
               </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.header-left -->
           <div class="col-xs-12 col-md-5" id="header-right">
             <h2 class="text-right"><small>
-                {{ site.course.university }}, 
+                {{ site.course.university }},
                 {{ site.course.term }}<br/>
                 {{ site.course.time }} |
                 {{ site.course.room }}</small></h2>
@@ -33,4 +33,3 @@
       </div><!-- /.container-fluid -->
     </nav>
   </header>
-    
