@@ -75,3 +75,17 @@ img.banner {
 	font-size: 0.8em;
 }
 
+/* Images. Add padding, don't overflow column, maintain aspect ratio. */
+article figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+article figure {
+    margin: 2em 0;
+}
+
+article figure figcaption {
+    margin: 1em;
+    font-style: italic;
+}
