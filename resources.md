@@ -84,7 +84,7 @@ layout: default
 </dl>
 
 ## Unit-Specific Resources
-*This section will expand as we move forward; feel free to suggest others that you come across!* (You can file a pull request or just email me.)
+*This section will expand as we move forward; feel free to suggest others that you come across!* (You can <a href="https://github.com/pitt-cdm/miller2019spring/blob/gh-pages/resources.md">edit this page</a> and file pull request, or just email me.)
 
 ### Audio
 Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the sections on <a href="#file-compression">file compression</a> and the link to <a href="#other-resource-roundups">Courtney Danforth's soundwriting advice</a>, below.
