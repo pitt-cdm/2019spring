@@ -23,7 +23,7 @@ layout: default
 <dd>Two pages containing everything you need to know for everyday version-tracking, from how to set up your local repository to how to recover past versions, with your normal status->add->commit->push-> workflow prominently placed. This is all for the command line; if that makes you uncomfortable, see the Command Line Crash Course, below.</dd>
 
 <dt><a href="https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV">Git and GitHub for Poets</a></dt>
-<dd>
+<dd>A delightfully nerdy, yet strangely accessible, playlist of tutorial videos on using GitHub and Git (in that order) to keep track of changes to a text file. A great way to learn more about the features that make these tools appealing to coders and non-coders alike.</dd>
 
 <dt><a href="http://ohshitgit.com/">ohshitgit.com</a></dt>
 <dd>We can pretend that the three words in that URL all have three letters, but let's face it: there are times when even experienced users of git feel that something has gone terribly wrong. This is a great resource of quick command-line fixes for common problems, compiled by someone who feels your pain.</dd>
