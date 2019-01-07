@@ -9,7 +9,7 @@ layout: default
 -->
 
 ## Services at Pitt
-<dl>
+<dl class="dl-horizontal">
 <dt><a href="http://dmap.pitt.edu/">DMAP site</a></dt>
 <dd>The English department maintains a Digital Media And Pedagogy site with a number of useful resources, including <a href="http://dmap.pitt.edu/equipment">recording equipment</a> you can check out, easy-to-reserve office hours with either a grad student or faculty digital media consultant, and a way to reserve the DMAP studio (CL 463) for up to eight people.</dd>
 
@@ -18,17 +18,18 @@ layout: default
 </dl>
 
 ## Help with Git and GitHub
-<dl>
+<dl class="dl-horizontal">
+
 <dt><a href="http://ohshitgit.com/">ohshitgit.com</a></dt>
 <dd>We can pretend that the three words in that URL all have three letters, but let's face it: there are times when even experienced users of git feel that something has gone terribly wrong. This is a great resource of quick command-line fixes for common problems, compiled by someone who feels your pain.</dd>
 
 <dt><a href="https://education.github.com/discount_requests/new">Free private repositories</a></dt>
-<dd>GitHub defaults to making repositories public, and ordinarily you would have to buy a paid account to keep your projects private. But if you have a .edu email account, you can request a discount that lets you get unlimited private repositories for free. Click the link to find out more.</dd>
+<dd>Important for starting out: GitHub defaults to making repositories public, and ordinarily you would have to buy a paid account to keep your projects private. But if you have a .edu email account, you can request a discount that lets you get unlimited private repositories for free. Click the link to find out more.</dd>
 
 </dl>
 
 ## Free and Licensed Images, Music, and Other Assets
-<dl>
+<dl class="dl-horizontal">
 <dt><a href="search.creativecommons.org">search.creativecommons.org</a></dt>
 <dd>A portal for searching multiple sites that have built-in CC licensing, including flickr, jamendo, and ccmixter</dd>
 
@@ -59,11 +60,11 @@ layout: default
 </dl>
 
 ## Unit-Specific Resources
-*This section will expand as we move forward; feel free to suggest others that you come across!*
+*This section will expand as we move forward; feel free to suggest others that you come across!* 
 
 ### Visual
 Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FontSquirrel and The Noun Project especially pertinent here.
-<dl>
+<dl class="dl-horizontal">
 <dt>GIMP Tutorials</dt>
 <dd>You can find quite a few intro-level tutorials on the GIMP site itself, at <a href="https://www.gimp.org/tutorials">www.gimp.org/tutorials</a>, including "GIMP Quickies" and a tutorial on layer manipulation called "Simple Floating Logo."</dd>
 
@@ -74,7 +75,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 ### Audio
 Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the section on <a href="#file-compression">file compression</a>, below.
 
-<dl>
+<dl class="dl-horizontal">
 <dt><a href="http://manual.audacityteam.org/index.html#using">Audacity Wiki</a></dt>
 <dd>As with GIMP, members of the community that created the tool have contributed their own tips and tricks; in this case, it comes in the form of a minimally styled wiki. I find it not always as clear as I might like, but many of my initial searches led here, regardless, so it's worth familiarizing yourself with the sections. I do recommend at least starting with their <a href="http://manual.audacityteam.org/man/audacity_tour_guide.html">Audacity Tour Guide</a>, and the documentation on how to properly install Audacity and add mp3 export is essential.</dd>
 
@@ -99,8 +100,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
  <li>Here's one that uses the spectrogram instead of waveform view to find audio anomalies, especially useful if they're surrounded by micromoments of silence: <a href="https://www.youtube.com/watch?v=ryr8KOfzikw">Removing micro pops in Audacity</a></li>
 </ul>
 </p>
-<p>Collective feedback on the audio unit, including a couple more tips and tricks, is included in <a href="/lesson-12">lesson 12</a>.
-</p>
+<!-- <p>Collective feedback on the audio unit, including a couple more tips and tricks, is included in <a href="/lesson-12">lesson 12</a>.</p> -->
 </dd>
 </dl>
 
@@ -108,7 +108,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 ### Web Design
 Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons).
 
-<dl>
+<dl class="dl-horizontal">
 <dt><a href="https://internetingishard.com/html-and-css/">internetingishard.com/html-and-css</a></dt>
 <dd>Your one-stop shop for learning basic web architecture from the ground up. I'll assign this for homework.</dd>
 
