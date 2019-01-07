@@ -6,7 +6,7 @@ layout: default
 
 # Class-by-Class Schedule
 
-Assignments are listed (as HW) on the day they are assigned, and are **due at 10pm the night before**<a href="#ftn1" class="ftnref" id="ftnref1">[1]</a> the following class meeting, unless otherwise specified. You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods include GitHub, Box, Dropbox, or flash drive.
+Assignments are listed (as HW) on the day they are assigned, and are **due at 9pm the night before**<a href="#ftn1" class="ftnref" id="ftnref1">[1]</a> the following class meeting, unless otherwise specified. You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods include GitHub, Box, Dropbox, or flash drive.
 
 <div class="panel panel-info">
 <div class="panel-body">
