@@ -8,6 +8,8 @@ layout: default
 [toc]
 -->
 
+# Resources
+
 ## Services at Pitt
 <dl>
 <dt><a href="http://dmap.pitt.edu/">DMAP site</a></dt>
