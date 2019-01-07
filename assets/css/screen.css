@@ -19,15 +19,16 @@ header, .page-header {
 }
 
 footer {
-    color: #d0d0d0
+    color: #d0d0d0;
     bottom: 0;
-
+    margin: 0.5em 10%;
 }
+
 footer a {
     color: #6294f4;
 }
 
-footer a:hover {
+footer a:hover, footer a:visited {
     color: #297fdb;
 }
 
