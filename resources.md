@@ -87,11 +87,11 @@ layout: default
 *This section will expand as we move forward; feel free to suggest others that you come across!* (You can file a pull request or just email me.)
 
 ### Audio
-Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the section on <a href="#file-compression">file compression</a>, below.
+Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the sections on <a href="#file-compression">file compression</a> and the link to <a href="#other-resource-roundups">Courtney Danforth's soundwriting advice</a>, below.
 
 <dl>
 <dt><a href="http://manual.audacityteam.org/index.html#using">Audacity Wiki</a></dt>
-<dd>As with GIMP, members of the community that created the tool have contributed their own tips and tricks; in this case, it comes in the form of a minimally styled wiki. I find it not always as clear as I might like, but many of my initial searches led here, regardless, so it's worth familiarizing yourself with the sections. I do recommend at least starting with their <a href="http://manual.audacityteam.org/man/audacity_tour_guide.html">Audacity Tour Guide</a>, and the documentation on how to properly install Audacity and add mp3 export is essential.</dd>
+<dd>Members of the community that created the tool have contributed their own tips and tricks; in this case, it comes in the form of a minimally styled wiki. I find it not always as clear as I might like, but many of my initial searches led here, regardless, so it's worth familiarizing yourself with the sections. I do recommend at least starting with their <a href="http://manual.audacityteam.org/man/audacity_tour_guide.html">Audacity Tour Guide</a>, and the documentation on how to properly install Audacity and add mp3 export is essential.</dd>
 
 <dt><a href="https://theaudacitytopodcast.com/tap040-10-tips-for-how-to-keep-audacity-from-crashing/">10 Tips for How to Keep Audacity from Crashing</a></dt>
 <dd>The title says it all. I haven't had problems, but if you start to, have a look here.</dd>
@@ -122,7 +122,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FontSquirrel and The Noun Project especially pertinent here.
 <dl>
 <dt>GIMP Tutorials</dt>
-<dd>You can find quite a few intro-level tutorials on the GIMP site itself, at <a href="https://www.gimp.org/tutorials">www.gimp.org/tutorials</a>, including "GIMP Quickies" and a tutorial on layer manipulation called "Simple Floating Logo."</dd>
+<dd>As with Audacity, you can find quite a few intro-level tutorials on the GIMP site itself, at <a href="https://www.gimp.org/tutorials">www.gimp.org/tutorials</a>, including "GIMP Quickies" and a tutorial on layer manipulation called "Simple Floating Logo."</dd>
 
 <dt>Examples of Visual Rhetoric in Action</dt>
 <dd><a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought</a>, a collection of academic infographics by Nathaniel Rivers. In addition to being useful for how he handles design elements, quotation, and citation, some of the content deals with ideas on multimedia composing and rhetoric.</dd>
