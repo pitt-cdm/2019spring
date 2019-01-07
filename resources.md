@@ -35,7 +35,7 @@ layout: default
 
 ## Free and Licensed Images, Music, and Other Assets
 <dl>
-<dt><a href="search.creativecommons.org">search.creativecommons.org</a></dt>
+<dt><a href="https://search.creativecommons.org">search.creativecommons.org</a></dt>
 <dd>A portal for searching multiple sites that have built-in CC licensing, including flickr, jamendo, and ccmixter</dd>
 
 <dt><a href="https://www.fontsquirrel.com/">Font Squirrel</a></dt>
