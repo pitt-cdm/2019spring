@@ -1,5 +1,1 @@
-_site/
-.DS_Store
-*.DS_Store
-Gemfile.lock
-_config.yml
+Gemfile*
