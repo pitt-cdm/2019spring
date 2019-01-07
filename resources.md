@@ -157,6 +157,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 </dl>
 
 ## File Compression
+
 If you're having trouble uploading large files to GitHub or through email, you can try <em>compressing</em> the files. But while most computers come with built-in compression algorithms, they tend not to be very good. Luckily, there are several excellent and free applications that will happily shrink your file sizes. Here are some 2017 roundups:
 
 * For any file/folder on **Windows:** <a href="http://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/">www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/</a>
