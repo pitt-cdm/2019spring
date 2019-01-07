@@ -2,13 +2,7 @@
 layout: default
 ---
 
-<img src="assets/img/dangerous-to-go-alone-wide.jpg" class="banner" alt="banner: It's dangerous to go alone. Take this!" title="image modified from still of *The Legend of Zelda* by Shigeru Miyamoto and Nintendo."/> 
-
-## Office Hours
-To book an appointment with me (Ben), head over to <strong><a href="https://benmiller314.youcanbook.me">benmiller314.youcanbook.me</a></strong>. I've reserved Wednesday 2-4pm as my default office time, so you can generally find me there even for a walk-in; during some weeks – especially early in the semester and around midterm – I'll have extended hours, and I'll ask everyone to make an appointment.
-
-To get to my office, which is CL 617 N, go through the doors closest to the elevators and take the right-hand branch of the hallway almost to the end. 
-
+<img src="assets/img/dangerous-to-go-alone-wide.jpg" class="banner" alt="banner: It's dangerous to go alone. Take this!" title="image modified from still of *The Legend of Zelda* by Shigeru Miyamoto and Nintendo."/>
 
 <!--
 [toc]
@@ -78,7 +72,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 </dl>
 
 ### Audio
-Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the section on <a href="#file-compression">file compression</a>, below. 
+Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the section on <a href="#file-compression">file compression</a>, below.
 
 <dl>
 <dt><a href="http://manual.audacityteam.org/index.html#using">Audacity Wiki</a></dt>
@@ -161,7 +155,7 @@ If you're having trouble uploading large files to GitHub or through email, you c
 
 ## Other Resource Roundups
 
-Especially in the realm of digital production, there's no need to reinvent the wheel; just as there are many excellent tutorials and sites on which to locate assets, there are many excellent <em>lists</em> of such tutorials and sites. Here are a few to draw on: 
+Especially in the realm of digital production, there's no need to reinvent the wheel; just as there are many excellent tutorials and sites on which to locate assets, there are many excellent <em>lists</em> of such tutorials and sites. Here are a few to draw on:
 <ul>
  	<li>Noel Tague's <a href="https://cdmspring2017.wordpress.com/bag-of-tricks/">bag of tricks</a> is quite extensive, and includes sections on fair use, on archives of materials you can use or cite, on strategies for working with audio and video, and links to free / open source software.</li>
  	<li>Annette Vee's <a href="http://annettevee.com/2016cdm/resources/">CDM resources page</a> includes guidance on GitHub and Markdown (a widely used shorthand for HTML, with a bunch of variants a.k.a. "flavors").</li>
