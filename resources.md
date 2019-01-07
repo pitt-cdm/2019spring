@@ -33,26 +33,14 @@ layout: default
 
 </dl>
 
-## Free and Licensed Images, Music, and Other Assets
+## Free and Licensed Images, Sounds, and Other Assets
 <dl>
 <dt><a href="https://search.creativecommons.org">search.creativecommons.org</a></dt>
 <dd>A portal for searching multiple sites that have built-in CC licensing, including flickr, jamendo, and ccmixter</dd>
+</dl>
 
-<dt><a href="https://www.fontsquirrel.com/">Font Squirrel</a></dt>
-<dd>Fonts that are free for personal <em>and</em> commercial uses, making them especially handy for advertising campaigns and the like.
- The site also includes some useful educational resources for learning more about font history and font selection.</dd>
-
-<dt><a href="https://thenounproject.com/">The Noun Project</a></dt>
-<dd>A liberally licensed icon sets aiming to create "icons for everything," though as the name suggests, they specialize in <em>things</em>, rather than actions. If you realize you don't want all the detail of a photo when a simple line drawing would get the idea across, try searching their million-plus collection.</dd>
-
-<dt><a href="https://unsplash.com/">Unsplash</a></dt>
-<dd>I just found out about this one at the start of the semester, and I'm pretty excited: it's a collection of high-res, large-scale images that are free for personal <em>and</em> commercial uses; they may be especially useful for splashy website headers.</dd>
-
-<dt><a href="https://color.adobe.com/create/color-wheel/">Adobe Color CC</a></dt>
-<dt><a href="http://paletton.com/">Paletton</a></dt>
-<dt><a href="http://www.color-hex.com/">Color-Hex</a></dt>
-<dd>Tools for color selection, for when you want to find a palette of complementary tones, or just to find the hex codes along an axis of saturation or intensity.</dd>
-
+### Sounds and Music
+<dl>
 <dt><a href="https://freesound.org">Freesound</a></dt>
 <dd>As they put it in their <a href="https://freesound.org/help/faq">FAQ</a>, "Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse." Note that this won't have <em>music</em> as such; it's more for incidentals.</dd>
 
@@ -61,21 +49,42 @@ layout: default
 <dt><a href="https://www.jamendo.com">Jamendo</a></dt>
 <dd>Three sites where you can find music with open licenses for remix. Each has its own community and search interface; I've had some success using CCMixter's tag search feature. Pay attention to the licenses for the specific tracks you want: some have the non-commercial Creative Commons license, and <em>some are licensed only to listen to</em>, especially on SoundCloud, where a lot of professional recording artists post to build buzz. If you're planning on doing any cutting or distorting, look for something you can modify (which includes CC-BY or CC-BY-NC).</dd>
 
+</dl>
 
+### Visuals
+<dl>
+<dt><a href="https://unsplash.com/">Unsplash</a></dt>
+<dd>A collection of high-res, large-scale images that are free for personal <em>and</em> commercial uses; they may be especially useful for splashy website headers and homescreens.</dd>
+
+<dt><a href="https://www.fontsquirrel.com/">Font Squirrel</a></dt>
+<dd>Fonts that are free for personal <em>and</em> commercial uses, making them especially handy for advertising campaigns and the like.
+ The site also includes some useful educational resources for learning more about font history and font selection.</dd>
+
+<dt><a href="https://thenounproject.com/">The Noun Project</a></dt>
+<dd>A liberally licensed icon sets aiming to create "icons for everything," though as the name suggests, they specialize in <em>things</em>, rather than actions. If you realize you don't want all the detail of a photo when a simple line drawing would get the idea across, try searching their million-plus collection.</dd>
+
+<dt><a href="https://color.adobe.com/create/color-wheel/">Adobe Color CC</a></dt>
+<dt><a href="http://paletton.com/">Paletton</a></dt>
+<dt><a href="http://www.color-hex.com/">Color-Hex</a></dt>
+<dd>Tools for color selection, for when you want to find a palette of complementary tones, or just to find the hex codes along an axis of saturation or intensity.</dd>
+</dl>
+
+### Web Frameworks
+<dl>
+<dt><a href="https://templated.co/">templated.co</a></dt>
+<dt><a href="https://html5up.net/">html5up.net</a></dt>
+<dd>There are a lot of websites that offer collections of free website themes and templates. These are two of my favorite sources for starting up static sites with built-in semantic html5 and responsive css.</dd>
+
+<dt><a href="http://getbootstrap.com/">Bootstrap CSS Framework</a></dt>
+<dt>and <a href="http://cssdb.co/">other CSS libraries</a></dt>
+<dd><p>Once you're clear on what a CSS class is, and how to add it to an HTML element, you can pretty much work from scratch designing your own CSS rules and building from there. But sometimes it helps to have a leg up, and that's where libraries come in: with a single line in the `<head>` element of your web page, you can import a whole slew of pre-made CSS rules (and even some related JavaScript actions), so that you can just start adding them to your html. It's a little like Lego for web design, only free.</p>
+
+<p>Bootstrap is one of the most popular CSS libraries right now – I guarantee you've seen more than one website that uses it – and it's got enviably clear documentation for specific classes. One of the key advantages is that Bootstrap divs can split the page into a convenient grid for you, and they can automatically resize responsively for different screens. The latest version, Bootstrap 4, is is now much better at aligning and centering things along vertical axes, as well as horizontal; the tradeoff is that it's still in beta release, which means it has a few bugs. You can still use the more stable <a href="https://getbootstrap.com/docs/3.3/">Bootstrap 3</a> if you prefer.</p>
+</dd>
 </dl>
 
 ## Unit-Specific Resources
-*This section will expand as we move forward; feel free to suggest others that you come across!* (You can file a pull request )
-
-### Visual
-Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FontSquirrel and The Noun Project especially pertinent here.
-<dl>
-<dt>GIMP Tutorials</dt>
-<dd>You can find quite a few intro-level tutorials on the GIMP site itself, at <a href="https://www.gimp.org/tutorials">www.gimp.org/tutorials</a>, including "GIMP Quickies" and a tutorial on layer manipulation called "Simple Floating Logo."</dd>
-
-<dt>Examples of Static Visual Appeals</dt>
-<dd><a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought</a>, a collection of academic infographics by Nathaniel Rivers. In addition to being useful for how he handles design elements, quotation, and citation, some of the content deals with ideas on multimedia composing and rhetoric.</dd>
-</dl>
+*This section will expand as we move forward; feel free to suggest others that you come across!* (You can file a pull request or just email me.)
 
 ### Audio
 Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the section on <a href="#file-compression">file compression</a>, below.
@@ -109,6 +118,15 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 </dd>
 </dl>
 
+### Visual
+Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FontSquirrel and The Noun Project especially pertinent here.
+<dl>
+<dt>GIMP Tutorials</dt>
+<dd>You can find quite a few intro-level tutorials on the GIMP site itself, at <a href="https://www.gimp.org/tutorials">www.gimp.org/tutorials</a>, including "GIMP Quickies" and a tutorial on layer manipulation called "Simple Floating Logo."</dd>
+
+<dt>Examples of Visual Rhetoric in Action</dt>
+<dd><a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought</a>, a collection of academic infographics by Nathaniel Rivers. In addition to being useful for how he handles design elements, quotation, and citation, some of the content deals with ideas on multimedia composing and rhetoric.</dd>
+</dl>
 
 ### Web Design
 Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons).
@@ -129,25 +147,13 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dt><a href="http://cssreference.io/">cssreference.io</a></dt>
 <dd>There are a *lot* of html elements and CSS attributes that you'll find in your travels through the web. As with book literacy, you'll pick up the vocabulary mostly by encountering them in the world, on websites, not by starting with a dictionary. But when you do find them, you'll want a good dictionary where you can look them up and learn more about how they're supposed to work. These are pretty well organized, and (unlike some of the "official" documentation) give usually you visual examples of what the elements and rules mean and do. And when you do want that official documentation, you can find it by clicking on the "MDN" link at the top right of any definition page.</dd>
 
-<dt><a href="https://templated.co/">templated.co</a></dt>
-<dt><a href="https://html5up.net/">html5up.net</a></dt>
-<dd>There are a lot of websites that offer collections of free website themes and templates. These are two of my favorite sources for starting up static sites with built-in semantic html5 and responsive css.</dd>
-
-<dt><a href="http://getbootstrap.com/">Bootstrap CSS Framework</a></dt>
-<dt>and <a href="http://cssdb.co/">other CSS libraries</a></dt>
-<dd><p>Once you're clear on what a CSS class is, and how to add it to an HTML element, you can pretty much work from scratch designing your own CSS rules and building from there. But sometimes it helps to have a leg up, and that's where libraries come in: with a single line in the `<head>` element of your web page, you can import a whole slew of pre-made CSS rules (and even some related JavaScript actions), so that you can just start adding them to your html. It's a little like Lego for web design, only free.</p>
-
-<p>Bootstrap is one of the most popular CSS libraries right now – I guarantee you've seen more than one website that uses it – and it's got enviably clear documentation for specific classes. One of the key advantages is that Bootstrap divs can split the page into a convenient grid for you, and they can automatically resize responsively for different screens. The latest version, Bootstrap 4, is is now much better at aligning and centering things along vertical axes, as well as horizontal; the tradeoff is that it's still in beta release, which means it has a few bugs. You can still use the more stable <a href="https://getbootstrap.com/docs/3.3/">Bootstrap 3</a> if you prefer.</p>
-</dd>
-
 <dt><a href="https://www.foregroundweb.com/optimize-images/">Optimizing Images for Website Performance</a></dt>
 <dd><p>You can find some beautiful free images out there, at very high resolution – and your own digital camera (even the one on your phone) probably defaults to a ridiculously high number of pixels, too. All those pixels come at a cost. If you find that your site is loading slowly, and especially if you see the images appear with some lag behind the text, you may want to scale down.</p>
 <p>Luckily, you have a tool that can help you do it: GIMP! Check the link above for some tips on pixel counts, resolutions (pixels per inch), and jpeg compression quality.</p>
 </dd>
 
 <dt><a href="https://www.fontsquirrel.com/tools/webfont-generator">WebFont Generator, by FontSquirrel</a></dt>
-<dd>When you find a good font, before you can use it on the web it has to be formatted for browsers to render properly. Some fonts on your favorite font sites will already have webfont versions. If they don't, as Gabi demonstrated in class, you can convert them to web-ready fonts using this tool. Just make sure you have permission to do so, okay?</dd>
-
+<dd>When you find a good font, before you can use it on the web it has to be formatted for browsers to render properly. Some fonts on your favorite font sites will already have webfont versions. If they don't, you can convert them to web-ready fonts using this tool. Just make sure you have permission to do so, okay?</dd>
 </dl>
 
 ## File Compression
