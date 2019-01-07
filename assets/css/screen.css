@@ -90,3 +90,13 @@ article figure figcaption {
     margin: 1em;
     font-style: italic;
 }
+
+/* Indent dictionary definitions, better demarcate dictionary terms */
+dt {
+    font-style:italic;
+    font-weight: bold;
+}
+
+dd {
+    margin: 0 0 1em 2em;
+}
