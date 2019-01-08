@@ -39,7 +39,7 @@ layout: default
 <dt><a href="http://ohshitgit.com/">ohshitgit.com</a></dt>
 <dd>We can pretend that the three words in that URL all have three letters, but let's face it: there are times when even experienced users of git feel that something has gone terribly wrong. This is a great resource of quick command-line fixes for common problems, compiled by someone who feels your pain.</dd>
 
-<dt><a href="https://education.github.com/discount_requests/new">Free private repositories</a></dt>
+<dt><a href="https://education.github.com/discount_requests/new">Get free private repositories</a></dt>
 <dd>Important for starting out: GitHub defaults to making repositories public, and ordinarily you would have to buy a paid account to keep your projects private. But if you have a .edu email account, you can request a discount that lets you get unlimited private repositories for free. Click the link to find out more.</dd>
 
 </dl>
@@ -150,7 +150,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dd>We walked through this demo on the <a href="/lesson-13/#web-design-in-4-minutes-15-min">first day of the unit</a>; if you're at a loss for what to include in your stylesheet, you can do far worse than adding the basic spacing rules Jeremy Thomas sets up here.</dd>
 
 <dt><a href="https://css-tricks.com/how-css-selectors-work/">How CSS Selectors Work (CSS-Tricks)</a></dt>
-<dd><p>This could be a very useful follow-up to the Interneting is Hard tutorial, or perhaps just a handy reference for some of the more common "advanced" CSS selectors. It starts from basic ways of matching style rules to html elements, and then proceeds to discuss what happens when multiple rules apply to the same element – which rule "wins," or supersedes the other. To sum up, it's not simply which one comes last in the *.css file (though that also matters): in general, the more narrowly defined rule will still override a more broadly defined one. Read on for more details.</p>
+<dd><p>This could be a very useful follow-up to the Interneting is Hard tutorial, or perhaps just a handy reference for some of the more common "advanced" CSS selectors. It starts from basic ways of matching style rules to html elements, and then proceeds to discuss what happens when multiple rules apply to the same element – which rule "wins," or supersedes the other. To sum up, it's not simply which one comes last in the \*.css file (though that also matters): in general, the more narrowly defined rule will still override a more broadly defined one. Read on for more details.</p>
 <p>Also, it's worth saying that many of my Google searches for solutions to CSS problems lead me here, so I figured I'd point it out early and reassure you that it's legit. Some very clear explanations not only of what to do, but why it works – and, often, alternative approaches to the same challenges.</p>
 </dd>
 
