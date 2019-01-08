@@ -2,16 +2,25 @@
 **Texts to have read:** the course description
 **Writing to turn in:**
 
-* (at end of class) infosheet about other coursework, languages, groups, etc
+* (at start of class) survey about other coursework, tech comforts and discomforts, etc
 * (at end of class) letter to Ben about your habits, expectations, and goals as a composer of digital media
 
 ## 1. Introduction to the course and to each other
-Please fill out your info sheets. On the back, it will ask you to choose one animal and one fruit/vegetable. Set up your name on your desk when you're done, so I can (try to) see (around these monitors) when we're all ready.
+<div class="alert alert-success">
+I'd like to know more about you! Head on over to http://bit.ly/cdm2019survey and fill in the first page or two. (I'll give you time to work on the rest later, so please leave the tab open for now.)
+</div>
 
-EXT: If you're waiting, do an image search for your chosen fauna and flora.
+When you've done that (or after about 5 minutes), please:
+
+1. Take out a piece of paper and fold it in thirds. In the middle, write your name in letters large enough to see across the room.
+2. On the top, please write down an animal.
+3. On the bottom, please write down a fruit or vegetable.
+4. Set up your name on your desk when you're done, so I can (try to) see (around these monitors) when we're all ready.
+
+EXT: If you've done all that and you're waiting, do an image search for your chosen fauna and flora.
 
 [expand title="Wait for it" swaptitle="Hide"]
-<em>Now describe **your interest in composing digital media** as the animal, and **your personality** as the fruit/vegetable, or vice versa. If you have time, use an image search to help you notice or help us remember the many aspects of these new avatars.</em>
+<em>Now describe **yourself** as the animal, and **your interest in composing digital media** as the fruit/vegetable, or vice versa. If you have time, use an image search to help you notice or help us remember the many aspects of these new avatars.</em>
 
 Metaphors can be a powerful way of extending our thinking. It's also a memorable way to meet each other! Take 2-3 minutes; when everyone's done, we'll all share. I'll do it, too.
 [/expand]
@@ -20,6 +29,8 @@ Metaphors can be a powerful way of extending our thinking. It's also a memorable
 It's part of the syllabus.
 
 ## 3. Write a short letter back to Ben.
+You can do this on the third page of that same survey, which you should still have open.
+
 Some considerations you might address include:
 
 * What were your expectations for the course coming in? What were your goals? If they’ve changed at all after reading / hearing my letter, how?
@@ -34,25 +45,18 @@ Don’t feel that you have to answer every single one of these questions, and es
 * EXT: If you finish early, think about making the letter multimodal. What images would you want to add? How might you arrange the images and text?
 * EXT: If you finish that, too, consider audience: how might you want to change this letter for posting an introduction to yourself on the course website?
 
-# Homework for next time
+## 4. Homework preview
+One of the tasks for homework will be to post a brief introduction to yourself on our course discussion forum. We'll be using GitHub Issues for this purpose; I'll demo quickly, in case you haven't seen this before.
+
+# Homework
 
 * **Before you leave**, please:
- 1. turn in the info form and letter to me (email is fine)
- 2. take the grading contract
-* **Administrative**:
- 1. Join the website if you haven't yet. If things are weird, give me a few hours; I'll get it sorted out asap!
- 2. Buy the textbook, *Writer/Designer: A Guide to Making Multimodal Projects,* edited by Kristin L. Arola, Jennifer Sheppard, and Cheryl E. Ball.
- 3. Read over the grading contract, and either initial-and-sign it, or come back with suggested changes. (But bear in mind that all bargaining over the contract must be collective – we have to achieve consensus on any revisions.)
-
-* **Reading**:
- 1. Read Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). There are two versions; after you've finished the full Flash version, skim the pdf version.
- 2. **Watch** Michael Wesch, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM&amp;feature=youtube_gdata_player)
-
-<ul><li><strong>Writing</strong>:<ol>
- <li>Once you're a member of the site, click <strong>Add New Post</strong> to share an introduction of yourself to the rest of the class.<ul>
-  <li>If you're familiar with WordPress, or just like browsing through widgets' worth of options you can put this post in the "Authors" category.</li></ul></li>
- <li>EXT: Take the <a href="https://goo.gl/forms/o4QOwT1TPZZzvcJY2">tech comfort survey</a> that I set up for this course. (Everyone should take this before their first conference with me, but you've got a little time.)</li></ol>
-</li></ul>
-
-
-[2019 Tech Comfort Survey](https://goo.gl/forms/8glrVHlvDthjW8Ch1)
+ 1. submit the info form and letter
+ 2. take the [grading contract](https://github.com/pitt-cdm/miller2019spring/blob/gh-pages/uploads/miller-2019spring-composingdigitalmedia-gradingcontract.docx)
+* **For next time**:
+ 1. **Read** [syllabus and grading contract](/{{site.course.base_url}}uploads), and either initial-and-sign it, or come back with suggested changes. (But bear in mind that all bargaining over the contract must be collective – we have to achieve consensus on any revisions.)
+ 2. **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). After you've finished the Flash version, skim the pdf version.
+ 3. **Watch** Michael Wesch, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM&amp;feature=youtube_gdata_player)
+ 4. **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2019survey) if you haven't done so in class
+ 5. **Join** [GitHub](https://github.com/) if you haven't yet, and
+ 6. **post** a brief introduction to yourself on [the issue queue](https://github.com/pitt-cdm/miller2019spring/issues/1). Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should receive a copy at whichever email address you used on the form.
