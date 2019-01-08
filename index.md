@@ -6,9 +6,11 @@ This course requires students to compose digital media while exploring the rheto
 
 <nav>
   <ul class="nav nav-pills">
-    <li role="navigation"><a class="list-group-item" href="schedule.html">Schedule</a></li>
-    <li role="navigation"><a class="list-group-item" href="projects.html">Projects</a></li>
-    <li role="navigation"><a class="list-group-item" href="resources.html">Resources</a></li>
-    <li role="navigation"><a class="list-group-item" href="office.html">Office Hours</a></li>
+    <li role="navigation"><a class="list-group-item" href="schedule" title="lesson plans and homeworks">Schedule</a></li>
+    <li role="navigation"><a class="list-group-item" href="projects" title="major assignments for the course">Projects</a></li>
+    <li role="navigation"><a class="list-group-item" href="resources" title="useful links">Resources</a></li>
+    <li role="navigation"><a class="list-group-item" href="office" title="one-on-one is most hands-on">Office Hours</a></li>
+    <li role="navigation"><a class="list-group-item" href="uploads" title="files and handouts">Uploads</a></li>
+    <li role="navigation"><a class="list-group-item" href="https://github.com/pitt-cdm/miller2019spring/issues" title="discuss readings, post responses">Forum</a></li>
   </ul>
 </nav>
