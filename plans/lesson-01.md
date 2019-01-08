@@ -7,7 +7,7 @@
 
 ## 1. Introduction to the course and to each other
 <div class="alert alert-success">
-I'd like to know more about you! Head on over to http://bit.ly/cdm2019survey and fill in the first page or two. (I'll give you time to work on the rest later, so please leave the tab open for now.)
+I'd like to know more about you! Head on over to <a href="http://bit.ly/cdm2019survey">bit.ly/cdm2019survey</a> and fill in the first page or two. (I'll give you time to work on the rest later, so please leave the tab open for now.)
 </div>
 
 When you've done that (or after about 5 minutes), please:
