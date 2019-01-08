@@ -22,7 +22,7 @@ EXT: If you've done all that and you're waiting, do an image search for your cho
 <details>
   <summary>Wait for it</summary>
 
-  <em>Now describe **yourself** as the animal, and **your interest in composing digital media** as the fruit/vegetable, or vice versa. If you have time, use an image search to help you notice or help us remember the many aspects of these new avatars.</em>
+  <em>Now describe <strong>yourself</strong> as the animal, and <strong>your interest in composing digital media</strong> as the fruit/vegetable, or vice versa. If you have time, use an image search to help you notice or help us remember the many aspects of these new avatars.</em>
 
   Metaphors can be a powerful way of extending our thinking. It's also a memorable way to meet each other! Take 2-3 minutes; when everyone's done, we'll all share. I'll do it, too.
 </details>
