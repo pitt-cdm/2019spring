@@ -100,3 +100,10 @@ dt {
 dd {
     margin: 0 0 1em 2em;
 }
+
+/* Center navigation on front page */
+.center-pills {
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap
+}
