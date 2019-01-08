@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="assets/img/dangerous-to-go-alone-wide.jpg" class="banner" alt="banner: It's dangerous to go alone. Take this!" title="image modified from still of *The Legend of Zelda* by Shigeru Miyamoto and Nintendo."/>
+<img src="/{{site.course.base_path}}assets/img/many-moons.jpg" class="banner" alt="banner: phases of the moon" />
 
 
 ## Office Hours
