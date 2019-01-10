@@ -37,7 +37,7 @@ Last time, we saw that GitHub can host a discussion forum, so in that sense it's
 But its core functionality is meant to solve a different media problem:
 
 <figure>
-  <a href="http://phdcomics.com/comics/archive.php?comicid=1531"><img src="http://www.phdcomics.com/comics/archive/phd101212s.gif" height="600px" height="70vh" width="auto" alt="webcomic shows a series of panels renaming final.doc to final_rev2, final_rev_6.comments, and so on to absurdity"/></a>
+  <a href="http://phdcomics.com/comics/archive.php?comicid=1531"><img src="http://www.phdcomics.com/comics/archive/phd101212s.gif" style="height: 600px; height: 70vh; width: auto;" alt="webcomic shows a series of panels renaming final.doc to final_rev2, final_rev_6.comments, and so on to absurdity"></a>
   <figcaption>from <a href="http://phdcomics.com/comics/archive.php?comicid=1531">PhD Comics</a> by Jorge Cham (2012)</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ We'll be working in groups. Can I get four or five volunteers who are feeling go
 
 <div class="alert alert-success">
 Head to
-<strong><a href="https://classroom.github.com/g/sIXPa5zN">https://classroom.github.com/g/sIXPa5zN</a></strong>, where you'll be asked to create (thanks, anchors!) or join a team.
+**https://classroom.github.com/g/sIXPa5zN**, where you'll be asked to create (thanks, anchors!) or join a team.
 
 Then follow the instructions in the README file.
 </div>
