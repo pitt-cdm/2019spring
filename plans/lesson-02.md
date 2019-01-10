@@ -37,15 +37,15 @@ Last time, we saw that GitHub can host a discussion forum, so in that sense it's
 But its core functionality is meant to solve a different media problem:
 
 <figure>
-  <a href="http://phdcomics.com/comics/archive.php?comicid=1531>"<img src="http://www.phdcomics.com/comics/archive/phd101212s.gif" height="600px" height="70vh" width="auto" alt="webcomic shows a series of panels renaming final.doc to final_rev2, final_rev_6.comments, and so on to absurdity"/></a>
+  <a href="http://phdcomics.com/comics/archive.php?comicid=1531"><img src="http://www.phdcomics.com/comics/archive/phd101212s.gif" height="600px" height="70vh" width="auto" alt="webcomic shows a series of panels renaming final.doc to final_rev2, final_rev_6.comments, and so on to absurdity"/></a>
   <figcaption>from <a href="http://phdcomics.com/comics/archive.php?comicid=1531">PhD Comics</a> by Jorge Cham (2012)</figcaption>
 </figure>
 
 
 
-<div class="alert alert-white">
+<div class="alert alert-success">
 Let's quickly walk through what it looks like:
-**https://github.com/pitt-cdm/text-demo**
+**<a href="https://github.com/pitt-cdm/text-demo">https://github.com/pitt-cdm/text-demo</a>**
 </div>
 <!-- TO DO: Add a screenshot here. Or several? -->
 
@@ -92,5 +92,5 @@ We'll work for 10-15 minutes, then report back.
 [the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) and going as far as your interest and time allow.
 * **Download** software you'll need, as outlined in the [syllabus](/{{site.course.base_url}}uploads)
  - [to use Git at the command line](https://gist.github.com/derhuerst/1b15ff4652a867391f03), possibly including Homebrew (on Mac) or GitBash (on Windows)
-* If you're feeling intimidated by the command line, try out this [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
-* Optional: Want a more hands-on guide through the full GitHub functionality? See the GitHub Learning Lab entry on our [Resources page](/{{site.course.base_url}}resources).
+* *Optional:* If you're feeling intimidated by the command line, try out this [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
+* *Optional:* Want a more hands-on guide through the full GitHub functionality? See the GitHub Learning Lab entry on our [Resources page](/{{site.course.base_url}}resources).
