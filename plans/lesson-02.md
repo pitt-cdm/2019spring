@@ -80,7 +80,7 @@ We'll be working in groups. Can I get four or five volunteers who are feeling go
 
 <div class="alert alert-success">
 Head to
-**https://classroom.github.com/g/sIXPa5zN**, where you'll be asked to create (thanks, anchors!) or join a team.
+<strong><a href="https://classroom.github.com/g/sIXPa5zN">https://classroom.github.com/g/sIXPa5zN</a></strong>, where you'll be asked to create (thanks, anchors!) or join a team.
 
 Then follow the instructions in the README file.
 </div>
