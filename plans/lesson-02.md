@@ -47,6 +47,7 @@ But its core functionality is meant to solve a different media problem:
 Let's quickly walk through what it looks like:
 **<a href="https://github.com/pitt-cdm/text-demo">https://github.com/pitt-cdm/text-demo</a>**
 </div>
+
 <!-- TO DO: Add a screenshot here. Or several? -->
 
 <!--
