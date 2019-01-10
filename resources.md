@@ -39,6 +39,9 @@ layout: default
 <dt><a href="http://ohshitgit.com/">ohshitgit.com</a></dt>
 <dd>We can pretend that the three words in that URL all have three letters, but let's face it: there are times when even experienced users of git feel that something has gone terribly wrong. This is a great resource of quick command-line fixes for common problems, compiled by someone who feels your pain.</dd>
 
+<dt><a href="https://lab.github.com/paths">GitHub Learning Lab</a></dt>
+<dd>Should you feel enticed by our course to want to go deeper into the capabilities of GH and go with the GitHub Flow, come here: it's a system of tutorials built directly into the GitHub web interface, with a "robot" that gives you prompts and affirmations of success right in the Issue Queues and Revision Histories of your own repositories. (Each new "course" you take in the Learning Lab will auto-generate a new repository to play with.) To enable this magic of automation work, you'll have to give the app some major permissions on your account – but since it's written by the same people who make GitHub, I felt pretty comfortable trusting them anyway. (They already keep all my stuff, you know?)</dd>
+
 <dt><a href="https://education.github.com/discount_requests/new">Get free private repositories</a></dt>
 <dd>Important for starting out: GitHub defaults to making repositories public, and ordinarily you would have to buy a paid account to keep your projects private. But if you have a .edu email account, you can request a discount that lets you get unlimited private repositories for free. Click the link to find out more.</dd>
 
