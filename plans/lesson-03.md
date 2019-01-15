@@ -62,6 +62,8 @@ We're going to practice this now.
 
 Okay, with that settled, it's time to [*clone* the repository you just created](https://help.github.com/articles/cloning-a-repository/): that is, let's download it and make sure we're still tracking it with the same Git commit history.
 
+Then, let's make two changes in the same commit: rename the README.md file to ASSIGNMENT.md, and create a new README.md file that describes, in your own words, what you think you might make in this space. (Don't worry, you can always change it later.)
+
 
 # 4. Very Brief Intro to the Command Line: going behind the scenes (but the usual scenes)
 
