@@ -33,7 +33,7 @@ Okay, so **back to full-class discussion.** What stands out?
 As I explained in the syllabus, your first project is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you: (1) to learn how to capture sound and edit it using digital tools, and (2) to explore the affordances of sound as a medium, with particular attention to its ability to communicate *immersive environment* and *narrative pacing and change*.
 
 <div class="alert alert-success">
-To read the full assignment – and make a copy for yourself – go to **[https://classroom.github.com/a/9O5NEFUj](https://classroom.github.com/a/9O5NEFUj)**.
+To read the full assignment – and make a copy for yourself – go to <strong><a href=https://classroom.github.com/a/9O5NEFUj">https://classroom.github.com/a/9O5NEFUj</strong>.
 </div>
 
 Let's read through this together.
@@ -47,7 +47,7 @@ Go through overview, constraints, deadlines. The sections below are prep for the
 As you'll have learned from the videos, GitHub is a (mostly web-based) file-sharing and project-management platform built on top of Git – the version control system that runs mostly on text commands. GitHub's pretty, well, pretty.
 
 <div class="alert alert-info">
-Let's pause for a moment: **Why would we ever want to use Git outside of GitHub?**
+Let's pause for a moment: <strong>Why would we ever want to use Git outside of GitHub?</strong>
 </div>
 
 <!--
@@ -82,7 +82,7 @@ Download the folder, preserving the connected history:
 git clone %clone_url%
 ```
 <div class="alert alert-warning">
-NB: Don't include those percent signs; that's just my way of saying that *clone_url* is a variable, not a literal string you need to type in.
+NB: Don't include those percent signs; that's just my way of saying that <em>clone_url</em> is a variable, not a literal string you need to type in.
 </div>
 
 Core commands you'll need often:
