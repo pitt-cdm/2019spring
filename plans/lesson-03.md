@@ -119,7 +119,7 @@ Armed with that primer, let's do one more thing at the command line before you g
 * **Listen** to the following recordings made by students in response to a similar prompt:
   - Cestare, Jessica. "Soundscape - The Dark Side of The Cat in the Hat." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/176](http://dmap.pitt.edu/node/176). Accessed 15 Jan. 2019.
   - Funke, Taylor. "Soundscape - Day In: Day Out." *Digital Media and Pedagogy.* [http://dmap.pitt.edu/node/177](http://dmap.pitt.edu/node/177). Accessed 15 Jan. 2019.
-  - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178].(http://dmap.pitt.edu/node/178) Accessed 15 Jan. 2019.
+  - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178). Accessed 15 Jan. 2019.
   - White, Zach. "Soundscape - Expanded Space." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/195](http://dmap.pitt.edu/node/195). Accessed 15 Jan. 2019.
 
 * **Listen**, as well, to the following audio tracks from the first few minutes of successful TV dramas:
