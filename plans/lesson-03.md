@@ -10,25 +10,32 @@
 
 ## Plan for the day
 
-1. GitHub for Poets review
+1. GitHub for Poets review (25 min)
 <!-- EXT. Versioning beyond simple text files -->
-2. First project: Soundscape Narrative
-3. What Git does better than GitHub
+2. First project: Soundscape Narrative (20 min)
+3. What Git does better than GitHub (5 min)
 4. Very Brief Intro to the Command Line: going behind the scenes (but the usual scenes)
 5. A little command line setup for Soundscape Narrative
+6. HW Preview
 
 
 # 1. GitHub for Poets review (25 min)
 
-**Take 5 minutes or so to write on your own**, from memory, about the videos you watched over the weekend: what stands out? what do you take away? what are you left wondering?
+<div class="alert alert-success">
+<strong>Take 5 minutes or so to write on your own</strong>, from memory, about the videos you watched over the weekend: what stands out? what do you take away? what are you left wondering?
+</div>
 
-**In pairs, compare your impressions.** Help each other with your questions; be ready to share remaining questions or big takeaways. Spend another 5-8 minutes here.
+<div class="alert alert-success">
 
-*EXT: How well do you think GitHub can track Word files? Try it on one of your own repositories and see what happens if you upload two different versions of the same file.*
+<strong>In pairs, compare your impressions.</strong> Help each other with your questions; be ready to share remaining questions or big takeaways. Spend another 5-8 minutes here.
+
+<em>EXT: How well do you think GitHub can track Word files? Try it on one of your own repositories and see what happens if you upload two different versions of the same file.</em>
+
+</div>
 
 Okay, so **back to full-class discussion.** What stands out?
 
-# 2. First project: Soundscape Narrative
+# 2. First project: Soundscape Narrative (20 min)
 
 As I explained in the syllabus, your first project is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you: (1) to learn how to capture sound and edit it using digital tools, and (2) to explore the affordances of sound as a medium, with particular attention to its ability to communicate *immersive environment* and *narrative pacing and change*.
 
