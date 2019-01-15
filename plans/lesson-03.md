@@ -123,7 +123,7 @@ Armed with that primer, let's do one more thing at the command line before you g
   - White, Zach. "Soundscape - Expanded Space." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/195](http://dmap.pitt.edu/node/195). Accessed 15 Jan. 2019.
 
 * **Listen**, as well, to the following audio tracks from the first few minutes of successful TV dramas:
-  - [Breaking Bad]((/{{site.course.base_url}}assets/sound/bb-pilot-opening.mp3))
+  - [Breaking Bad](/{{site.course.base_url}}assets/sound/bb-pilot-opening.mp3)
   - [Battlestar Galactica](/{{site.course.base_url}}assets/sound/bg-pilot-opening.mp3)
 
 * **Write** a short blog post [on the issue queue](https://github.com/pitt-cdm/miller2019spring/issues/3): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
