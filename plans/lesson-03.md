@@ -117,10 +117,10 @@ Armed with that primer, let's do one more thing at the command line before you g
   - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” NPR Training, 30 Oct. 2015, https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/. (Note the time skips she recommends: sometimes a long clip is embedded, but not meant to be listened to in full.)
 
 * **Listen** to the following recordings made by students in response to a similar prompt:
-  - Cestare, Jessica. Soundscape - The Dark Side of The Cat in the Hat | Digital Media and Pedagogy. http://dmap.pitt.edu/node/176. Accessed 15 Jan. 2019.
-  - Funke, Taylor. Soundscape - Day In: Day Out | Digital Media and Pedagogy. http://dmap.pitt.edu/node/177. Accessed 15 Jan. 2019.
-  - Wick, Thomas. Soundscape - Expedition to Planets Unknown | Digital Media and Pedagogy. http://dmap.pitt.edu/node/178. Accessed 15 Jan. 2019.
-  - White, Zach. Soundscape - Expanded Space | Digital Media and Pedagogy. http://dmap.pitt.edu/node/195. Accessed 15 Jan. 2019.
+  - Cestare, Jessica. "Soundscape - The Dark Side of The Cat in the Hat." *Digital Media and Pedagogy Showcase Spring 2018.* http://dmap.pitt.edu/node/176. Accessed 15 Jan. 2019.
+  - Funke, Taylor. "Soundscape - Day In: Day Out." *Digital Media and Pedagogy.* http://dmap.pitt.edu/node/177. Accessed 15 Jan. 2019.
+  - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* http://dmap.pitt.edu/node/178. Accessed 15 Jan. 2019.
+  - White, Zach. "Soundscape - Expanded Space." *Digital Media and Pedagogy Showcase Spring 2018.* http://dmap.pitt.edu/node/195. Accessed 15 Jan. 2019.
 
 * **Listen**, as well, to the following audio tracks from the first few minutes of successful TV dramas:
   - [Breaking Bad]((/{{site.course.base_url}}assets/sound/bb-pilot-opening.mp3))
