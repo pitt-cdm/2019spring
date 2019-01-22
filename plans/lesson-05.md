@@ -59,7 +59,7 @@ For clip 2, catching the listener's attention is all that matters. Here, anythin
 We'll share these among each other, but not post to GitHub – we don't want any of our fake clips to circulate widely!
 
 <div class="alert alert-success">
-Today's audio clip is from [Nancy Pelosi's address to the House of Representatives on again being elected Speaker](/{{site.course.base_path}}uploads/pelosi-accepts-gavel-20190103.mp3), January 3, 2019. Download it, and get going!
+Today's audio clip is from <a href="/{{site.course.base_path}}uploads/pelosi-accepts-gavel-20190103.mp3">Nancy Pelosi's address to the House of Representatives on again being elected Speaker</a>, January 3, 2019. Download it, and get going!
 </div>
 
 <aside><smaller>
@@ -147,8 +147,18 @@ Before we have to go, let's hear at least a few of the 15-second clips you were 
 
 
 # Homework for next time:
-* **Work** on your soundscape narratives, including making at least two recordings and putting them into conversation in Audacity. If you have time, do more!
-* **Push a soundscape preview** to your GitHub repository, using the steps above. As per the assignment prompt, this should include:<ul><li> A layered **Audacity project file (.aup)**, showing the arrangement of your sounds so far (need not be a complete soundscape or narrative yet).</li><li> A static **[screenshot](https://www.take-a-screenshot.org/) (.png or .jpg)** of your Audacity file in progress (for comparison later to subsequent drafts).</li><li>The **_data folder** associated with your Audacity file, which should contain at least two recorded sounds.</li><li> A plain text (.txt) or markdown (.md) file, explaining in at least 300 words **what you're showing us** in this preview. Feel free also to ask questions or lay out next steps for yourself!</li><li> An updated **ASSETS.md**, indicating which the files you've actually recorded or otherwise obtained. <ul><li>Add source documentation for any outside sources – and your permission to use them (e.g. licenses, fair use; see *Writer/Designer* p. 160-165).</li></ul></li></ul>
+<ul>
+<li><strong>Work</strong> on your soundscape narratives, including making at least two recordings and putting them into conversation in Audacity. If you have time, do more!</li>
+<li><strong>Push a soundscape preview</strong> to your GitHub repository, using the steps above. As per the assignment prompt, this should include:
+  <ul>
+  <li> A layered **Audacity project file (.aup)**, showing the arrangement of your sounds so far (need not be a complete soundscape or narrative yet).</li>
+  <li> A static **[screenshot](https://www.take-a-screenshot.org/) (.png or .jpg)** of your Audacity file in progress (for comparison later to subsequent drafts).</li>
+  <li>The **_data folder** associated with your Audacity file, which should contain at least two recorded sounds.</li>
+  <li> A plain text (.txt) or markdown (.md) file, explaining in at least 300 words **what you're showing us** in this preview. Feel free also to ask questions or lay out next steps for yourself!</li>
+  <li> An updated **ASSETS.md**, indicating which the files you've actually recorded or otherwise obtained. Add source documentation for any outside sources – and your permission to use them (e.g. licenses, fair use; see *Writer/Designer* p. 160-165).</li>
+  </ul>
+</li>
+</ul>
 
 ## EXT: Studio time and microconferences
 
