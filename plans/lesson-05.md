@@ -132,9 +132,11 @@ git commit -m "your headline commit message" -m "your optional extra details"
 
 Now everything in the folder is labeled with that single commit. (If you want to see what's happening, add in a `git status` around each of those lines.) Keep editing, and repeat the process at your next save spot!
 
-<aside class="alert alert-info">
+<div class="alert alert-info">
 Note that the asterisk is a wildcard matching everything – or, rather, every file that's changed since it was last committed. If you prefer, you can `git add %filename%` for any filename one at a time, or use the asterisk to perform partial wildcard matching.
-</aside>
+</div>
+
+
 
 ### Time to problem-solve before Sharing
 
@@ -146,6 +148,8 @@ git push
 ```
 
 Not only will that sync to GitHub, it'll also know which files you want to sync using Git Large File Storage, and make the transfer accordingly!
+
+One way to think of this process is as a little pass-through window at a restaurant counter. You load up items onto the tray with "add", stick a label on them with "commit", and keep doing that until you're ready to push the tray through the window and out into the world.
 
 
 ## 5. Share and Enjoy (15 min)
