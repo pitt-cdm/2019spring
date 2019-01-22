@@ -100,16 +100,22 @@ To activate:
 
 To set up to use with .au files:
 
-1. In the folder with your soundscape repository, enter the following, one line at a time (i.e. press enter after each line):
+1. `cd` **to the folder with your soundscape repository**, then enter the following, one line at a time (i.e. press enter after each line):
 ```bash
+git pull
 git lfs track *.au
 git add .gitattributes
 git commit -m "track .au files with git lfs"
 git push
 ```
 
+NB:
+
 <div class="alert alert-success">
 If possible on your system, I want everyone to have done the Git LFS setup before you leave today!
+</div>
+<div class="alert alert-warning">
+If it's *not* going to be possible, here's an alternative: *before pushing your files to GitHub, compress them to a zip archive*, and add/commit/push that .zip file. (If you're not sure what "zip archive" means, google for that phrase plus your operating system.)
 </div>
 
 ### Multi-file commits
@@ -148,6 +154,7 @@ Before we have to go, let's hear at least a few of the 15-second clips you were 
 
 # Homework for next time:
 <ul>
+<li>If you haven't yet read through the remainder of the lesson plan above, please do so!</li>
 <li><strong>Work</strong> on your soundscape narratives, including making at least two recordings and putting them into conversation in Audacity. If you have time, do more!</li>
 <li><strong>Push a soundscape preview</strong> to your GitHub repository, using the steps above. As per the assignment prompt, this should include:
   <ul>
