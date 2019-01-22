@@ -185,7 +185,8 @@ Especially in the realm of digital production, there's no need to reinvent the w
 <ul>
  	<li>Noel Tague's <a href="https://cdmspring2017.wordpress.com/bag-of-tricks/">bag of tricks</a> is quite extensive, and includes sections on fair use, on archives of materials you can use or cite, on strategies for working with audio and video, and links to free / open source software.</li>
  	<li>Annette Vee's <a href="http://annettevee.com/2016cdm/resources/">CDM resources page</a> includes guidance on GitHub and Markdown (a widely used shorthand for HTML, with a bunch of variants a.k.a. "flavors").</li>
-<li>Courtney Danforth has a full three pages of resources on <a href="https://courtneysdanforth.files.wordpress.com/2009/09/getting-started-with-soundwriting-google-docs.pdf">Getting Started with Soundwriting</a> that I expect will be useful in the audio unit.</li>
+  <li>Kelsey Cameron, another veteran Composing Digital Media instructor, has posted <a href="http://klcameron.com/cdmt/resources/">her own preferred links</a>; the Sound section may be especially useful, as I've modeled our audio unit on hers.</li>
+  <li>Courtney Danforth has a full three pages of resources on <a href="https://courtneysdanforth.files.wordpress.com/2009/09/getting-started-with-soundwriting-google-docs.pdf">Getting Started with Soundwriting</a> that I expect will be useful in the audio unit.</li>
 </ul>
 
 As the semester goes on, we can identify our own list of favorites!
