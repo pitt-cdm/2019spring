@@ -12,6 +12,8 @@ layout: default
 
 ## Services at Pitt
 <dl>
+<dt><a href="http://lynda.pitt.edu">Lynda Online Learning</a></dt>
+<dd>This is a portal for high-quality, often in-depth, video and screencast tutorials for a wide variety of digital tools: from audio, image, and video editing, to web design, to photography and graphic design, to programming languages. Your tuition dollars give you access while you're at Pitt; might as well take advantage while you can!</dd>
 <dt><a href="http://dmap.pitt.edu/">DMAP site</a></dt>
 <dd>The English department maintains a Digital Media And Pedagogy site with a number of useful resources, including <a href="http://dmap.pitt.edu/equipment">recording equipment</a> you can check out, easy-to-reserve office hours with either a grad student or faculty digital media consultant (see the sidebar), and a way to reserve the DMAP studio (CL 463) for up to eight people.</dd>
 
