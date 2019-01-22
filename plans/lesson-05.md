@@ -138,7 +138,7 @@ Note that the asterisk is a wildcard matching everything – or, rather, every 
 
 
 
-### Time to problem-solve before Sharing
+### Time to problem-solve before sharing
 
 All those commits you just made are _local to your computer_: they're not shared yet. So you can try things out, make mistakes, and fix them before anyone stumbles onto your project and starts making judgments about quality.
 
