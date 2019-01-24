@@ -112,6 +112,9 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dt><a href="https://theaudacitytopodcast.com/tap040-10-tips-for-how-to-keep-audacity-from-crashing/">10 Tips for How to Keep Audacity from Crashing</a></dt>
 <dd>The title says it all. I haven't had problems, but if you start to, have a look here.</dd>
 
+<dt><a href="https://thewirecutter.com/reviews/the-best-voice-recorder/#the-best-smartphone-apps-for-occasional-recording">Recommended smartphone recording apps</a></dt>
+<dd>The New York Times's <em>Wirecutter</em> review site has a relatively recent roundup of free and nearly free apps for iPhone and Android. Save yourself some time trying to find the app with the least intrusive ads, and start with something pre-vetted and user-tested.</dd>
+
 <dt>Examples of Soundwriting</dt>
 <dd>There is kind of a glut of good radio out there, especially in the form of podcasts produced by NPR (<a href="http://www.npr.org/podcasts/">National Public Radio</a>) or PRX (<a href="http://www.prx.org/series">Public Radio Exchange</a>). You can look for something in the same genre as the piece you want to re-mediate.</dd>
 <dd>I'll assign a few of my favorites over the next week or two.</dd>
