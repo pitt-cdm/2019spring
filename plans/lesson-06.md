@@ -30,7 +30,9 @@ Primed now by that writing and thinking, I'm going to ask you to get in groups a
 ### 3b. Crowdsource ideas (10 min)
 To bring all our notes together while allowing for real-time collaboration, **use this google doc: [bit.ly/miller2019spring](http://bit.ly/miller2019spring).**
 
+<div class="alert alert-success">
 Take 10 minutes in groups to make some lists: given the <a href="https://github.com/pitt-cdm/soundscape-prompt">goals of the unit</a>, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not just in terms of quantity, but in terms of quality?
+</div>
 
 ### 3c. Discuss and Integrate (30 min)
 Quickly read through the other groups' notes, and as you see overlap, propose an official version for our list of shared criteria.
@@ -40,7 +42,7 @@ We'll refine as a group, and repeat, and then come back and revise after Tuesday
 
 ## 4. Sources, assets, permissions, citations (5-10 min)
 
-If time allows, let's talk more about sources and attribution. 
+If time allows, let's talk more about sources and attribution.
 
 0. Copyright
 1. Fair use
