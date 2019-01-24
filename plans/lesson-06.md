@@ -25,7 +25,9 @@ Shift now in your writing to think about the [blog posts on listening to soundsc
 Primed now by that writing and thinking, I'm going to ask you to get in groups and brainstorm in pursuit of baseline and aspirational criteria for this unit.
 
 ### 3a. Let's try these groups:
+<figure>
 <img src="/{{site.course.base_path}}assets/img/2019-seating-groups.png" alt="Aba, Jared, Anthony, and Aliyah / Russell, Jesse, Laura, and Tessa / Jenny C, Jenny H, Margaret, and Tyler R / Tyller B, Christy, and Ryan / Beth, Nicole, Lauren, and Emma">
+</figure>
 
 ### 3b. Crowdsource ideas (10 min)
 To bring all our notes together while allowing for real-time collaboration, **use this google doc: [bit.ly/miller2019spring](http://bit.ly/miller2019spring).**
