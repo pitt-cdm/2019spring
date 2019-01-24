@@ -100,22 +100,16 @@ To activate:
 
 To set up to use with .au files:
 
-1. `cd` **to the folder with your soundscape repository**, then enter the following, one line at a time (i.e. press enter after each line):
+1. In the folder with your soundscape repository, enter the following, one line at a time (i.e. press enter after each line):
 ```bash
-git pull
 git lfs track *.au
 git add .gitattributes
 git commit -m "track .au files with git lfs"
 git push
 ```
 
-NB:
-
 <div class="alert alert-success">
 If possible on your system, I want everyone to have done the Git LFS setup before you leave today!
-</div>
-<div class="alert alert-warning">
-If it's *not* going to be possible, here's an alternative: *before pushing your files to GitHub, compress them to a zip archive*, and add/commit/push that .zip file. (If you're not sure what "zip archive" means, google for that phrase plus your operating system.)
 </div>
 
 ### Multi-file commits
@@ -132,13 +126,11 @@ git commit -m "your headline commit message" -m "your optional extra details"
 
 Now everything in the folder is labeled with that single commit. (If you want to see what's happening, add in a `git status` around each of those lines.) Keep editing, and repeat the process at your next save spot!
 
-<div class="alert alert-info">
+<aside class="alert alert-info">
 Note that the asterisk is a wildcard matching everything – or, rather, every file that's changed since it was last committed. If you prefer, you can `git add %filename%` for any filename one at a time, or use the asterisk to perform partial wildcard matching.
-</div>
+</aside>
 
-
-
-### Time to problem-solve before sharing
+### Time to problem-solve before Sharing
 
 All those commits you just made are _local to your computer_: they're not shared yet. So you can try things out, make mistakes, and fix them before anyone stumbles onto your project and starts making judgments about quality.
 
@@ -149,8 +141,6 @@ git push
 
 Not only will that sync to GitHub, it'll also know which files you want to sync using Git Large File Storage, and make the transfer accordingly!
 
-One way to think of this process is as a little pass-through window at a restaurant counter. You load up items onto the tray with "add", stick a label on them with "commit", and keep doing that until you're ready to push the tray through the window and out into the world.
-
 
 ## 5. Share and Enjoy (15 min)
 Before we have to go, let's hear at least a few of the 15-second clips you were able to produce from our Speaker of the House!
@@ -158,15 +148,15 @@ Before we have to go, let's hear at least a few of the 15-second clips you were 
 
 # Homework for next time:
 <ul>
-<li>If you haven't yet read through the remainder of the lesson plan above, please do so!</li>
+<li>If you didn't yet, please finish the work above!</li>
 <li><strong>Work</strong> on your soundscape narratives, including making at least two recordings and putting them into conversation in Audacity. If you have time, do more!</li>
 <li><strong>Push a soundscape preview</strong> to your GitHub repository, using the steps above. As per the assignment prompt, this should include:
   <ul>
-  <li> A layered **Audacity project file (.aup)**, showing the arrangement of your sounds so far (need not be a complete soundscape or narrative yet).</li>
-  <li> A static **[screenshot](https://www.take-a-screenshot.org/) (.png or .jpg)** of your Audacity file in progress (for comparison later to subsequent drafts).</li>
-  <li>The **_data folder** associated with your Audacity file, which should contain at least two recorded sounds.</li>
-  <li> A plain text (.txt) or markdown (.md) file, explaining in at least 300 words **what you're showing us** in this preview. Feel free also to ask questions or lay out next steps for yourself!</li>
-  <li> An updated **ASSETS.md**, indicating which the files you've actually recorded or otherwise obtained. Add source documentation for any outside sources – and your permission to use them (e.g. licenses, fair use; see *Writer/Designer* p. 160-165).</li>
+  <li> A layered <strong>Audacity project file (.aup)</strong>, showing the arrangement of your sounds so far (need not be a complete soundscape or narrative yet).</li>
+  <li> A static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a></strong> (.png or .jpg) of your Audacity file in progress (for comparison later to subsequent drafts).</li>
+  <li>The <strong>\_data folder</strong> associated with your Audacity file, which should contain at least two recorded sounds.</li>
+  <li> A plain text (.txt) or markdown (.md) file, explaining in at least 300 words <strong>what you're showing us</strong> in this preview. Feel free also to ask questions or lay out next steps for yourself!</li>
+  <li> An updated <strong>ASSETS.md</strong>, indicating which the files you've actually recorded or otherwise obtained. Add source documentation for any outside sources – and your permission to use them (e.g. licenses, fair use; see <em>Writer/Designer</em> p. 160-165).</li>
   </ul>
 </li>
 </ul>
