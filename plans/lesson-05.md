@@ -102,6 +102,7 @@ To set up to use with .au files:
 
 1. In the folder with your soundscape repository, enter the following, one line at a time (i.e. press enter after each line):
 ```bash
+git pull
 git lfs track *.au
 git add .gitattributes
 git commit -m "track .au files with git lfs"
