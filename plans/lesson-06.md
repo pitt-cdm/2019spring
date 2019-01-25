@@ -41,6 +41,10 @@ Quickly read through the other groups' notes, and as you see overlap, propose an
 
 We'll refine as a group, and repeat, and then come back and revise after Tuesday's workshop.
 
+<figure>
+<img src="/{{site.course.base_path}}assets/img/board--lesson-06.jpg" style="max-width:80%; height:auto; max-height: 70vh; width:auto;" />
+</figure>
+
 
 ## 4. Sources, assets, permissions, citations (5-10 min)
 
