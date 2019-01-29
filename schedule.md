@@ -103,7 +103,13 @@ For next time:
 * **Bring** headphones so you can work in class
 
 
-<div class="alert alert-info">I’ll fill in the rest of these lessons and homeworks online, as we go, but here are the essential dates:</div>
+<h3><a href="/{{site.course.base_path}}plans/lesson-08">Lesson 8, Thursday 1/31</a> – Sound Studio</h3>
+
+For next time:
+
+* **By 11:59pm on Sunday, Feb 3,** complete – at least for now – your soundscape narrative.
+* **By Tuesday's class,** write a prose reflection that incorporates images from your feedback and screenshots of your Audacity project.
+
 
 
 <h2 id="unit-3">Unit III: Visual Rhetorics and Argument</h2>
@@ -115,6 +121,11 @@ Tu 2/12	| Visual argument proposal
 Th 2/14 |	Visual argument preview
 Tu 2/19	| Visual argument full draft
 Tu 2/26	| Visual argument final-for-now draft
+
+
+
+
+<div class="alert alert-info">I’ll fill in the rest of these lessons and homeworks online, as we go, but here are the essential dates:</div>
 
 
 <h2 id="unit-4">Unit IV: Webslinging (HTML + CSS markup)</h2>
