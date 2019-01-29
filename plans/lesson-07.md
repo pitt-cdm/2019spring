@@ -22,6 +22,7 @@ To avoid some of the pitfalls of peer review, I'm going to insist that you provi
 <ol><li> First, <strong>describe</strong> what you hear, without judging whether it's good or not. What is this project? What stands out? What seems to be the focus? <!-- A lot of times as writers, even soundwriters, we don't even know if our audience is getting the main point we want to get across.  --></li>
 <li>Next, <strong>evaluate</strong> according to some shared criteria, in light of the focus you perceive in the project. <!-- This is still a form of description: it's not about "good" or "bad" in the abstract but about where it meets or misses the shared or stated goals. --></li>
 <li>Finally, <strong>suggest</strong> some revision possibility that you think might help take the project to the next level: assume a revision is on the way. Given the goals, the focus, the criteria, what might be next? <!-- Pose this as a suggestion, not a command: and interpret these as suggestions, not commands. --></li>
+</ol>
 </div>
 
 We're going to be doing this all on index cards, which don't give you a ton of space: try to focus your response on what seems most important to the piece. (I'll ask you to photograph the cards for your records, then turn them in so I can get an overall sense of where we are as a group.)
