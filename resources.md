@@ -77,7 +77,7 @@ layout: default
  The site also includes some useful educational resources for learning more about font history and font selection.</dd>
 
 <dt><a href="https://thenounproject.com/">The Noun Project</a></dt>
-<dd>A liberally licensed icon sets aiming to create "icons for everything," though as the name suggests, they specialize in <em>things</em>, rather than actions. If you realize you don't want all the detail of a photo when a simple line drawing would get the idea across, try searching their million-plus collection.</dd>
+<dd>A collection of liberally licensed icon sets aiming to create "icons for everything," though as the name suggests, they specialize in <em>things</em>, rather than actions. If you realize you don't want all the detail of a photo when a simple line drawing would get the idea across, try searching their million-plus collection.</dd>
 
 <dt><a href="https://color.adobe.com/create/color-wheel/">Adobe Color CC</a></dt>
 <dt><a href="http://paletton.com/">Paletton</a></dt>
