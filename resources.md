@@ -145,6 +145,9 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 
 <dt>Examples of Visual Rhetoric in Action</dt>
 <dd><a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought</a>, a collection of academic infographics by Nathaniel Rivers. In addition to being useful for how he handles design elements, quotation, and citation, some of the content deals with ideas on multimedia composing and rhetoric.</dd>
+
+<dt>Visual Design Lessons</dt>
+<dd>There are lots of tutorials out there. One I've been enjoying is a series of blog posts by designer Julie Thompson on teaching middle-schoolers about principles of graphic design. You can read <a href="https://www.thetypetree.com/blog/category/graphic-design-lessons">the whole series</a> (from bottom to top), or jump to lessons on <a href="https://www.thetypetree.com/blog/graphic-design-101-positive-and-negative-space">positive and negative space</a>, ways to create visual <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">dominance and hierarchy</a>, or <a href="https://www.thetypetree.com/blog/graphic-design-101-rhythm-and-movement">rhythm and movement</a> – even in static images. The exercises are designed for a non-digital space, but the lessons easily apply in digital realms.</dd>
 </dl>
 
 ### Web Design
