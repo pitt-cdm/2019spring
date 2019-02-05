@@ -142,7 +142,9 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dl>
 <dt>GIMP Tutorials</dt>
 <dd>As with Audacity, the community making the tool knows it best, and so you can find quite a few intro-level tutorials on the GIMP site itself, at <a href="https://www.gimp.org/tutorials">www.gimp.org/tutorials</a>. These include "GIMP Quickies" and a tutorial on layer manipulation called "Simple Floating Logo." "Layer Masks" may also be useful, e.g. if you want to make an image fit into a specified shape or shadow.</dd>
-<dd>GIMP also has a separate <a href="https://docs.gimp.org/2.10/en/">user manual</a>. <strong>If you get stuck, I highly recommend <a href="https://docs.gimp.org/2.10/en/gimp-getting-unstuck.html">Chapter 4: Getting Unstuck</a></strong>.</dd>
+<dd>GIMP also has a separate <a href="https://docs.gimp.org/2.10/en/">user manual</a>.
+    <div class="alert alert-info">If you get stuck, I highly recommend <strong><a href="https://docs.gimp.org/2.10/en/gimp-getting-unstuck.html">Chapter 4: Getting Unstuck</a></strong>!</div>
+</dd>
 
 <dt>Examples of Visual Rhetoric in Action</dt>
 <dd><a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought</a>, a collection of academic infographics by Nathaniel Rivers. In addition to being useful for how he handles design elements, quotation, and citation, some of the content deals with ideas on multimedia composing and rhetoric.</dd>
