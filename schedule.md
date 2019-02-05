@@ -127,6 +127,7 @@ For next time:
 
 For next time:
 
+* **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game <!-- http://www.typeconnection.com/ -->
 * **Write** a visual rhetoric proposal, including a prospective asset list; post to the issue queue
 
 <h3><a href="/{{site.course.base_path}}plans/lesson-11">Lesson 11, Tuesday 2/12</a> – Visual Unit Studio</h3>
