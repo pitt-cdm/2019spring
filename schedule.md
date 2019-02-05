@@ -115,13 +115,44 @@ For next time:
 <h2 id="unit-3">Unit III: Visual Rhetorics and Argument</h2>
 *In this unit, you will make a claim through the juxtaposition of images and text. As with the sound project, the context for your argument is open: you could be making a social commentary, calling for action, constructing a parody, riffing on a pun, explaining a concept, and so on. Whatever you choose, you should consider your audience and what they would find persuasive or interesting, and how you therefore wish to attract and direct their attention.*
 
-Date | What's Due
------- | ------
-Tu 2/12	| Visual argument proposal
-Th 2/14 |	Visual argument preview
-Tu 2/19	| Visual argument full draft
-Tu 2/26	| Visual argument final-for-now draft
+<h3><a href="/{{site.course.base_path}}plans/lesson-09">Lesson 9, Tuesday 2/5</a> – Can You Picture It? Visual Rhetorics and Argument</h3>
 
+For next time:
+
+* **Read** a quick introduction to graphic design principles
+* **Find** an example of good visual rhetoric
+* **Write** a blog post about your example
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-10">Lesson 10, Thursday 2/7</a> – Generating Visual Ideas</h3>
+
+For next time:
+
+* **Write** a visual rhetoric proposal, including a prospective asset list; post to the issue queue
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-11">Lesson 11, Tuesday 2/12</a> – Visual Unit Studio</h3>
+
+For next time:
+
+* **Compose and push** a visual rhetoric preview
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-12">Lesson 12, Thursday 2/14</a> – Visual Unit Criteria and Stretch Goals</h3>
+
+For next time:
+
+* **Compose and push** a visual rhetoric draft
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-13">Lesson 13, Tuesday 2/19</a> – Visual Unit Workshop</h3>
+
+For next time:
+
+* **Write** a blog post with more ideas toward the collaborative project
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-14">Lesson 14, Thursday 2/21</a> – Studio</h3>
+
+For next time:
+
+* **By 11:59pm on Sunday, Feb 24,** complete – at least for now – your visual argument.
+* **By Tuesday's class, Feb 26,** write a prose reflection that incorporates images from your feedback and screenshots of your GIMP project.
 
 
 
