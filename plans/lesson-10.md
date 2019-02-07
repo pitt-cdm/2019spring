@@ -56,7 +56,7 @@ From [Tessa](https://github.com/pitt-cdm/miller2019spring/issues/8#issuecomment-
    - _rhythm and movement_: How does your eye move across the image? Does it come to rest, or keep moving? Why?
 4. Would you say the artifact is effectively designed for making the arguments weve identified?
 
-Next up, from [Jenny H](https://github.com/pitt-cdm/miller2019spring/issues/8#issuecomment-460877447):
+Next up, from [Jenny H](https://github.com/pitt-cdm/miller2019spring/issues/8#issuecomment-460877447) (with the same questions):
 <a href="https://www.post-gazette.com/news/crime-courts/2018/10/28/Stronger-Than-Hate-logo-creator-Tim-Hindes-Tree-of-Life-Pittsburgh/stories/201810280204" title="Click for the story behind the logo"><img src="https://surveygizmolibrary.s3.amazonaws.com/library/545238/STH.jpg" alt="stronger than hate logo" style="max-width:80%; height: auto;"/></a>
 
 EXT: If time allows, I'd like to contrast the two images above with the [full laptop worth of stickers](https://user-images.githubusercontent.com/46493137/52316301-b32ef180-2988-11e9-9729-38365e2a9e30.jpg). Is there visual unity of design here?
