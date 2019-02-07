@@ -4,11 +4,21 @@ layout: default
 
 <img src="assets/img/dangerous-to-go-alone-wide.jpg" class="banner" alt="banner: It's dangerous to go alone. Take this!" title="image modified from still of *The Legend of Zelda* by Shigeru Miyamoto and Nintendo."/>
 
-<!--
-[toc]
--->
-
 # Resources
+
+Table of contents:
+* [Services at Pitt](#services-at-pitt)
+* [Help with Git and GitHub](#help-with-git-and-github)
+* [Free and Licensed Images, Sounds, and Other Assets](#free-and-licensed-images-sounds-and-other-assets)
+   - [Sounds and Music](#sounds-and-music)
+   - [Visuals](#visuals)
+   - [Web Frameworks](#web-frameworks)
+* [Unit-Specific Resources](#unit-specific-resources)
+   - [Audio](#audio)
+   - [Visual](#visual)
+   - [Web Design](#web-design)
+* [File Compression](#file-compression)
+* [Other Resource Roundups](#other-resource-roundups)
 
 ## Services at Pitt
 <dl>
