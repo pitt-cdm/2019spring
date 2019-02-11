@@ -63,8 +63,10 @@ EXT: If time allows, I'd like to contrast the two images above with the [full la
 
 ## 3. Loop writing
 _This exercise is adapted from one by Sondra Perl._
-
+<!-- starting at 10:19 -->
 Take a few minutes to think in writing about the visual arguments you might want to make. I'll read a series of questions aloud. Repeat them silently to yourself, and when you feel yourself answering, make a list.
+
+These lists will remain private, unless you choose to share. I won't ask for them.
 
 1. What ideas do you want help remembering?
 2. Or what do you want to persuade others of?
@@ -75,7 +77,7 @@ Take a moment now to read back over your lists. Is there something that stands o
 
 With that chosen subject, write again:
 
-4. What terms or images come to mind when you think of this subject?
+4. What terms or images come to mind when you think of this subject? ... Think about categories of words: actions vs things. Descriptors. 
 5. Is there anything you're forgetting to add to your list? A line from a song? A color?
 6. Who else might be interested in this? Who, that is, could be your audience?
 

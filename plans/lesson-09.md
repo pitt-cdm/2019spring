@@ -67,7 +67,7 @@ To fill with color, try the Bucket tool.
 
 ## EXT: Google Image's Advanced Search Tools
 
-Not everything is just available for any use – even if you can find it on a public website. See my FAQ from last year at https://cdm2017.majoringinmeta.net/lesson-04/.
+Not everything is just available for any use – even if you can find it on a public website. See my FAQ from last year at https://cdm2017.majoringinmeta.net/lesson-04/#key-questions-and-considerations-20-30-min.
 
 # Homework for next time:
 * **Read** the following short lessons on graphic design, by independent designer Julie Thompson: <a href="https://www.thetypetree.com/blog/graphic-design-101-positive-and-negative-space">positive and negative space</a>; <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">dominance and hierarchy</a>; <a href="https://www.thetypetree.com/blog/graphic-design-101-rhythm-and-movement">rhythm and movement</a>.
