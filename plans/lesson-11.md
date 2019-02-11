@@ -50,7 +50,9 @@ Two seeds of ideas I want to plant:
 </div>
 
 ## Homework for next time
-Compose a **Visual Rhetoric Preview**: an early snapshot of your progress, to get the gears turning, to get practice with GIMP, and to start testing out the ideas from your proposal (or beyond).
+<div class="alert alert-success">
+Compose a <strong>Visual Rhetoric Preview</strong>: an early snapshot of your progress, to get the gears turning, to get practice with GIMP, and to start testing out the ideas from your proposal (or beyond).
+</div>
 
 Please turn in:
 <ul>
@@ -58,5 +60,7 @@ Please turn in:
 <li> A static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a> (.png or .jpg)</strong> of your GIMP file in progress (for comparison later to subsequent drafts). If you can capture a moment of success or stuckness, all the better.</li>
 <li> A plain text (.txt) or markdown (.md) file, explaining in at least 300 words <strong>what you're showing us</strong> in this preview. Feel free also to ask questions or lay out next steps for yourself!</li>
 <li> An updated <strong>ASSETS.md</strong> file, now with the files you're actually obtained. As you go, add source documentation for any outside sources – and your permission to use them (e.g. licenses, fair use; see <em>Writer/Designer</em> p. 160-165). <ul><li>If you prefer, you can create a new CREDITS.md file for this, preserving the ASSETS list for things you're still seeking.</li></ul></li>
-<li><em>Optional, but encouraged:</em> An <strong>exported .png file</strong>. Just like Audacity, GIMP's default save mode is a complex / modular "project file," of type .xcf; should the project fail to load, it would be great to have a simple image file as a backup. We won't be able to see how you achieved your layout, but we will be able to see the image, and you'll also be able to use GitHub history to compare one version to another. Pretty cool, right?
+<li><em>Optional, but encouraged:</em> An <strong>exported .png file</strong>. Just like Audacity, GIMP's default save mode is a complex / modular "project file," of type .xcf; should the project fail to load, it would be great to have a simple image file as a backup. We won't be able to see how you achieved your layout, but we will be able to see the image, and you'll also be able to use GitHub history to compare one version to another. Pretty cool, right?</li>
 </ul>
+
+**Where to turn in?** Ideally, to GitHub; if that's not working for you yet, post to Box (and put a link to the Box folder in GitHub).
