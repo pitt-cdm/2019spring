@@ -61,7 +61,7 @@ Before you leave your seat, (1) load up your GIMP project, and (2) **label three
 Then...
 <div class="alert alert-success">
 Rotate *counter*-clockwise around the monitor-islands. Label <em>one</em> index card <strong>From: {yourname}</strong>. View / read through the project fully at least once, then
-<ol><li><strong>Describe</strong> what you see,</li> <li><strong>Evaluate</strong> where it meets or misses the criteria,</li> and <li><strong>Suggest</strong> ways to meet and exceed the criteria!</li>
+<ol><li><strong>Describe</strong> what you see,</li> <li><strong>Evaluate</strong> where it meets or misses the criteria,</li> and <li><strong>Suggest</strong> ways to meet and exceed the criteria!</li></ol>
 </div>
 
 I'll keep track of time.
