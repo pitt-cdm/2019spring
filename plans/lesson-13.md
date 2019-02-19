@@ -56,7 +56,7 @@ Can we confirm these, or does someone want to make a strong argument against?
 
 Let's do this!
 <div class="alert alert-success">
-Before you leave your seat, (1) load up your GIMP project, and (2) **label three** index cards <em>For: {yourname}</em>.
+Before you leave your seat, (1) load up your GIMP project, and (2) <strong>label three</strong> index cards <em>For: {yourname}</em>.
 </div>
 Then...
 <div class="alert alert-success">
