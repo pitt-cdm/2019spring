@@ -168,7 +168,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 
 <dl>
 <dt><a href="https://internetingishard.com/html-and-css/">internetingishard.com/html-and-css</a></dt>
-<dd>Your one-stop shop for learning basic web architecture from the ground up. I'll assign this for homework.</dd>
+<dd>Your one-stop shop for learning basic web architecture from the ground up. I'll assign this for homework. UPDATE: The website went down some time between February 14th and February 19th of 2019! Luckily, there's a copy on <a href="https://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/">The Wayback Machine</a>. If the main link doesn't work, go there!</dd>
 
 <dt><a href="http://jgthms.com/web-design-in-4-minutes">Web Design in 4 Minutes</a></dt>
 <dd>We walked through this demo on the <a href="/lesson-13/#web-design-in-4-minutes-15-min">first day of the unit</a>; if you're at a loss for what to include in your stylesheet, you can do far worse than adding the basic spacing rules Jeremy Thomas sets up here.</dd>
