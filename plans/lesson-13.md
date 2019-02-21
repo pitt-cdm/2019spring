@@ -76,7 +76,7 @@ Based on your viewing, would anyone like to propose new criteria, whether baseli
 
 # Homework for Next Time
 
-* **Next class will be a graphic designers' studio:** bring headphones for [sonic isolation](http://noisli.com), and whatever else you need to work towards finalizing your visual rhetorical collage.
+* Next class will be a graphic designers' studio: **bring headphones for [sonic isolation](http://noisli.com)**, and whatever else you need to work towards finalizing your visual rhetorical collage.
   - The final draft is due at the end of the day on Sunday, and a reflection by class-time on Tuesday; see the [visual rhetorical collage prompt](https://github.com/pitt-cdm/visual-rhetoric-prompt/) for further details.
 * Even as we zoom in toward the unit finale (again), I want to keep one eye open toward the bigger picture (again!). **Write a short blog post** thinking about possible group projects you'd like to try for the end of term.
   - What games or branching narratives come to mind as you view the class's arguments?
