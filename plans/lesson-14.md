@@ -40,6 +40,6 @@ Seeds of ideas I want to plant:
    - Your own assessment of how you met the [baseline criteria](http://bit.ly/miller2019spring#heading=h.8nv1tj21q7cy) and goals for the unit, as well as any aspirational criteria as appropriate
    - At least one photograph of a notecard with feedback you used (and please say how)
    - At least one or two screenshots of your work in progress (ideally, related to the discussion in the previous two bullets)
-* **Post your reflection** to the course site's [Issue queue](https://github.com/pitt-cdm/miller2019spring/issues/9), to make it easier to embed images.
+* **Post your reflection** to the course site's [Issue queue](https://github.com/pitt-cdm/miller2019spring/issues/11), to make it easier to embed images.
    - If you want to then copy the source code into a file in your repo called reflections.md, I won't stop you!
    - If you feel strongly that you'd rather keep your reflection private, you can email it to me instead. But my default assumption is that we learn from each other as much as from ourselves, so I hope you can find a way to write publicly about your experience with this project.
