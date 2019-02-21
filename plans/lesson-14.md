@@ -30,6 +30,7 @@ Seeds of ideas I want to plant:
 
 ## Homework for next time
 
+* If you haven't yet done so, please download and install the [Atom text editor](http://atom.io); we'll be using it for our upcoming web design unit. 
 * By 11:59pm on Sunday, Feb 24, **complete – at least for now – your visual rhetorical collage.** Your repository (on GitHub or in a shared Box folder) should include:
    - Your most up-to-date layered GIMP project file (.xcf)
    - A series, now, of screenshots showing your GIMP project in progress. (Think about what moments are worth remembering as you go: where did you level up, or realize something, or get stuck?)
