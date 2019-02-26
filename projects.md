@@ -26,7 +26,7 @@ We'll talk more about possible constraints in class.
 
 ## Website Portfolio
 
-For your third project, you will build a personal website using basic html and css files (as opposed to a site manager like WordPress or Wix), along with any media assets you wish to embed. One relatively straightforward option for this unit is to stage and present the materials you produced earlier in the term; depending on your needs and interests, however, you can also develop this into a more sustainable and public-facing platform from which to manage your online identities.
+For your third project, you will build a responsive website using basic html and css files (as opposed to a site manager like WordPress or Wix), along with any media assets you wish to embed. One relatively straightforward option for this unit is to stage and present the materials you produced earlier in the term; depending on your needs and interests, however, you can also develop this into a more sustainable and public-facing platform from which to manage your online identities.
 
 
 ## Group Project (Interactive Narrative)
