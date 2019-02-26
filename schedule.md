@@ -157,27 +157,75 @@ For next time:
 
 
 
-<div class="alert alert-info">I’ll fill in the rest of these lessons and homeworks online, as we go, but here are the essential dates:</div>
-
-
 <h2 id="unit-4">Unit IV: Webslinging (HTML + CSS markup)</h2>
 *In this unit, you will build a multi-page website from scratch, beginning with html and css files.*
 
-Date | What's Due
------- | ------
-Tu 3/5	| Web portfolio proposal
-Th 3/7 |	Web portfolio preview
-Tu 3/19	| Web portfolio full draft
-Tu 3/26	| Web portfolio final-for-now draft
+<h3><a href="/{{site.course.base_path}}plans/lesson-15">Lesson 15, Tuesday 2/26</a> – Midterm Reflections and Intro to Markup</h3>
+<!--
+Separation of content from display.
+[CSS Zen Garden](http://www.csszengarden.com/)
+[Web design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
+EXT: developer tools demo
+-->
+For next time:
+
+* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-4 (from "Introduction" through "Hello, CSS")
+* **Show your work** by pushing your tutorial code to a repository
+* **Bring** headphones for sonic isolation during studio time
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-16">Lesson 16, Thursday 2/28</a> – Generative Studio</h3>
+<!--
+Developer tools demo
+Self-paced tutorialing
+Offline sketching
+-->
+For next time:
+
+* **View/Read** documentation on using GitHub Pages <!-- https://pages.github.com/ -->
+* **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, and a prospective asset list. Post to the issue queue.
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-17">Lesson 17, Tuesday 3/5</a> – Web Unit Studio / Deployment</h3>
+
+<!-- Make sure everyone has successfully activated GitHub Pages before they leave -->
+
+For next time:
+* **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
+* **Compose and push** a website preview: a beginning.
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-18">Lesson 18, Thursday 3/7</a> – Web Unit Criteria</h3>
+<!--
+Developer tools demo
+Self-paced tutorialing
+Offline sketching
+-->
+For next time:
+
+* **View/Play** sample Twine games
+* **Compose and push** a full draft of your website project.
+
 
 <div class="alert alert-warning">
 Spring break is the week of Tu 3/12 and Th 3/14; our only classes will be CSS classes.
 </div>
 
+<h3><a href="/{{site.course.base_path}}plans/lesson-19">Lesson 19, Tuesday 3/19</a> – Web Unit Workshop</h3>
+
+For next time:
+
+* **Write** (or respond to) a pitch toward the collaborative project
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-20">Lesson 20, Thursday 3/21</a> – Studio</h3>
+
+For next time:
+
+* **By 11:59pm on Sunday, Mar 24,** complete – at least for now – your website project.
+* **By Tuesday's class, Mar 26,** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
+
 
 <h2 id="unit-5">Unit V: Collaborative Composing</h2>
 *The deadlines and assignments here will vary from group to group, according to a team contract and more formal project proposal... unless we all agree to just make interactive stories in [Twine](https://twinery.org), in which case I'll follow a similar deadline pattern to the previous three units.*
 
+*One option here, I should note, is to make a single game, aiming for high production values by dividing into a story team, a visual team, a coding team, a project management team, and so on. But we could also do smaller games to allow for more divergence.*
 
 
 <h2 id="unit-6">Unit VI: Reflection and Revision</h2>
