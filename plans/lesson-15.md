@@ -18,6 +18,7 @@
 Welcome to the second half of the semester!
 
 <div class="alert alert-success">
+<!-- NOTE FOR NEXT TIME: use this reflection as a chance to think about similarities/differences across the media of sound and visual space. What's afforded differently? What strategies connect the two? -->
 Over the weekend, you wrote a reflection on your visual-rhetorical project; now, take a few minutes to write a broader reflection on the semester as a whole. Given your goals and expectations when you began this class, what have you begun to learn, and what, especially, haven't you begun to learn? <strong>What skills do you want to have practiced before the semester is over?</strong> Can you think of any projects you might compose over the next month or so that would help you get that practice?
 </div>
 
