@@ -182,7 +182,7 @@ Self-paced tutorialing
 For next time:
 
 * **View/Read** documentation on using GitHub Pages <!-- https://pages.github.com/ -->
-* **Do** more of the [tutorial]((http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
+* **Do** more of the [tutorial](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
 * **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
 * **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, and a prospective asset list. Post to the issue queue.
 
