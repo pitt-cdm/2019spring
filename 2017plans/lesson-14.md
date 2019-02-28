@@ -20,7 +20,7 @@
 * alignment and whitespace are used to group things more than borders or dividers
 * sans-serif more common for body fonts, serif sometimes for headings
 
-While prepping for class, I found some interesting [data from an eye-tracking firm](http://www.eyequant.com/blog/hacking-web-design-with-neuroscience) that's relevant here. I'll summarize-skim, leaving the link for you to peruse in more depth, but here's their big take-away: 
+While prepping for class, I found some interesting [data from an eye-tracking firm](http://www.eyequant.com/blog/hacking-web-design-with-neuroscience) that's relevant here. I'll summarize-skim, leaving the link for you to peruse in more depth, but here's their big take-away:
 [!The Attention Hacker's Checklist, from eyequant.com](https://www.eyequant.com/hs-fs/hubfs/Checklist-EQ.png?t=1508348609531&width=605&height=528&name=Checklist-EQ.png)
 
 What does that help you see about the sites you studied for today?
@@ -29,41 +29,42 @@ What does that help you see about the sites you studied for today?
 Two more big insights from the homework due today:
 
 * minimalist designs don't always mean minimal markup
-* *inspect*ing a whole page can be daunting
+* *inspect*-ing a whole page can be daunting
 
-Luckily, we have ways fo dealing with that. First, most of the time we don't have to inspect a whole page – just the part of it we want to inspect more closely, whether to imitate or to adjust.
+Luckily, we have ways of dealing with that. First, most of the time we don't have to inspect a whole page – just the part of it we want to inspect more closely, whether to imitate or to adjust.
 
 Yes, adjust. The inspector is especially helpful for testing new CSS rules. I'll just demo this briefly; you can play with it more as you work your way through the tutorials.
 
 For instance: if I wanted to see where all the divs on the site were, I could temporarily put a border on them all:
-```
+```css
 div {
     border: 1px #333 solid;
 }
 ```
 
 I could go further and see how they drill down. This will highlight all divs that are the direct child of another div:
-```
+```css
 div > div  {
   background-color: greenyellow;
 }
 ```
+<!-- FOR NEXT TIME: don't forget to show the color picker! -->
+
 And so on. (And then, when you see something positioned without using a div, you can inspect just that thing, and level up.)
 
 Or I could hide something that's in my way (I do this all the time on websites that don't handle narrow widths well):
-```
+```css
 nav {
     display: none;
 }
 ```
 
 But it's also useful for testing out more permanent tweaks. I want to fix indented bullets on this site, for example, so they don't look the same as the top-level bullets.
-```
+```css
 .entry-content ul li ul li {
     list-style-type: circle;
 }
 ```
-
 
 
 EXT: If time allows, it's worth looking more closely at [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/) – especially [when two rules collide](https://css-tricks.com/specifics-on-css-specificity/). With classes and ids, you can get a lot more specific than html elements! (And you'll usually need to.)
@@ -98,11 +99,11 @@ I want to show you where/how to turn a github repo with html files into an actua
 [!screencast: activating github pages from the settings page](activate-github-pages.gif)
 
 <!--
-* in-class writing: hand-drawn site mockups, inspired by 
+* in-class writing: hand-drawn site mockups, inspired by
 * Self-paced lessons on ["html & css is hard"](https://internetingishard.com/html-and-css/)
 * EXTs / bonus features on
- - using browser inspector; 
- - CSS frameworks (Bootstrap); 
+ - using browser inspector;
+ - CSS frameworks (Bootstrap);
  - Responsive templates (html5up, templated.co)
  - how to publish a working website using github.io
 -->
@@ -126,5 +127,3 @@ I want to show you where/how to turn a github repo with html files into an actua
 
 * That date reflects an update since Tuesday; I've pushed everything back by one lesson, to make sure we have time to get up to speed and gather criteria.
 * If you haven't yet, sign up for a midterm conference with Ben over the next two weeks (absolute latest deadline: 11/9)
-
-
