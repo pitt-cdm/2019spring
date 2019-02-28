@@ -21,6 +21,7 @@ These lists will remain private, unless you choose to share. I won't ask for the
     - Or: if you'd rather the site not focus on _you_, what groups, things, or events might you represent?
 2. Is there anything else you might add to the list? A wider context for one of the projects already there, or a related next step?
 3. Is there anything you're forgetting? Something you were recently talking about, or planning for? Add it to the list.
+    - If you haven't yet included your work for this class, be sure to add it now.
 
 Take a moment now to read back over your lists. **How might you _group_ or _divide_ these items? What clusters do they form?** Mark these in some way.
 
@@ -60,7 +61,7 @@ EXT: If you're good on what a CSS class is, and how to add it to an HTML element
 ## Homework for Next Time
 
 * **View/Read** documentation on using GitHub Pages at [pages.github.com](https://pages.github.com/).
-* **Do** more of the [tutorial]((http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), getting through at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
+* **Do** more of the [tutorial](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), getting through at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
 * **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
 * **Write** a website proposal, posted to the Issue Queue, including:
     - some text about the idea or appeal you're hoping to make;
