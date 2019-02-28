@@ -175,21 +175,26 @@ For next time:
 
 <h3><a href="/{{site.course.base_path}}plans/lesson-16">Lesson 16, Thursday 2/28</a> – Generative Studio</h3>
 <!--
-Developer tools demo
-Self-paced tutorialing
+Generative loop writing
 Offline sketching
+Self-paced tutorialing
 -->
 For next time:
 
 * **View/Read** documentation on using GitHub Pages <!-- https://pages.github.com/ -->
+* **Do** more of the [tutorial]((http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
+* **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
 * **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, and a prospective asset list. Post to the issue queue.
 
 <h3><a href="/{{site.course.base_path}}plans/lesson-17">Lesson 17, Tuesday 3/5</a> – Web Unit Studio / Deployment</h3>
 
-<!-- Make sure everyone has successfully activated GitHub Pages before they leave -->
+<!--
+Demo browser dev tools (see fall2017lesson14)
+Make sure everyone has successfully activated GitHub Pages before they leave -->
 
 For next time:
-* **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
+
+* **Do** more of the [tutorial]((http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
 * **Compose and push** a website preview: a beginning.
 
 <h3><a href="/{{site.course.base_path}}plans/lesson-18">Lesson 18, Thursday 3/7</a> – Web Unit Criteria</h3>
@@ -201,31 +206,43 @@ Offline sketching
 For next time:
 
 * **View/Play** sample Twine games
-* **Compose and push** a full draft of your website project.
+* **Compose and push** a full draft of your website project by the Thursday after break
 
 
 <div class="alert alert-warning">
 Spring break is the week of Tu 3/12 and Th 3/14; our only classes will be CSS classes.
 </div>
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-19">Lesson 19, Tuesday 3/19</a> – Web Unit Workshop</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-19">Lesson 19, Tuesday 3/19</a> – Studio and Collab Unit Planning</h3>
 
 For next time:
 
-* **Write** (or respond to) a pitch toward the collaborative project
+<!-- * **Write** (or respond to) a pitch toward the collaborative project
+-->
+* **Compose and push** a full draft of your website project
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-20">Lesson 20, Thursday 3/21</a> – Studio</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-20">Lesson 20, Thursday 3/21</a> – Web Unit Workshop</h3>
 
 For next time:
 
-* **By 11:59pm on Sunday, Mar 24,** complete – at least for now – your website project.
-* **By Tuesday's class, Mar 26,** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
+* **By 11:59pm on Tuesday, Mar 26,** complete – at least for now – your website project.
+* **By Thursday's class, Mar 28,** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-21">Lesson 21, Tuesday 3/26</a> – Studio</h3>
+
+For next time:
+
+* **By 11:59pm,** complete – at least for now – your website project.
+* **By Thursday's class, Mar 28,** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
 
 
 <h2 id="unit-5">Unit V: Collaborative Composing</h2>
 *The deadlines and assignments here will vary from group to group, according to a team contract and more formal project proposal... unless we all agree to just make interactive stories in [Twine](https://twinery.org), in which case I'll follow a similar deadline pattern to the previous three units.*
 
 *One option here, I should note, is to make a single game, aiming for high production values by dividing into a story team, a visual team, a coding team, a project management team, and so on. But we could also do smaller games to allow for more divergence.*
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-22">Lesson 22, Thursday 3/28</a> – Grouping Up and Setting Out</h3>
+
 
 
 <h2 id="unit-6">Unit VI: Reflection and Revision</h2>
