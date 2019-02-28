@@ -194,7 +194,7 @@ Make sure everyone has successfully activated GitHub Pages before they leave -->
 
 For next time:
 
-* **Do** more of the [tutorial]((http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
+* **Do** more of the [tutorial](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
 * **Compose and push** a website preview: a beginning.
 
 <h3><a href="/{{site.course.base_path}}plans/lesson-18">Lesson 18, Thursday 3/7</a> – Web Unit Criteria</h3>
