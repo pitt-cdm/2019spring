@@ -111,6 +111,7 @@ Table of contents:
 
 <dt><a href="https://jekyllrb.com/docs/step-by-step/01-setup/">Jekyll step-by-step</a></dt>
 <dt><a href="http://jmcglone.com/guides/github-pages/">Jekyll on GitHub from scratch</a></dt>
+<dt><a href="https://jekyllrb.com/docs/">Jekyll Quickstart</a> (aka your quickest reference after setup)</dt>
 <dd>
 <p><a href="https://jekyllrb.com">Jekyll</a> is actually a program in the Ruby language, but it functions as a tool for incorporating templates and variables into your web pages – so you can, for example, write the navigation once, and automatically have it pulled into every other html page you write. Especially useful for sites where you'll keep adding new pages, like blogs. (Or lesson plans! To see the code I use for this website, see the corresponding GitHub repo; there's a link in the footer.)</p>
 
