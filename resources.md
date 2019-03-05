@@ -105,7 +105,16 @@ Table of contents:
 <dt>and <a href="http://cssdb.co/">other CSS libraries</a></dt>
 <dd>
 <p>Once you're clear on what a CSS class is, and how to add it to an HTML element, you can pretty much work from scratch designing your own CSS rules and building from there. But sometimes it helps to have a leg up, and that's where libraries come in: with a single line in the <code>&lt;head&gt;</code> element of your web page, you can import a whole slew of pre-made CSS rules (and even some related JavaScript actions), so that you can just start adding them to your html. It's a little like Lego for web design, only free.</p>
+
 <p>Bootstrap is one of the most popular CSS libraries right now – I guarantee you've seen more than one website that uses it – and it's got enviably clear documentation for specific classes. One of the key advantages is that Bootstrap divs can split the page into a convenient grid for you, and they can automatically resize responsively for different screens. The latest version, Bootstrap 4, is is now much better at aligning and centering things along vertical axes, as well as horizontal, but the tradeoff is that it's still in development, which means things may change mid-project. You can still use the more stable <a href="https://getbootstrap.com/docs/3.3/">Bootstrap 3</a> if you prefer.</p>
+</dd>
+
+<dt><a href="https://jekyllrb.com/docs/step-by-step/01-setup/">Jekyll step-by-step</a></dt>
+<dt><a href="http://jmcglone.com/guides/github-pages/">Jekyll on GitHub from scratch</a></dt>
+<dd>
+<p><a href="https://jekyllrb.com">Jekyll</a> is actually a program in the Ruby language, but it functions as a tool for incorporating templates and variables into your web pages – so you can, for example, write the navigation once, and automatically have it pulled into every other html page you write. Especially useful for sites where you'll keep adding new pages, like blogs. (Or lesson plans! To see the code I use for this website, see the corresponding GitHub repo; there's a link in the footer.)</p>
+
+<p>Most importantly, it's also pre-installed on GitHub Pages, so you can easily deploy it for your web project. The first link above will take you to a step-by-step set-up for getting Jekyll running locally; if you do this in your website--username repository, you'll be good to add/commit/push and have your Jekyll-enabled code work online!</p>
 </dd>
 </dl>
 
@@ -113,7 +122,7 @@ Table of contents:
 *This section will expand as we move forward; feel free to suggest others that you come across!* (You can <a href="https://github.com/pitt-cdm/miller2019spring/blob/gh-pages/resources.md">edit this page</a> and file pull request, or just email me.)
 
 ### Audio
-Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the sections on <a href="#file-compression">file compression</a> and the link to <a href="#other-resource-roundups">Courtney Danforth's soundwriting advice</a>, below.
+Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the sections on <a href="#file-compression">file compression</a> and the link to <a href="#other-resource-roundups">Courtney Danforth's soundwriting advice</a>, below.
 
 <dl>
 <dt><a href="http://manual.audacityteam.org/index.html#using">Audacity Wiki</a></dt>
@@ -148,7 +157,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 </dl>
 
 ### Visual
-Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find FontSquirrel and The Noun Project especially pertinent here.
+Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find FontSquirrel and The Noun Project especially pertinent here.
 <dl>
 <dt>GIMP Tutorials</dt>
 <dd>As with Audacity, the community making the tool knows it best, and so you can find quite a few intro-level tutorials on the GIMP site itself, at <a href="https://www.gimp.org/tutorials">www.gimp.org/tutorials</a>. These include "GIMP Quickies" and a tutorial on layer manipulation called "Simple Floating Logo." "Layer Masks" may also be useful, e.g. if you want to make an image fit into a specified shape or shadow.</dd>
@@ -164,7 +173,7 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 </dl>
 
 ### Web Design
-Under the <a href="#free-and-licensed-images-music-and-other-assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons).
+In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons)... in addition, of course, to the web frameworks themselves.
 
 <dl>
 <dt><a href="https://internetingishard.com/html-and-css/">internetingishard.com/html-and-css</a></dt>
@@ -181,6 +190,9 @@ Under the <a href="#free-and-licensed-images-music-and-other-assets">assets list
 <dt><a href="http://htmlreference.io/">htmlreference.io</a></dt>
 <dt><a href="http://cssreference.io/">cssreference.io</a></dt>
 <dd>There are a *lot* of html elements and CSS attributes that you'll find in your travels through the web. As with book literacy, you'll pick up the vocabulary mostly by encountering them in the world, on websites, not by starting with a dictionary. But when you do find them, you'll want a good dictionary where you can look them up and learn more about how they're supposed to work. These are pretty well organized, and (unlike some of the "official" documentation) give usually you visual examples of what the elements and rules mean and do. And when you do want that official documentation, you can find it by clicking on the "MDN" link at the top right of any definition page.</dd>
+
+<dt><a href="https://loremipsum.io">loremipsum.io</a></dt>
+<dd><em>Lorem ipsum</em> is the shorthand name for the most commonly used placeholder text around. (There are also a lot of variants.) Essentially, you can use this text to fill in for the kind of writing that will change frequently: article or blog post text, for example. By quickly letting you fill out several paragraphs, you can start to see what your design is really doing on the page. This particular site, in addition to offering lorem ipsum generators and links to several others, gives a nice overview of the history and debates around this kind of placeholder.</dd>
 
 <dt><a href="https://www.foregroundweb.com/optimize-images/">Optimizing Images for Website Performance</a></dt>
 <dd><p>You can find some beautiful free images out there, at very high resolution – and your own digital camera (even the one on your phone) probably defaults to a ridiculously high number of pixels, too. All those pixels come at a cost. If you find that your site is loading slowly, and especially if you see the images appear with some lag behind the text, you may want to scale down.</p>
