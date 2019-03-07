@@ -123,3 +123,7 @@ dd {
 .alert-white {
     border: 1px solid deepskyblue;
 }
+
+ol.spaced li {
+	  margin-bottom: 1em;
+}
