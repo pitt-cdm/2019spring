@@ -118,3 +118,8 @@ dd {
     justify-content: center;
     flex-wrap:wrap
 }
+
+/* Make new alert class with a transparent middle but a colored border; useful for sidebar topics within main content */
+.alert-white {
+    border: 1px solid deepskyblue;
+}
