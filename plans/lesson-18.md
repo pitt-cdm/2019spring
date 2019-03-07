@@ -28,6 +28,7 @@ Take another few minutes to think in writing about your project in light of thes
 ## 3. Gathering criteria (45 min)
 Primed now by that writing and thinking, I'm going to ask you to get in groups and brainstorm in pursuit of baseline and aspirational criteria for this unit. Just like last time.
 
+<figure>
 <img src="/{{site.course.base_path}}assets/img/2019-seating-groups.png" alt="Aba, Jared, Anthony, and Aliyah / Russell, Jesse, Laura, and Tessa / Jenny C, Jenny H, Margaret, and Tyler R / Tyller B, Christy, and Ryan / Beth, Nicole, Lauren, and Emma">
 </figure>
 
@@ -47,3 +48,9 @@ Quickly read through the other groups' notes, adding comments in the margins to 
 We'll refine as a group, and repeat, and then come back and revise after spring break and a full workshop.
 
 ### EXT: Studio and microconferences
+
+## HW for next time:
+
+* Work on your website when you can!
+* Enjoy your break if you're able to!
+* In pursuit of a fun way to stay involved with the class, I have some Twine links to send around; that way, when we get back from break we can have a good conversation about what forms that might take.
