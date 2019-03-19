@@ -20,7 +20,7 @@ We've been broken up; time to get reacquainted.
 Take a few minutes to gather your thoughts on paper: <ul>
 <li>What were you doing with your website, again?</li><li>Where are you in that process?</li>
 <li>Given the timeline (workshop on Thursday, final due one week from midnight tonight) <strong>what realistic goals are you setting for yourself</strong> – by the final? by Thursday? by the end of today's class?</li>
-<li>What questions do you have?</li>
+<li>What questions do you have?</li></ul>
 </div>
 
 I will ask you to share, but briefly, out loud. The notes themselves are for you. (You can save them for your reflection if you wish.)
