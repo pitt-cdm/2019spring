@@ -35,11 +35,12 @@ Let's go around the room sharing one goal for today's class, or one question. If
 
 Some general notes:
 
-* I highly recommend naming your homepage index.html.
-* Need to resize images? Why not use GIMP? See also the section of the resources page on "optimizing images."
-* Images not appearing how you want them to? Mess around in your browser's Inspector / DevTools to see immediate changes. When it looks right, copy that code into the source files (html or css, as appropriate).
+1. I highly recommend naming your homepage file `index.html`. You can always change the `<title>`.
+2. Need to resize images? Why not use GIMP? See also the section of the resources page on "optimizing images."
+3. Images not appearing how you want them to? Mess around in your browser's Inspector / DevTools to see immediate changes. When it looks right, copy that code into the source files (html or css, as appropriate).
+4. Remember that links (including img `src`'s) are all about file structure. If something's not showing up, make sure it's aimed at the right target.
 
-Please use the time to your advantage. Please also remember that there are [resources](/{{site.course.base_path}}resources) available.
+Please use the time to your advantage. Please also remember that there are additional [resources](/{{site.course.base_path}}resources) available.
 
 
 ## Homework for Next Time
