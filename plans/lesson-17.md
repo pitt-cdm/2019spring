@@ -10,7 +10,7 @@
 
 1. Key steps (and a few options) in deploying via GitHub Pages (10 min)
 2. In-browser testing: developer tools (10 min)
-3. 3. General notes re: proposals (5 min)
+3. General notes re: proposals (5 min)
 4. Studio (40-45 min)
 5. HW Preview
 

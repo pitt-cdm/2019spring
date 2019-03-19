@@ -1,6 +1,6 @@
 # Website Criteria and Stretch Goals
 
-**Work to have done**: Website Preview
+**Work to have done**: Website Preview, Tutorial 1-6 + flexbox / responsive design
 
 **Plan for the day**:
 
@@ -9,12 +9,12 @@
 3. Gathering criteria (45 min)
 4. EXT: Studio and microconferences
 
-## 1. Reflective writing (5 min)
+## 1. Reflective writing (5 min) <!-- writing starts 9:34 -->
 <div class="alert alert-success">
 In your own space – you won't have to share this unless you want to – do a little writing about your website-in-progress. What's exciting about it? What's challenging about it? What are you unsure of?
 </div>
 
-## 2. Refresher on unit goals (7 min)
+## 2. Refresher on unit goals (7 min) <!-- talk starts 9:39; writing starts 9:42 -->
 Pause in your writing to look again at the top-line goals for this unit, as framed by the [assignment prompt](https://github.com/pitt-cdm/website-prompt#project-3-website-portfolio):
 
 <div class="alert alert-white">
@@ -32,7 +32,7 @@ Primed now by that writing and thinking, I'm going to ask you to get in groups a
 <img src="/{{site.course.base_path}}assets/img/2019-seating-groups.png" alt="Aba, Jared, Anthony, and Aliyah / Russell, Jesse, Laura, and Tessa / Jenny C, Jenny H, Margaret, and Tyler R / Tyller B, Christy, and Ryan / Beth, Nicole, Lauren, and Emma">
 </figure>
 
-### 3b. Crowdsource ideas (10 min)
+### 3b. Crowdsource ideas (10 min) <!-- starts 9:48 -->
 To bring all our notes together while allowing for real-time collaboration, **use this google doc: [bit.ly/miller2019spring](http://bit.ly/miller2019spring#heading=h.5phhnhe6mju7).**
 
 <div class="alert alert-success">
