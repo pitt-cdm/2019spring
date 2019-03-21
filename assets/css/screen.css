@@ -40,6 +40,10 @@ body.thin_header {
 	padding-top: 69px;
 }
 
+body.bottom_header {
+	padding-bottom: 69px;
+}
+
 div#navbar-collapse-1 {
 	margin-top: 9px;
 }
@@ -124,6 +128,6 @@ dd {
     border: 1px solid deepskyblue;
 }
 
-ol.spaced li {
+ul.spaced li, ol.spaced li {
 	  margin-bottom: 1em;
 }
