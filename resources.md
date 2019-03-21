@@ -202,6 +202,9 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 
 <dt><a href="https://www.fontsquirrel.com/tools/webfont-generator">WebFont Generator, by FontSquirrel</a></dt>
 <dd>When you find a good font, before you can use it on the web it has to be formatted for browsers to render properly. Some fonts on your favorite font sites will already have webfont versions. If they don't, you can convert them to web-ready fonts using this tool. Just make sure you have permission to do so, okay?</dd>
+
+<dt><a href="https://chrispederick.com/work/web-developer/">Web Developer Plugins</a></dt>
+<dd>This is a browser plugin, available for Chrome, Firefox, and Opera, that allows you to test your web pages by manipulating them in various ways – by temporarily turning off JavaScript, for example, or replacing all images with their alt text. (I've found the latter tool particularly useful.) It also includes html and css validators, to help you find typos that are throwing off your code.</dd>
 </dl>
 
 ## File Compression
