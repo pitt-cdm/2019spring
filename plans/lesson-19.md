@@ -25,6 +25,7 @@ Take a few minutes to gather your thoughts on paper: <ul>
 
 I will ask you to share, but briefly, out loud. The notes themselves are for you. (You can save them for your reflection if you wish.)
 
+EXT: If you're waiting for your classmates, make yourself a more detailed task list. Check it off as you make progress! 
 
 ## 2. Status updates (10-15 min)
 
