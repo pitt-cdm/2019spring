@@ -60,7 +60,7 @@ And, as always,
 
 Let's do this!
 <div class="alert alert-success">
-Before you leave your seat, (1) load up your website (ideally in Chrome or Firefox), (2) also load up your project folder in Atom (or equivalent), so we can see the code producing that website, and (3) <strong>label three</strong> index cards <em>For: {yourname}</em>.
+Before you leave your seat, (1) load up your <strong>website</strong> (ideally in Chrome or Firefox), (2) also load up your <strong>project folder</strong> in Atom (or equivalent), so we can see the code producing that website, and (3) label three <strong>index cards</strong> <em>For: {yourname}</em>.
 </div>
 Then...
 <div class="alert alert-success">
