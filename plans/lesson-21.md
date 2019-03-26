@@ -1,3 +1,7 @@
+---
+layout: bottomnav
+---
+
 # Web Unit Studio / Thinking About Collaboration
 
 **Work to have done**:
