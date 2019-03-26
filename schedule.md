@@ -248,6 +248,8 @@ For next time:
 <h2 id="unit-6">Unit VI: Reflection and Revision</h2>
 *Before the semester ends, we'll have time set aside for in-class revisions and reviews, and for drafting a reflective introduction to your final portfolio.*
 
+<!-- MAKE SURE TO ASSIGN THEM TO READ BACK THROUGH THEIR GIT HISTORIES, AND MAYBE EVEN DIFFS. Reflect not only on what you changed, but **why**: what were your goals as you revised each project? What goals stayed the same across the projects? CONNECT THIS BACK TO THE COURSE OUTCOMES IN THE SYLLABUS -->
+
 <h3><a href="lesson-26">Lesson 26, Thursday, 4/18</a> – Final project presentations; last day of class!</h3>
 <!--
  OMETs (teacher evaluations)
