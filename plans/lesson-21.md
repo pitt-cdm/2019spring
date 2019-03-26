@@ -17,12 +17,15 @@ layout: bottomnav
 
 ## 1. Overall points of insight and guidance
 
-1. I can't advise if I can't find your files. Everyone, please update your README at the website--%%yourname%% repository on GitHub with a clear link to the actual files you're submitting. (This may be on Box, or you can say, "website files are in the docs folder," etc.)
-2. For text against a background, just like in GIMP, you want contrast. Text-shadow can be your friend. Play around in the Dev Tools for your browser (Chrome and Firefox work best for this) until you're satisfied, then copy the browser's CSS into your own.
-3. If you're going for a grid and your grid-items are overflowing their boxes, try `overflow: hidden`. You may need to crop the image if the key bits of it aren't fitting. GIMP to the rescue!
-4. For baseline, it's good just to get everything to load. To get above baseline, one thing I'll be looking for is that you're taking advantage of CSS as a medium.
-   - For example, CSS classes are designed to be reusable and stackable (cascading): you shouldn't need to repeat the exact same rules for more than one class. Instead, write that set of rules once, give it a name that can apply in more than one place, and use that shared name.<!--   - For another example, you shouldn't generally have to declare rules at the level of individual elements; you should look for ways to keep the style in the stylesheet, leaving the html content flexible as far as how it'll display. -->
-5. If there's something you were trying to do (or trying to fix), but you can't figure out how to make it happen, _write about it in your reflection_. It's awesome when you get to make something awesome, but I'm mostly after your learning – and your ability to keep learning after this class ends. Let me know what you were after, and how you tried to get there, even if it didn't work by the deadline.
+<ul class="spaced">
+<li>I can't advise if I can't find your files. Everyone, please update your README at the <em>website--%%yourname%%</em> repository on GitHub with a clear link to the actual files you're submitting. (This may be on Box, or you can say, "website files are in the docs folder," etc.)</li>
+<li>For text against a background, just like in GIMP, you want contrast. <code>text-shadow</code> can be your friend. Play around in the Dev Tools for your browser (Chrome and Firefox work best for this) until you're satisfied, then copy the browser's CSS into your own.</li>
+<li>If you're going for a grid and your grid-items are overflowing their boxes, try <code>overflow: hidden</code>. You may need to crop the image if the key bits of it aren't fitting. GIMP to the rescue!</li>
+<li>For baseline, it's good just to get everything to load. To get above baseline, one thing I'll be looking for is that you're taking advantage of CSS as a medium.<ul>
+   <li>For example, CSS classes are designed to be reusable and stackable (cascading): you shouldn't need to repeat the exact same rules for more than one class. Instead, write that set of rules once, give it a name that can apply in more than one place, and use that shared name.<!--   - For another example, you shouldn't generally have to declare rules at the level of individual elements; you should look for ways to keep the style in the stylesheet, leaving the html content flexible as far as how it'll display. --></li></ul></li>
+<li>If there's something you were trying to do (or trying to fix), but you can't figure out how to make it happen, <em>write about it in your reflection</em>. It's awesome when you get to make something awesome, but I'm mostly after your learning – and your ability to keep learning after this class ends. Let me know what you were after, and how you tried to get there, even if it didn't work by the deadline.</li>
+<li>Tyler had a suggestion in workshop that I want to share with everyone: "add comments to your code: aspirational goal that won't make you hate your life." In CSS, use <code>/\*</code> and <code>\*/</code>, and in html use <code><\!--</code> and <code>--></code> to frame your comments.</li>
+</ul>
 
 ## 2. Goal-setting
 
