@@ -39,7 +39,7 @@ Choose-your-own-adventure fiction is one way to think about it. But it's not alw
 Let's look at some examples!
 
 1. [The Tiniest Room](https://erik108.itch.io/the-tiniest-room)
-2. [https://cmg.itch.io/the-griffin-and-the-minor-canon](The Griffin and the Minor Canon)
+2. [The Griffin and the Minor Canon](https://cmg.itch.io/the-griffin-and-the-minor-canon)
 3. [Queers in Love at the End of the World](https://w.itch.io/end-of-the-world)
 4. [the uncle who works for nintendo](https://ztul.itch.io/the-uncle-who-works-for-nintendo) – this is a horror game; see trigger warning link on home screen.
 5. [Conquering Cathy: A trial of fortitude & vitality at the University of Pittsburgh](http://philome.la/mtyrhetoric/conquering-cathy/play)
