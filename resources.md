@@ -205,6 +205,9 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 
 <dt><a href="https://chrispederick.com/work/web-developer/">Web Developer Plugins</a></dt>
 <dd>This is a browser plugin, available for Chrome, Firefox, and Opera, that allows you to test your web pages by manipulating them in various ways – by temporarily turning off JavaScript, for example, or replacing all images with their alt text. (I've found the latter tool particularly useful.) It also includes html and css validators, to help you find typos that are throwing off your code.</dd>
+
+<dt><a href="https://caniuse.com">caniuse.com</a></dt>
+<dd>CSS is a live language, and the ongoing development of new CSS capabilities means that some browsers are slower to adopt the most current standards than others. To confirm that a particular rule will work across browsers, you can check here: just enter the CSS attribute you wish to set in the big "Can I use ______?" search box at the top of the page.</dd>
 </dl>
 
 ## File Compression
@@ -214,6 +217,25 @@ If you're having trouble uploading large files to GitHub or through email, you c
 * For any file/folder on **Windows:** <a href="http://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/">www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/</a>
 * For any file/folder on **Mac:** <a href="https://mac.eltima.com/best-archiver-mac.html">mac.eltima.com/best-archiver-mac.html</a>
 * **For JPEG files**, specifically: <a href="http://www.jpegmini.com/app">www.jpegmini.com/app</a>
+
+## Twine / Interactive Narrative
+
+<dl>
+<dt><a href="http://twinery.org/wiki/twine2:guide">Twine wiki</a></dt>
+<dd>The starting point on your Quest to Learn Twine. Lots of useful info here, including descriptions of the various "story modes" (alternate syntaxes) and their relative advantages. Pay attention to the syntax being used in any particular code snippet!</dd>
+
+<dt><a href="https://twine2.neocities.org/">Harlowe Documentation</a></dt>
+<dd>This is the official documentation of the default editing mode for Twine 2.1. Head here if you're looking for ideas about what Twine is capable of under the hood.</dd>
+
+<dt><a href="https://historicalsimulations.files.wordpress.com/2016/11/mccall-intro-to-twine.pdf">Intro to Twine 2.0</a></dt>
+<dd>This is a basic walkthrough of how to set and call variables in Harlowe – and why it's to your advantage as a storyteller.</dd>
+
+<dt><a href="http://www.adamhammond.com/twineguide/">A slightly more advanced intro to Twine 2.1</a></dt>
+<dd>This has some great advice on how to organize your files so you can reliably include images and music, without needing to summon them from across the web (where someone else might take them down). But <em>be warned</em>: a lot of the example scripts here use SugarCube, an alternative syntax to the default Harlowe. Use the tutorial to get a sense of what's possible, but then look up the equivalent syntax in the Harlowe documentation wiki, above.</dd>
+</dl>
+
+
+
 
 
 ## Other Resource Roundups
