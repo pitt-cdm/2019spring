@@ -239,18 +239,45 @@ For next time:
 <h2 id="unit-5">Unit V: Collaborative Composing</h2>
 *The deadlines and assignments here will vary from group to group, according to a team contract and more formal project proposal... unless we all agree to just make interactive stories in [Twine](https://twinery.org), in which case I'll follow a similar deadline pattern to the previous three units.*
 
-*One option here, I should note, is to make a single game, aiming for high production values by dividing into a story team, a visual team, a coding team, a project management team, and so on. But we could also do smaller games to allow for more divergence.*
+<h3><a href="/{{site.course.base_path}}plans/lesson-22">Lesson 22, Thursday 3/28</a> – Intro to Collaborative Unit (Integrative Interactive Narratives)</h3>
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-22">Lesson 22, Thursday 3/28</a> – Grouping Up and Setting Out</h3>
+For next time:
+* Skim through [the Twine 2 wiki](http://twinery.org/wiki/twine2:guide)
+* Project pitch due **by 11:59pm on Sunday**; come in on Tuesday having read the pitches and chosen your top 3 to work on.
 
+<h3><a href="/{{site.course.base_path}}plans/lesson-23">Lesson 23, Tuesday 4/2</a> – Grouping Up and Setting Out</h3>
 
+For next time:
+* Make shared repository, task list. Twine tutorials and reverse engineering.
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-24">Lesson 24, Thursday 4/4</a> – Collaborative Unit Studio</h3>
+
+For next time:
+* Push a collaborative project preview
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-25">Lesson 25, Tuesday 4/9</a> – Collaborative Unit Criteria</h3>
+
+For next time:
+* Full-as-possible draft of collaborative project, for workshop
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-26">Lesson 26, Thursday 4/11</a> – Collaborative Unit Workshop (Playtesting)</h3>
+
+For next time:
+* Work together to revise and extend
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-26">Lesson 26, Tuesday 4/16</a> – Studio; Intro to Final Portfolio</h3>
+
+For next time:
+* Finish collaborative project (at least for now)
 
 <h2 id="unit-6">Unit VI: Reflection and Revision</h2>
 *Before the semester ends, we'll have time set aside for in-class revisions and reviews, and for drafting a reflective introduction to your final portfolio.*
 
+
+<h3><a href="lesson-28">Lesson 28, Thursday, 4/18</a> – Last day of class! Project histories; final project presentations; OMETs</h3>
+
 <!-- MAKE SURE TO ASSIGN THEM TO READ BACK THROUGH THEIR GIT HISTORIES, AND MAYBE EVEN DIFFS. Reflect not only on what you changed, but **why**: what were your goals as you revised each project? What goals stayed the same across the projects? CONNECT THIS BACK TO THE COURSE OUTCOMES IN THE SYLLABUS -->
 
-<h3><a href="lesson-26">Lesson 26, Thursday, 4/18</a> – Final project presentations; last day of class!</h3>
 <!--
  OMETs (teacher evaluations)
 -->
@@ -259,5 +286,5 @@ For next time:
 
 &nbsp;
 <div class="alert alert-success">
-*Final portfolios will be due by the end of the final exam slot, which we now know is Friday, April 26th, at 9:50am.*
+<em>Final portfolios will be due by the end of the final exam slot, which we now know is Friday, April 26th, at 9:50am.</em>
 </div>
