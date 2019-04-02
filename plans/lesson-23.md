@@ -41,7 +41,7 @@ Now that we have groups, go sit with your group members!
 I've set up some base files again, which you can access at the link below. Before you go there, **choose one person from your group to _create_ the team**; once they've done that, the others will **_join_** the team.
 
 <div class="text-center">
-https://classroom.github.com/g/6F7HZC0t
+<a href="https://classroom.github.com/g/6F7HZC0t">https://classroom.github.com/g/6F7HZC0t</a>
 </div>
 
 Let's see what's in the repo:
