@@ -39,7 +39,8 @@ And if you didn't get any Twine passages linked up and pushed to GitHub during T
 
 Turn in a collaborative project preview to your repository. As it says in the README for the project, this is just an early snapshot of your progress, to get the gears turning.
 
-Push the following to your repository (GitHub or Box, just make sue I can find it): <ul>
+Push the following to your repository (GitHub or Box, just make sure I can find it):
+<ul>
   <li>An html file exported from Twine using the <strong>Publish to File</strong> tool;</li>
   <li>A static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a> (.png or .jpg)</strong> of your narrative in progress, showing the story map of passages and links between them.</li>
   <li>Any other files we'd need to successfully import and view your Twine – images, css to import (e.g. bootstrap), etc – should be pushed to the repo as well.</li>
