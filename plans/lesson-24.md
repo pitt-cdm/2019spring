@@ -40,9 +40,14 @@ And if you didn't get any Twine passages linked up and pushed to GitHub during T
 Turn in a collaborative project preview to your repository. As it says in the README for the project, this is just an early snapshot of your progress, to get the gears turning.
 
 Push the following to your repository (GitHub or Box, just make sue I can find it): <ul>
-<li>An html file exported from Twine using the <strong>Publish to File</strong> tool;</li>
-<li>A static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a> (.png or .jpg)</strong> of your narrative in progress, showing the story map of passages and links between them.</li>
-<li>Any other files we'd need to successfully import and view your Twine – images, css to import (e.g. bootstrap), etc – should be pushed to the repo as well.</li>
-<li>An <strong>updated README.md, explaining</strong> in at least 300 words <strong>what you're showing us</strong> in this preview. Feel free also to ask questions or lay out next steps for yourselves! <ul><li>How you compose this is up to you: will you assign one member of the team to draft a summary of progress, or will you join a google doc or slack, or...?</li><li>You can rename the old README to PROMPT.md; do include the <code>.md</code>, please</ul></li>
-<li>If necessary, **credits** for any assets used should be added to a clearly labeled passage in your Twine, and linked to from the title page.</li>
+  <li>An html file exported from Twine using the <strong>Publish to File</strong> tool;</li>
+  <li>A static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a> (.png or .jpg)</strong> of your narrative in progress, showing the story map of passages and links between them.</li>
+  <li>Any other files we'd need to successfully import and view your Twine – images, css to import (e.g. bootstrap), etc – should be pushed to the repo as well.</li>
+  <li>An <strong>updated README.md, explaining</strong> in at least 300 words <strong>what you're showing us</strong> in this preview. Feel free also to ask questions or lay out next steps for yourselves!
+    <ul>
+    <li>How you compose this is up to you: will you assign one member of the team to draft a summary of progress, or will you join a google doc or slack, or...?</li>
+    <li>You can rename the old README to PROMPT.md; do include the <code>.md</code>, please</li>
+    </ul>
+  </li>
+  <li>If necessary, **credits** for any assets used should be added to a clearly labeled passage in your Twine, and linked to from the title page.</li>
 </ul>
