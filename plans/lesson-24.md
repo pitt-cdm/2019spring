@@ -49,5 +49,5 @@ Push the following to your repository (GitHub or Box, just make sue I can find i
     <li>You can rename the old README to PROMPT.md; do include the <code>.md</code>, please</li>
     </ul>
   </li>
-  <li>If necessary, **credits** for any assets used should be added to a clearly labeled passage in your Twine, and linked to from the title page.</li>
+  <li>If necessary, <strong>credits</strong> for any assets used should be added to a clearly labeled passage in your Twine, and linked to from the title page.</li>
 </ul>
