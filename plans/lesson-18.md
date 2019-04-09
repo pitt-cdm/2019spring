@@ -36,7 +36,7 @@ Primed now by that writing and thinking, I'm going to ask you to get in groups a
 To bring all our notes together while allowing for real-time collaboration, **use this google doc: [bit.ly/miller2019spring](http://bit.ly/miller2019spring#heading=h.5phhnhe6mju7).**
 
 <div class="alert alert-success">
-Take 10 minutes in groups to make some lists: given the <a href="https://github.com/pitt-cdm/soundscape-prompt">goals of the unit</a>, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not just in terms of quantity, but in terms of quality?
+Take 10 minutes in groups to make some lists: given the goals of the unit, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not just in terms of quantity, but in terms of quality?
 
 <strong>I really want you to see these aspirational goals as opportunities to stretch yourselves and your skills, not just to do more of the same.</strong> Think about what would be new and potentially exciting, but not required for everyone.
 </div>
