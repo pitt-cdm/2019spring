@@ -265,7 +265,7 @@ For next time:
 For next time:
 * Work together to revise and extend
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-26">Lesson 26, Tuesday 4/16</a> – Studio; Intro to Final Portfolio</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-27">Lesson 27, Tuesday 4/16</a> – Studio; Intro to Final Portfolio</h3>
 
 For next time:
 * Finish collaborative project (at least for now)
