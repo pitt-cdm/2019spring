@@ -21,26 +21,28 @@ For the purposes of this particular project, I think it will be useful to say ba
 
 ## 2. Evaluation reminder: our shared criteria (5 min)
 <!-- I'm only including here things that would be visible in a workshop -->
+
 <div class="flex-container">
   <div>
-  <header>Baseline Criteria:</header>
-  <ul><li>Contain at least 20 passages.</li>
-      <li>Have a title screen passage containing at least the story's title, the names of your team members, and a link to a credits page if appropriate.</li>
-      <li>Have at least one clearly identifiable ending passage.</li>
-      <li>Include at least two passages with diverging paths leading out</li>
-      <li>Include at least one passage with converging paths leading in</li>
-      <li>As always, use only source material you have fair rights to use (and cite where appropriate).</li>
+    <header>Baseline Criteria:</header>
+    <ul><li>Contain at least 20 passages.</li>
+        <li>Have a title screen passage containing at least the story's title, the names of your team members, and a link to a credits page if appropriate.</li>
+        <li>Have at least one clearly identifiable ending passage.</li>
+        <li>Include at least two passages with diverging paths leading out</li>
+        <li>Include at least one passage with converging paths leading in</li>
+        <li>As always, use only source material you have fair rights to use (and cite where appropriate).</li>
     </ul>
-  </div>
+  </div> <!-- end of baseline -->
   <div>
-  <header>Aspirational Inspirations:</header>
-  <ul><li>Use visuals to direct attention or advance a claim</li>
-      <li>Use sound to convey a sense of place or mood - either by including continuous sound or incidental sound</li>
-      <li>Use Twine code or CSS to make at least two new "looks" for selected passages</li>
-      <li>Use Twine code to store variables and/or introduce conditional logic (if/then behaviors)</li>
-      <li>Have multiple endings (all clearly identifiable)</li>
-  </ul>
-</div>
+    <header>Aspirational Inspirations:</header>
+    <ul><li>Use visuals to direct attention or advance a claim</li>
+        <li>Use sound to convey a sense of place or mood - either by including continuous sound or incidental sound</li>
+        <li>Use Twine code or CSS to make at least two new "looks" for selected passages</li>
+        <li>Use Twine code to store variables and/or introduce conditional logic (if/then behaviors)</li>
+        <li>Have multiple endings (all clearly identifiable)</li>
+    </ul>
+  </div> <!-- end of aspirational -->
+</div> <!-- end of flex-container -->
 
 ## 3. Peer Review Workshop (3 times 10-12 min)
 Let's do this!
