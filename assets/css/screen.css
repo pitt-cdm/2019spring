@@ -128,6 +128,16 @@ dd {
     border: 1px solid deepskyblue;
 }
 
+/* Some lists should be more widely spaced */
 ul.spaced li, ol.spaced li {
 	  margin-bottom: 1em;
+}
+
+/* Create side-by-side columns */
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	/* flex-wrap: nowrap; */
+	justify-content: space-between;
+	align-items: flex-start;
 }
