@@ -28,4 +28,20 @@ After that gifting, we're going to spend some time playing through each other's 
 
 ## 3. Studio!
 
-Do whatever you need to do to get yourselves to a **finished, playable product by midnight tonight.** Note that this may mean finally sacrificing some stretch goal you'd previously set for yourselves, so as not to overpromise and underdeliver in the game itself.
+Do whatever you need to do to get yourselves to a **finished, playable product by midnight tonight.**
+
+Note that this may mean finally sacrificing some stretch goal you'd previously set for yourselves, so as not to overpromise and underdeliver in the game itself. You can always comment out what you can't include, so those paths are recoverable if you want to come back to them later.
+
+And please don't forget to update your title passage and credit passage!
+
+
+# Homework for next time
+
+* Turn in the same components as for previous Twine deadlines, but updated:
+  - an html file exported from Twine using **Publish to File**
+  - a screenshot of the story map
+  - any other files we'd need to import and view your Twine: images, css to import, etc
+  - an updated title slide and/or README.md introducing the game
+  - any necessary credits (as part of the Twine, linked from your title passage)
+
+* Push all this to your repository (whether GitHub or Box)
