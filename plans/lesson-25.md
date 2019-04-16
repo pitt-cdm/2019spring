@@ -13,7 +13,7 @@ layout: bottomnav
 3. Gathering criteria (45 min)
 4. EXT: Studio and microconferences
 
-## 1. Reflective writing (5 min)
+## 1. Reflective writing (5 min) <!-- writing starts 9:35 -->
 <div class="alert alert-success">
 In your own space – you won't have to share this unless you want to – do a little solo writing about your Twine-in-progress. What's exciting about it? What's challenging about it? What are you unsure of?
 </div>

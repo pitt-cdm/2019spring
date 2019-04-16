@@ -58,6 +58,9 @@ Start in the browser, then use the Twine storyboard to help you with steps 2 and
 
 I'll keep track of time.
 
+<!-- first rotation starts 9:50, so end 10:03 -->
+<!-- second rotation starts 10:04, so end 10:18 -->
+<!-- if third rotation 10:20, end 10:33 -->
 
 ## 4. Evaluation revisited (10 min)
 Head back to your seats and take a minute to read **and photograph** the notes you've received. (Make sure your photos are legible; I'll be collecting the cards at the end of class.)
