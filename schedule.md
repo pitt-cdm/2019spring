@@ -274,7 +274,7 @@ For next time:
 *Before the semester ends, we'll have time set aside for in-class revisions and reviews, and for drafting a reflective introduction to your final portfolio.*
 
 
-<h3><a href="lesson-28">Lesson 28, Thursday, 4/18</a> – Last day of class! Project histories; final project presentations; OMETs</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-28">Lesson 28, Thursday, 4/18</a> – Last day of class! Project histories; final project presentations; OMETs</h3>
 
 <!-- MAKE SURE TO ASSIGN THEM TO READ BACK THROUGH THEIR GIT HISTORIES, AND MAYBE EVEN DIFFS. Reflect not only on what you changed, but **why**: what were your goals as you revised each project? What goals stayed the same across the projects? CONNECT THIS BACK TO THE COURSE OUTCOMES IN THE SYLLABUS -->
 
