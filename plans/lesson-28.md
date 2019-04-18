@@ -30,7 +30,7 @@ If you haven't yet filled out your survey, please do so!
 
 I'll leave the room for 10-15 minutes, to give you some privacy; I'll probably go around to the tables by the elevator. Let me know if you want me to come back earlier than that.
 
-EXT: I know many of you have already filled out the survey; as an alternative (or if you're waiting for others to finish), why not head over to the [Tech Comfort Survey](bit.ly/cdm-tech-survey) and compare your answers now to the ones from January?
+EXT: I know many of you have already filled out the survey; as an alternative (or if you're waiting for others to finish), why not head over to the [Tech Comfort Survey](http://bit.ly/cdm-tech-survey) and compare your answers now to the ones from January?
 
 ## 3. Games! <!-- option to play in parallel or in series (twitch-style) -->
 
