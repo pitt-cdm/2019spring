@@ -27,6 +27,8 @@ Note that this may mean finally sacrificing some stretch goal you'd previously s
 
 And please don't forget to update your title passage and credit passage!
 
+<!-- at 10:25, give 15-minute warning and remind them to make plans based on their schedules if need be -->
+
 
 ## 3. Final class preview (5 min)
 
