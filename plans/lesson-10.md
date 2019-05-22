@@ -77,7 +77,7 @@ Take a moment now to read back over your lists. Is there something that stands o
 
 With that chosen subject, write again:
 
-4. What terms or images come to mind when you think of this subject? ... Think about categories of words: actions vs things. Descriptors. 
+4. What terms or images come to mind when you think of this subject? ... Think about categories of words: actions vs things. Descriptors.
 5. Is there anything you're forgetting to add to your list? A line from a song? A color?
 6. Who else might be interested in this? Who, that is, could be your audience?
 
@@ -95,7 +95,7 @@ We'll work here for a while.
 Not everything is just available for any use – even if you can find it on a public website. See my FAQ from last year at [https://cdm2017.majoringinmeta.net/lesson-04/](https://cdm2017.majoringinmeta.net/lesson-04/#key-questions-and-considerations-20-30-min).
 
 Don't miss the screencapture gif of the advanced search filters on Google Images!
-<img src="https://cdm2017.majoringinmeta.net/wp-content/uploads/2017/09/google-images-search-by-usage-rights.gif" alt="screencast of google image search, filtered by usage rights">
+<figure><img src="https://cdm2017.majoringinmeta.net/wp-content/uploads/2017/09/google-images-search-by-usage-rights.gif" alt="screencast of google image search, filtered by usage rights"></figure>
 
 # Homework for next time:
 * **Read** about fonts at [https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/](https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/). Note that this is part 2 of a 3-part series; feel free to read part 1 for more vocabulary about fonts, or part 3 if you get excited about font-learning! But part 2 has the most essential bits.
